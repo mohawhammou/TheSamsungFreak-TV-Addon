@@ -1,37 +1,19 @@
 <items>
-
-
-
-<item>
-
-      <title>German TV</title>
-
-      <thumbnail></thumbnail>
-
-      <fanart></fanart>
-
-      <link>http://ignoreme</link>
-
-      <externallink>https://</externallink>
-
-      <info>Kodi Samsung_Freak TV</info>
-
+<item> 
+<title>[B]German[/B]</title> 
+<thumbnail>http://</thumbnail> 
+<link>http://ignoreme</link> 
+<externallink>.....</externallink>
 </item>
+</items> 
 
- 
 
-<item>
 
-      <title>Poland TV</title>
-
-      <thumbnail></thumbnail>
-
-      <fanart></fanart>
-
-      <link>http://ignoreme</link>
-
-      <externallink>https://</externallink>
-
-      <info>Kodi Samsung_Freak TV</info>
-
+<items> 
+<item> 
+<title>[B]Poland[/B]</title>
+<thumbnail>http://</thumbnail> 
+<link>http://ignoreme</link> 
+<externallink>https://.....</externallink>
 </item>
+</items>
