@@ -2,7 +2,7 @@
 
 <channels> 
 <channel> 
-<name>[B]Poland TV 1[/B]</name>
+<name>[B]Poland TV[/B]</name>
 <thumbnail></thumbnail> 
 <externallink>   </externallink> 
 <fanart></fanart> 
@@ -11,9 +11,18 @@
 
 <channels> 
 <channel> 
-<name>[B]Poland TV 2[/B]</name> 
+<name>[B]Poland VOD[/B]</name> 
 <thumbnail></thumbnail> 
 <externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Poland VOD 4K UHD[/B]</name>
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
