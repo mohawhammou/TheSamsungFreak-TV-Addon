@@ -17,3 +17,21 @@
 <fanart></fanart>
 <info></info>
 </channel>
+
+<channels>
+<channel>
+<name>[B]Robin Hood[/B]</name>
+<thumbnail>http://kodibalkan.com/repo/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/robinhood</externallink>
+<fanart></fanart>
+<info></info>
+</channel> 
+
+<channels>
+<channel>
+<name>[B]XXX[/B]</name>
+<thumbnail></thumbnail>
+<externallink>   </externallink>
+<fanart></fanart>
+<info></info>
+</channel>
