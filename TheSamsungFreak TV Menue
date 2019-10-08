@@ -1,17 +1,20 @@
-   <items>
-   <item> 
-   <title>[B]German[/B]</title> 
-   <thumbnail>http://</thumbnail> 
-   <link>http://ignoreme</link> 
-   <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/German TV</externallink>
-   </item>
-   </items> 
+<layouttype>thumbnail</layouttype> 
 
-   <items> 
-   <item> 
-   <title>[B]Poland[/B]</title>
-   <thumbnail>http://</thumbnail> 
-   <link>http://ignoreme</link> 
-   <externallink>https://.....</externallink>
-   </item>
-   </items>
+
+<channels>
+<channel>
+<name>[B]German[/B]</name>
+<thumbnail></thumbnail>
+<externallink>  </externallink>
+<fanart></fanart>
+<info></info>
+</channel> 
+
+<channels>
+<channel>
+<name>[B]Poland[/B]</name>
+<thumbnail></thumbnail>
+<externallink>  </externallink>
+<fanart></fanart>
+<info></info>
+</channel>
