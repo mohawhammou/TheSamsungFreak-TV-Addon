@@ -1,0 +1,24 @@
+#EXTM3U 
+#EXTINF:-1,Jasmin TV HD 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8|User-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A47.0%29+Gecko%2F20100101+Firefox%2F47.0 
+
+#EXTINF:-1,Hustler HD 
+https://tv.si/ts/HUSTLERHD/stream_multi.m3u8|User-agent=AppleCoreMedia 
+
+#EXTINF:-1,Hustler 
+https://tv.si/ts/XDREAM/stream_wifi_1200k.m3u8|User-agent=AppleCoreMedia 
+
+#EXTINF:-1,Sexation 
+https://tv.si/ts/SEXATION/stream_iptv_2000k.m3u8|User-agent=AppleCoreMedia 
+
+#EXTINF:-1,Dusk 
+https://tv.si/ts/Dusk/stream_iptv_2000k.m3u8|User-agent=AppleCoreMedia 
+
+#EXTINF:-1,Dorcel 
+https://tv.si/ts/DORCEL/stream_iptv_2000k.m3u8|User-agent=AppleCoreMedia 
+
+#EXTINF:-1,Playboy Tv 
+https://tv.si/LIVE/PLAYBOYTV/stream_iptv_2000k.m3u8|User-agent=AppleCoreMedia 
+
+#EXTINF:-1,Passion XXX 
+https://tv.si/ts/SEXT6SENSO/stream_wifi_1200k.m3u8|User-agent=AppleCoreMedia
