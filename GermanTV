@@ -20,7 +20,16 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 3 - 80 Local Channels[/B]</name> 
+<name>[B]German TV 3[/B]</name>
+<thumbnail></thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channel> 
+<name>[B]German TV 4 - 80 Local Channels[/B]</name> 
 <thumbnail></thumbnail> 
 <externallink>http://pastebin.com/raw/xq3Fe1pB</externallink> 
 <fanart></fanart> 
@@ -29,7 +38,7 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 4 - 238 Local Channels[/B]</name> 
+<name>[B]German TV 5 - 238 Local Channels[/B]</name> 
 <thumbnail></thumbnail> 
 <externallink>http://bit.ly/kn-kodi-tv</externallink> 
 <fanart></fanart> 
@@ -38,7 +47,7 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 5 - 434 Local Channels[/B]</name> 
+<name>[B]German TV 6 - 434 Local Channels[/B]</name> 
 <thumbnail></thumbnail> 
 <externallink>http://bit.ly/kn-kodi</externallink> 
 <fanart></fanart> 
