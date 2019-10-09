@@ -1,0 +1,55 @@
+<layouttype>thumbnail</layouttype> 
+
+<channels> 
+<channel> 
+<name>[B]German TV 1[/B]</name>
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]German TV 2[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]German TV 3 - 80 Local Channels[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+<channels> 
+
+<channel> 
+<name>[B]German TV 4 - 238 Local Channels[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]German TV 5 - 434 Local Channels[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]German Local Radio Channels[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink> </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
