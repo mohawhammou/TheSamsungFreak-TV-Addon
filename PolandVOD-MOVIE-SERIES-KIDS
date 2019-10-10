@@ -1,0 +1,27 @@
+<layouttype>thumbnail</layouttype> 
+
+<channels> 
+<channel> 
+<name>[B]Poland VOD - Movie[/B]</name>
+<thumbnail></thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland VOD - Series[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland VOD - Kids[/B]</name><thumbnail></thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
