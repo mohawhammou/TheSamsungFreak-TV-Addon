@@ -1,0 +1,26 @@
+<layouttype>thumbnail</layouttype> 
+
+<channels> 
+<channel> 
+<name>[B]Poland TV 1[/B]</name>
+<thumbnail></thumbnail> 
+<externallink>  </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> <name>[B]Poland TV 2[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland TV 3[/B]</name><thumbnail></thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
