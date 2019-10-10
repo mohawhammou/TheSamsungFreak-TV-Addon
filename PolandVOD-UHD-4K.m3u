@@ -1,0 +1,126 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1" tvg-logo="http://www.mymediaplayer.net/a/mule.jpg" group-title="4 K", The Mule (2018)
+http://www.mymediaplayer.net/a/The.Mule.2018.INTERNAL.HDR.2160p.WEB.H265-DEFLATE.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/Green.Book.2018.4K.png" group-title="4 K", Green Book (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Green.Book.2018.2160p.10bit.HDR.BluRay.8CH.x265.HEVC.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/mortal.jpg" group-title="4 K", Mortal Engines  (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Mortal.Engines.2018.MULTi.2160p.UHD.BluRay.X265-LTS.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/pacific_rim_uprising_2018_4k_ultra-hd_blu-ray.jpg" group-title="4 K", Pacific Rim Uprising  (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Pacific.Rim.Uprising.2018.PL.2160p.10bit.HDR.UHD.BluRay.AC3-5.1x265.HEVC.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/large_szeregowiec-ryan-uhd-cover-min.jpg" group-title="4 K", Szeregowiec Ryan  (1998)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Saving.Private.Ryan.1998.PL.2160p.10bit.HDR.BluRay.DD%205.1.x265.HEVC-PSA.LEKTOR.PL.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/4b60652b8ca7.jpg" group-title="4 K", Venon  (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Venom.2018.PL.2160p.10bit.HDR.BluRay.DTS.AC3.x265.HEVC.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/64f197298c6b.png" group-title="4 K", The Equalizer  (2014)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/The.Equalizer.2014.PL.2160p.10bit.HDR.BluRay.x265.HEVC.AC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/Bohemian.Rhapsody.4K.jpg" group-title="4 K", Bohemian.Rhapsody (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Bohemian.Rhapsody.2018.PL.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA.AC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/Nie%20otwieraj%20oczu.jpg.jpg" group-title="4 K",  Nie otwieraj oczu (2014)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Bird.Box.2018.PL.2160p.10bit.HDR.WEBRip.x265.HEVC.AC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/A%20Star%20Is%20Born.jpg" group-title="4 K", Narodziny Gwiazdy (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/A.Star.Is.Born.2018.2160p.PL.10bit.HDR.BluRay.x265.HEVC.DTS.AC3.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/Avengers_Wojna_bez_granic_UltraHD-Blu-ray.jpg" group-title="4 K", Avengers Wojna bez granic (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Avengers.Infinity.War.2018.2160p.10bit.HDR.BluRay.AC3%205.1.x265.HEVC-DUBBING.PL.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/Dziedzictwo.%20Hereditary.jpg" group-title="4 K", Dziedzictwo Heditary (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Hereditary.2018.2160p.10bit.HDR.BluRay.AC3%205.1.x265.HEVC.Lektor.PL.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/poster_opt.jpg" group-title="4 K", Fury (2014)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Fury.2014.PL.2160p.10bit.HDR.BluRay.x265.HEVC.DTS-HD.MA%205.1.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/tomb_raider_2018_4k_ultra-hd_blu-ray.jpg" group-title="4 K", Tomb Raider (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Tomb.Raider.2018.2160p.PL.10bit.HDR.BluRay.AC3%205.1.x265.HEVC.mkv
+
+#EXTINF:-1 tvg-logo="hhttp://www.mymediaplayer.net/a/Skyscraper.4K.jpg" group-title="4 K", Skyscraper (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Skyscraper.2018.PL.2160p.10bit.HDR.BluRay.x265.HEVCAC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/Czarna%20Pantera.jpg" group-title="4 K", Czarna Pantera (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Black.Panther.2018.Dub.PL.2160p.10bit.HDR.BluRay.DD%205.1.x265.HEVC-PSA.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/The_House_with_a_Clock_in_Its_Walls_%28film%29.png" group-title="4 K", The House with a Clock in Its Walls  (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/The.House.with.a.Clock.in.Its.Walls.2018.DUB.PL.2160p.BluRay.x265.10bit.HDR.HEVC.AC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/ready-player-one-poster-8.jpg" group-title="4 K", Ready Player One (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Ready.Player.One.2018.PL.2160p.10bit.HDR.BluRay.x265.HEVC.AC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.c2S2qvCt15_JYCyw-D8OOAHaJW&pid=15.1&P=0&w=300&h=300" group-title="4 K", Overlord (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Overlord.2018.PL.2160p.BluRay.10bit.HDR.x265.HEVC.AC3.mkv
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/1771/movieposter/captain-america-the-first-avenger-5451ff70d5a31.jpg" group-title="4 K", Captain.America.The.First.Avenger (2011)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Captain.America.The.First.Avenger.2011.PL.2160p.10bit.HDR.BluRay.x265.HEVC.DTS.AC3.mkv
+
+#EXTINF:-1 tvg-logo="http://www.mymediaplayer.net/a/MIF.jpg" group-title="4 K", Mission.Impossible.Fallout (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Mission.Impossible.Fallout.2018.PL.IMAX.2160p.10bit.HDR.BluRay.x265.HEVC.AC3%205.1.mkv
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/337339/movieposter/the-fate-of-the-furious-595819fd25d33.jpg" group-title="4 K", The Fate of the Furious (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/The%20Fate%20of%20the%20Furious%20%282017%29%20%5B2160p%5D%20%5BBluRay.x265.10bit.HEVC.HDR.DTS-HD.MA%207.1.AC3%205.1%5D%20%5BLEKTOR%20%26%20NAPISY%20PL%5D%20%5BENG%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.G4QZT6JWhT0gWJYFsMefjQHaLH&pid=15.1&P=0&w=300&h=300" group-title="4 K", Jumanji (2017)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Jumanji.Welcome.to.the.Jungle.2017.PL.2160p.10bit.HDR.BluRay.x265.HEVC.DTS.AC3.mkv
+
+#EXTINF:-1 tvg-logo="https://bigscreenhooligans.files.wordpress.com/2018/12/hood_main_share_image_PRE-e1546011630160.jpg" group-title="4 K", Robin Hood (2018)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://www.mymediaplayer.net/a/Robin.Hood.2018.2160p.10bit.HDR.BluRay.x265.HEVC.DTS-HD.MA%207.1.mkv
+
+#EXTINF:0 type="video" channelId="-1" tvg-logo="http://br.web.img3.acsta.net/pictures/18/11/01/23/39/0758382.jpg" group-title="4 K", Creed 2 (2018)
+http://www.mymediaplayer.net/a/Creed.II.2018.PL.2160p.10bit.HDR.BluRay.8CH.x265.HEVC.mkv
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/21/89/612189/7673495.3.jpg" group-title="SCI-FI" group-title="PRZYGODOWY" group-title="Sci-Fi" group-title="4K", [COLOR FF06F8F8][B]Chappie[/B][/COLOR]   [COLOR FFFF9500][B](2015)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://avadl.uploadt.com/DL7/Film/Chappie%20%282015%29%20WEB-DL%204K%202160p%20x265_AVADL.CoM.mkv
+
+#EXTINF:-1 tvg-logo="http://www.efilmy.tv/images/thumbs/big/0dcdb5dbdabee572c532aadb826b0a01.jpg" group-title="Komedia" group-title="PRZYGODOWY" group-title="Sci-Fi" group-title="4K", [COLOR FF06F8F8][B]The Ridiculous 6[/B][/COLOR]   [COLOR FFFF9500][B](2015)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://avadl.uploadt.com/DL7/Film/The%20Ridiculous%206%20%282015%29%20WEBRip%204K%202160p%20x265_AVADL.CoM.mkv
+
+#EXTINF:-1 tvg-logo="https://ecsmedia.pl/c/star-wars-the-last-jedi-book-of-the-film-w-iext53375563.jpg""group-title="Sci-Fi" group-title="Przygodowy" group-title="4K" , [COLOR FF06F8F8][B]Star Wars The Last Jedi[/B][/COLOR]   [COLOR FFFF9500][B](2017)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR] 
+https://brontes.feralhosting.com/godnemoz/links/nzb/Star%20Wars%20The%20Last%20Jedi%20%282017%29/Star%20Wars%20The%20Last%20Jedi%20%282017%29%20Remux-2160p.mkv
+
+#EXTINF:-1 tvg-logo="https://www.easons.com/globalassets/5637150827/all/books/entertainment-and-music/entertainment-books/films-cinema--dvd/9780751571769.jpg" group-title="Przygodowy" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]The.Disaster.Artist[/B][/COLOR]   [COLOR FFFF9500][B](2017)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+https://www.wader.es/movies/The.Disaster.Artist.2017.MULTI.2160p.HDR.WEBRip.TrueHD.7.1.x265-GASMASK.mkv
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/74/79/557479/7821525.6.jpg" group-title="Przygodowy" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Tomb Raider[/B][/COLOR]   [COLOR FFFF9500][B](2018)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+https://www.wader.es/movies/Tomb.Raider.2018.MULTi.VF2.2160p.UHD.BluRay.REMUX.HEVC.HDR.TrueHD.Atmos.7.1.DTS-HDMA.AC3.5.1-TSC.mkv
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/96/95/9695/7518091.6.jpg" group-title="Sci-Fi" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Spiderman [/B][/COLOR]   [COLOR FFFF9500][B](2002)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+https://www.wader.es/movies/Spider-Man.Trilogy.2002-2007.2160p.UHD.BLURAY.REMUX.HDR.HEVC.Multi.VFF.TrueHD.Atmos-tlub/Spider-Man.2002.2160p.UHD.BLURAY.REMUX.HDR.HEVC.Multi.VFF.TrueHD.Atmos-tlub.mkv
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/42/81/34281/7537326.6.jpg" group-title="Sci-Fi" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Spiderman 2 [/B][/COLOR]   [COLOR FFFF9500][B](2004)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+https://www.wader.es/movies/Spider-Man.Trilogy.2002-2007.2160p.UHD.BLURAY.REMUX.HDR.HEVC.Multi.VFF.TrueHD.Atmos-tlub/Spider-Man.2.2004.2160p.UHD.BLURAY.REMUX.HDR.HEVC.Multi.VFF.TrueHD.Atmos-tlub.mkv
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/87/13/138713/7533442.6.jpg" group-title="Sci-Fi" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Spider man 3[/B][/COLOR]   [COLOR FFFF9500][B](2007)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+https://www.wader.es/movies/Spider-Man.Trilogy.2002-2007.2160p.UHD.BLURAY.REMUX.HDR.HEVC.Multi.VFF.TrueHD.Atmos-tlub/Spider-Man.3.2007.2160p.UHD.BLURAY.REMUX.HDR.HEVC.Multi.VFF.TrueHD.Atmos-tlub.mkv
+
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/31/80/683180/7641873.6.jpg" group-title="Wojenny" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Furia[/B][/COLOR]   [COLOR FFFF9500][B](2014)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/lxewtwduy0kglv6/110.mkv
+
+#EXTINF:-1 tvg-logo="https://i.wpimg.pl/O/446x660/d.wpimg.pl/1456270049--272341538/tomb-raider.jpg" group-title="Przygodowy" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Tomb Raider[/B][/COLOR]   [COLOR FFFF9500][B](2016)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/d0w0fksc4sx4dvd/111.mkv
+
+EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/89/09/758909/7844367.6.jpg""group-title="Sci-Fi" group-title="Przygodowy" group-title="4K" , [COLOR FF06F8F8][B]Jurassic World: Upadłe królestwo[/B][/COLOR]   [COLOR FFFF9500][B](2018)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR] 
+http://dl.dropboxusercontent.com/s/je4jgwllyjy3bn7/112.mkv
+
+EXTINF:-1 tvg-logo="https://cdn2-www.comingsoon.net/assets/uploads/gallery/underworld-blood-wars/14706927_1589885914370892_2006278252133521019_o.jpg" group-title="Fantasy" group-title="Akcja" group-title="Sci-Fi" group-title="4K", [COLOR FF06F8F8][B]Underworld: Wojny krwi[/B][/COLOR]   [COLOR FFFF9500][B](2018)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/cf4m5m31uf9fdar/113.mkv
+
+EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/38/51/693851/7828203.6.jpg" group-title="SCI-FI" group-title="PRZYGODOWY" group-title="Sci-Fi" group-title="4K", [COLOR FF06F8F8][B]Pacific Rim: Rebelia[/B][/COLOR]   [COLOR FFFF9500][B](2018)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/u5ngxobm48c7k1r/114.mkv
+
+EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXJH8DS/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=300&w=200&format=jpg" group-title="SCI-FI" group-title="PRZYGODOWY" group-title="Sci-Fi" group-title="4K", [COLOR FF06F8F8][B]Thor: Ragnarok[/B][/COLOR]   [COLOR FFFF9500][B](2017)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/r13zx95hq93tmre/115.mkv
+
+#EXTINF:-1 tvg-logo="http://images2.imagebam.com/3a/fb/0c/a27fae845748094.png" group-title="Kryminalny" group-title="Akcja" group-title="Sci-Fi" group-title="4K", [COLOR FF06F8F8][B]Więzień labiryntu: Lek na śmierć[/B][/COLOR]   [COLOR FFFF9500][B](2018)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/d4ji4z8gv39xpk9/14.mkv
+
+#EXTINF:-1 tvg-logo="http://images2.imagebam.com/f0/4d/68/23e533845768994.png" group-title="Fantasy" group-title="Przygodowy" group-title="4K", [COLOR FF06F8F8][B]Więzień labiryntu[/B][/COLOR]   [COLOR FFFF9500][B](2014)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR]
+http://dl.dropboxusercontent.com/s/u9tmnsxtmkfm1qr/10.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_.jpg""group-title="WOJENNY" group-title="Przygodowy" group-title="4K" , [COLOR FF06F8F8][B]12 STRONG[/B][/COLOR]   [COLOR FFFF9500][B](2018)[/B][/COLOR]    [COLOR FFE4FF00][B]4K[/B][/COLOR] 
+https://www84.uptostream.com/qxgrh1c2bc/2160/0/video.mp4
