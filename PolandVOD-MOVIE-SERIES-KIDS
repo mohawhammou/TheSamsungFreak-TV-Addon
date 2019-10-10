@@ -4,7 +4,7 @@
 <channel> 
 <name>[B]Poland VOD - Movie[/B]</name>
 <thumbnail></thumbnail> 
-<externallink>   </externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD-Movies1-3</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
@@ -13,7 +13,7 @@
 <channel> 
 <name>[B]Poland VOD - Series[/B]</name> 
 <thumbnail></thumbnail> 
-<externallink>   </externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD-Series-1-3</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
@@ -21,7 +21,7 @@
 
 <channel> 
 <name>[B]Poland VOD - Kids[/B]</name><thumbnail></thumbnail> 
-<externallink>   </externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD-Kids-1-3</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
