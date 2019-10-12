@@ -1,142 +1,215 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL.de" tvg-logo="http://epg4you.com/logos/rtlhd.png" group-title="TV",RTL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1289.m3u8
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2.de" tvg-logo="http://epg4you.com/logos/rtl2hd.png" group-title="TV",RTL 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1290.m3u8
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="SuperRTL.de" tvg-logo="http://epg4you.com/logos/superrtlhd.png" group-title="TV",SUPER RTL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1291.m3u8
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTLNitro.de" tvg-logo="http://epg4you.com/logos/rtlnitrohd.png" group-title="TV",RTL NITRO
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1292.m3u8
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTLPassion.de" tvg-logo="http://epg4you.com/logos/rtlpassionhd.png" group-title="TV",RTL PASSION
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1293.m3u8
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTLCrime.de" tvg-logo="http://epg4you.com/logos/rtlcrimehd.png" group-title="TV",RTL CRIME
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1294.m3u8
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN.de" tvg-logo="http://epg4you.com/logos/axnhd.png" group-title="TV",AXN DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1295.m3u8
-#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="SkyCinema.de" tvg-logo="http://epg4you.com/logos/skycinema.png" group-title="TV",SKY CINEMA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1296.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="SkyCinemaPlus1.de" tvg-logo="http://epg4you.com/logos/skycinemaplus1hd.png" group-title="TV",SKY CINEMA 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1297.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="SkyCinemaPlus24.de" tvg-logo="http://epg4you.com/logos/skycinemaplus24hd.png" group-title="TV",SKY CINEMA 24
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1298.m3u8
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="SkyAction.de" tvg-logo="http://epg4you.com/logos/skycinemaaction.png" group-title="TV",SKY ACTION
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1299.m3u8
-#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="SkyAtlanticHD.de" tvg-logo="http://epg4you.com/logos/skyatlantic.png" group-title="TV",SKY ATLATNIC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1300.m3u8
-#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="SkyComedy.de" tvg-logo="http://epg4you.com/logos/skycinemacomedyhd.png" group-title="TV",SKY COMEDY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1301.m3u8
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="Kika.de" tvg-logo="http://epg4you.com/logos/kikahd.png" group-title="TV",KIKA TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1302.m3u8
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro7.de" tvg-logo="http://epg4you.com/logos/prosiebenhd.png" group-title="TV",PRO 7
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1303.m3u8
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox.de" tvg-logo="http://epg4you.com/logos/voxhd.png" group-title="TV",VOX DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1304.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF.de" tvg-logo="http://epg4you.com/logos/zdfhd.png" group-title="TV",ZDF TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1305.m3u8
-#EXTINF:-1 tvg-id="Sat1.at" tvg-name="Sat1.at" tvg-logo="http://epg4you.com/logos/sat1.png" group-title="TV",SAT 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1306.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="ARD.de" tvg-logo="http://epg4you.com/logos/daserstehd.png" group-title="TV",ARD 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1307.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv.de" tvg-logo="http://epg4you.com/logos/ntv.png" group-title="TV",NTV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1308.m3u8
-#EXTINF:-1 tvg-id="n24.de" tvg-name="n24.de" tvg-logo="http://epg4you.com/logos/n24.png" group-title="TV",N24
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1309.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="DiscoveryChannel.de" tvg-logo="http://epg4you.com/logos/discoveryhd.png" group-title="TV",DISCOVERY DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1310.m3u8
-#EXTINF:-1 tvg-id="History.de" tvg-name="History.de" tvg-logo="http://epg4you.com/logos/historyhd.png" group-title="TV",HISTORY DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1311.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="NatGeoWild.de" tvg-logo="http://epg4you.com/logos/natgeowildhd.png" group-title="TV",NAT GEO WILD DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1312.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="SkyCinemaHits.de" tvg-logo="http://epg4you.com/logos/skycinemahitshd.png" group-title="TV",SKY HITS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1313.m3u8
-#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="SkySelect1.de" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/102_sky_logo_skyselect1_b.png" group-title="TV",SKY SELECT 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/103_sky_logo_skyselect2_b.png" group-title="TV",SKY SELECT 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/104_sky_logo_skyselect3_b.png" group-title="TV",SKY SELECT 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/105_sky_logo_skyselect4_b.png" group-title="TV",SKY SELECT 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/106_sky_logo_skyselect5_b.png" group-title="TV",SKY SELECT 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1318.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="SkySport1.de" tvg-logo="http://epg4you.com/logos/skysport1.png" group-title="TV",SKY SPORTS 1 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1319.m3u8
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="SkySport2.de" tvg-logo="http://epg4you.com/logos/skysport2.png" group-title="TV",SKY SPORTS 2 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1320.m3u8
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="SkySport3.de" tvg-logo="http://epg4you.com/logos/skysport3-phibruspel.png" group-title="TV",SKY SPORTS 3 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1321.m3u8
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="SkySport4.de" tvg-logo="http://epg4you.com/logos/skysport4.png" group-title="TV",SKY SPORTS 4 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1322.m3u8
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="SkySport5.de" tvg-logo="http://okteve.com/wp-content/uploads/media/80b79e989bbfa216aa3c254453ba153f.jpeg" group-title="TV",SKY SPORTS 5 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1323.m3u8
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="SkySport6.de" tvg-logo="http://epg4you.com/logos/skysport6.png" group-title="TV",SKY SPORTS 6 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1324.m3u8
-#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="SkySportAustria.de" tvg-logo="http://epg4you.com/logos/skysportaustriahd.png" group-title="TV",SKY SPORTS AUSTRIA DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1325.m3u8
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="SkyBundesliga.de" tvg-logo="http://epg4you.com/logos/skysportbundesliga.png" group-title="TV",SKY SPORTS BUNDESLIGA 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1326.m3u8
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="SkyBundesliga2.de" tvg-logo="http://epg4you.com/logos/skysportbundesliga2hd.png" group-title="TV",SKY SPORTS BUNDESLIGA 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1327.m3u8
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="disneychannel.de" tvg-logo="http://epg4you.com/logos/disneychannelhd.png" group-title="TV",DISNEY CHANNEL DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1328.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="DisneyXD.de" tvg-logo="http://epg4you.com/logos/disneyxdhd.png" group-title="TV",DISNEY XD DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1329.m3u8
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNTFilm.de" tvg-logo="http://epg4you.com/logos/tntfilmhd.png" group-title="TV",TNT FILM
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1330.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNTSerie.de" tvg-logo="http://epg4you.com/logos/tntseriehd.png" group-title="TV",TNT SERIES
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1331.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSiebenMaxx.de" tvg-logo="http://epg4you.com/logos/prosiebenmaxxhd.png" group-title="TV",PRO7 MAXX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1332.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="AnimalPlanet.de" tvg-logo="http://epg4you.com/logos/animalplanethd.png" group-title="TV",ANIMAL PLANET DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1333.m3u8
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="NatGeo.de" tvg-logo="http://epg4you.com/logos/nationalgeographichd.png" group-title="TV",NAT GEO DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1334.m3u8
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="NatGeo.de" tvg-logo="http://epg4you.com/logos/nationalgeographichd.png" group-title="TV",NAT GEO PEOPLE DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://8d4a1a46-stream.nmbs.top/c/26/1335.m3u8
+#EXTINF:-1,DE: Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/759
+#EXTINF:-1,DE: Sky Sport +1 US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/761
+#EXTINF:-1,DE: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/829
+#EXTINF:-1,DE: Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/826
+#EXTINF:-1,DE: Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/827
+#EXTINF:-1,DE: Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/828
+#EXTINF:-1,DE: Sky Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/809
+#EXTINF:-1,DE: Dazn Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/830
+#EXTINF:-1,DE: Dazn Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/845
+#EXTINF:-1,DE: Sky FC Bayern
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1665
+#EXTINF:-1,DE: Sky Motorvision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1661
+#EXTINF:-1,DE: Sky UPC Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1663
+#EXTINF:-1,DE: Sky Austria 24 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/796
+#EXTINF:-1,DE: Sky Sport Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/807
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/810
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/831
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/832
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/833
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/834
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/835
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/836
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/837
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/838
+#EXTINF:-1,DE: Sky Sport 3 HD (Only at Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/839
+#EXTINF:-1,DE: Sky Sport 4 HD (Only at Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/840
+#EXTINF:-1,DE: Sky Sport 5 HD (Only at Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/841
+#EXTINF:-1,DE: Sky Sport 6 HD (Only at Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/842
+#EXTINF:-1,DE: Sky Sport 7 HD (Only at Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/843
+#EXTINF:-1,DE: Sky Sport 8 HD (Only at Games)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/844
+#EXTINF:-1,DE: Sky Select 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/825
+#EXTINF:-1,DE: Sky Select 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/824
+#EXTINF:-1,DE: Sky Select 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/823
+#EXTINF:-1,DE: Sky Select 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/822
+#EXTINF:-1,DE: Sky Select 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/821
+#EXTINF:-1,DE: Sky Select 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/820
+#EXTINF:-1,DE: Sky Select 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/819
+#EXTINF:-1,DE: Sky Select 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/818
+#EXTINF:-1,DE: Sky Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/804
+#EXTINF:-1,DE: Sky Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/808
+#EXTINF:-1,DE: Sky Cinema +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/806
+#EXTINF:-1,DE: Sky Cinema +24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/805
+#EXTINF:-1,DE: Sky Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/801
+#EXTINF:-1,DE: Sky Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/799
+#EXTINF:-1,DE: Sky Cinema Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/802
+#EXTINF:-1,DE: Sky Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/786
+#EXTINF:-1,DE: Sky Teleclub Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/751
+#EXTINF:-1,DE: Sky Teleclub Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/750
+#EXTINF:-1,DE: Sky Teleclub Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/749
+#EXTINF:-1,DE: Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/748
+#EXTINF:-1,DE: Sky Teleclub Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/747
+#EXTINF:-1,DE: Sky Teleclub Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/746
+#EXTINF:-1,DE: Sky RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/779
+#EXTINF:-1,DE: Sky RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/778
+#EXTINF:-1,DE: Sky RTL Nitro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/776
+#EXTINF:-1,DE: Sky RTL Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/752
+#EXTINF:-1,DE: Sky RTL Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/813
+#EXTINF:-1,DE: Sky RTL Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/800
+#EXTINF:-1,DE: Sky RTL Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/774
+#EXTINF:-1,DE: Sky Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/812
+#EXTINF:-1,DE: Sky Servus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/784
+#EXTINF:-1,DE: Sky Sat1 Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/777
+#EXTINF:-1,DE: Sky Kinowelt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/791
+#EXTINF:-1,DE: Sky RBB Berlin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1578
+#EXTINF:-1,DE: Sky TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1664
+#EXTINF:-1,DE: Sky SRF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/783
+#EXTINF:-1,DE: Sky ORF 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/782
+#EXTINF:-1,DE: Sky ORF Eins
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/771
+#EXTINF:-1,DE: Sky ORF 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/814
+#EXTINF:-1,DE: ORF Sport +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/772
+#EXTINF:-1,DE: Sky VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/788
+#EXTINF:-1,DE: Sky FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/787
+#EXTINF:-1,DE: Sky One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/753
+#EXTINF:-1,DE: Sky TNT Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/811
+#EXTINF:-1,DE: Sky TNT Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/794
+#EXTINF:-1,DE: Sky TNT Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/758
+#EXTINF:-1,DE: Sky Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/754
+#EXTINF:-1,DE: Sky Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/817
+#EXTINF:-1,DE: Sky Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/795
+#EXTINF:-1,DE: Sky Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/815
+#EXTINF:-1,DE: Sky Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/797
+#EXTINF:-1,DE: Sky Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/816
+#EXTINF:-1,DE: Sky National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/792
+#EXTINF:-1,DE: Sky Nat Geo wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/793
+#EXTINF:-1,DE: Sky History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/762
+#EXTINF:-1,DE: Sky AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/760
+#EXTINF:-1,DE: Sky 13th Street
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/780
+#EXTINF:-1,DE: Sky ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/775
+#EXTINF:-1,DE: Sky ZDF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1666
+#EXTINF:-1,DE: Sky ZDF Neo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1662
+#EXTINF:-1,DE: Sky ZDF Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/790
+#EXTINF:-1,DE: Sky Phoenix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/769
+#EXTINF:-1,DE: Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/798
+#EXTINF:-1,DE: Sky Wdr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/789
+#EXTINF:-1,DE: Sky Sixx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/785
+#EXTINF:-1,DE: Sky Pro 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/773
+#EXTINF:-1,DE: Sky NDR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/768
+#EXTINF:-1,DE: Sky N24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/767
+#EXTINF:-1,DE: Sky N-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/766
+#EXTINF:-1,DE: Sky Romance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/765
+#EXTINF:-1,DE: Sky Krimi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/803
+#EXTINF:-1,DE: Sky Kika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/764
+#EXTINF:-1,DE: Sky Kabel 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/763
+#EXTINF:-1,DE: Sky Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/770
+#EXTINF:-1,DE: Sky Pro 7 Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/757
+#EXTINF:-1,DE: Sky Arte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/756
+#EXTINF:-1,DE: Sky ARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/755
+#EXTINF:-1,DE: Sky 3sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/781
