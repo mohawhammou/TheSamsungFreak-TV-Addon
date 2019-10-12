@@ -23,7 +23,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1322
 #EXTINF:-1,PL: Polsat 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1311
-#plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=EXTINF:-1,PL: Polsat Sport
+#EXTINF:-1,PL: Polsat Sport
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1279
 #EXTINF:-1,PL: Polsat Play
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1320
@@ -61,7 +61,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1264
 #EXTINF:-1,PL: Comedy Central
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1263
-#EXTINF:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=-1,PL: Comedy Central Family
+#EXTINF:-1,PL: Comedy Central Family
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1262
 #EXTINF:-1,PL: Romance
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1276
@@ -85,7 +85,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1260
 #EXTINF:-1,PL: Ale Kino HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=#EXTINF:-1,PL: Disney HD
+#EXTINF:-1,PL: Disney HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1282
 #EXTINF:-1,PL: Polo TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1298
@@ -139,4 +139,3 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1297
 #EXTINF:-1,PL: Music Vox 2 Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1309
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=
