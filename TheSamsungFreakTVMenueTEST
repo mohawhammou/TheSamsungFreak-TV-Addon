@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>[B]German[/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV</externallink>
 <fanart></fanart>
 <info></info>
@@ -12,7 +12,7 @@
 <channels>
 <channel>
 <name>[B]Poland[/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV</externallink>
 <fanart></fanart>
 <info></info>
@@ -30,7 +30,7 @@
 <channels>
 <channel>
 <name>[B]XXX[/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/XXX.m3u</externallink>
 <fanart></fanart>
 <info></info>
