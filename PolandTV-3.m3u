@@ -63,7 +63,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1263
 #EXTINF:-1,PL: Comedy Central Family
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1262
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=#EXTINF:-1,PL: Romance
+#EXTINF:-1,PL: Romance
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1276
 #EXTINF:-1,PL: Sundance HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1270
@@ -131,7 +131,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1294
 #EXTINF:-1,PL: AXN White
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1292
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=#EXTINF:-1,PL: AXN HD
+#EXTINF:-1,PL: AXN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1290
 #EXTINF:-1,PL: Ale Kino
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/SUxA4TPpKt/01sw7eIPQw/1316
