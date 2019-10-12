@@ -3,7 +3,7 @@
 <channels> 
 <channel> 
 <name>[B]German TV 1[/B]</name>
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV-1.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -12,7 +12,7 @@
 
 <channel> 
 <name>[B]German TV 2[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV-2.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -21,7 +21,7 @@
 
 <channel> 
 <name>[B]German TV 3[/B]</name>
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV-3.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -30,7 +30,7 @@
 
 <channel> 
 <name>[B]German TV 4 - 80 Local Channels[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://pastebin.com/raw/xq3Fe1pB</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -39,7 +39,7 @@
 
 <channel> 
 <name>[B]German TV 5 - 238 Local Channels[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.pnghttps://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi-tv</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -48,7 +48,7 @@
 
 <channel> 
 <name>[B]German TV 6 - 434 Local Channels[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -57,7 +57,7 @@
 
 <channel> 
 <name>[B]German Local Radio Channels[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi-radio</externallink> 
 <fanart></fanart> 
 <info></info> 
