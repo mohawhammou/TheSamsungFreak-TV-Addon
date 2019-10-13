@@ -29,7 +29,7 @@
 <channels> 
 
 <channel> 
-<name>[B]Poland VOD[/B]</name> 
+<name>[B]Poland VOD - Movies[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD.m3u</externallink> 
 <fanart></fanart> 
@@ -38,7 +38,7 @@
 <channels> 
 
 <channel> 
-<name>[B]Poland VOD 4K UHD[/B]</name> 
+<name>[B]Poland VOD 4K UHD - Movies[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD-UHD-4K.m3u</externallink> 
 <fanart></fanart> 
@@ -47,7 +47,7 @@
 <channels> 
 
 <channel> 
-<name>[B]Poland VOD Kids[/B]</name> 
+<name>[B]Poland VOD - Kids[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD-Kids-1.m3u</externallink> 
 <fanart></fanart> 
@@ -56,9 +56,9 @@
 <channels> 
 
 <channel> 
-<name>[B]TEST [/B]</name> 
+<name>[B]Poland VOD - Series[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink></externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD-Series-3.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
