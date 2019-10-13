@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1,DE: Sky Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/759
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/759
 #EXTINF:-1,DE: Sky Sport +1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/761
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/761
 #EXTINF:-1,DE: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/829
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/829
 #EXTINF:-1,DE: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/826
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/826
 #EXTINF:-1,DE: Sky Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/827
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/827
 #EXTINF:-1,DE: Sky Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/828
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/828
 #EXTINF:-1,DE: Sky Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/809
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/809
 #EXTINF:-1,DE: Dazn Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/830
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/830
 #EXTINF:-1,DE: Dazn Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/845
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/845
 #EXTINF:-1,DE: Sky FC Bayern
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/1665
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/1665
 #EXTINF:-1,DE: Sky Motorvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/1661
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/1661
 #EXTINF:-1,DE: Sky UPC Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/1663
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/1663
 #EXTINF:-1,DE: Sky Austria 24 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/796
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/796
 #EXTINF:-1,DE: Sky Sport Austria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/807
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/807
 #EXTINF:-1,DE: Sky Bundesliga HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/810
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/810
 #EXTINF:-1,DE: Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/831
+http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/831
 #EXTINF:-1,DE: Sky Bundesliga 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/mVGrgFzRaz/ihNqeLtIgs/832
 #EXTINF:-1,DE: Sky Bundesliga 4 HD
