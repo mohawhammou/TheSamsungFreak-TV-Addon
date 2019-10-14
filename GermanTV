@@ -62,3 +62,12 @@
 <fanart></fanart> 
 <info></info> 
 </channel>
+<channels> 
+
+<channel> 
+<name>[B]German - SGK Live Portal[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>http://sgkodi.de/SGK-Portal/portal.xml</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
