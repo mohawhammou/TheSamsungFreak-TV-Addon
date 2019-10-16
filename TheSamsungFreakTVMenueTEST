@@ -25,7 +25,16 @@
 <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/robinhood</externallink>
 <fanart></fanart>
 <info></info>
-</channel> 
+</channel>
+<channels> 
+
+<channel> 
+<name>[B]Pavoo TV[/B]</name> 
+<thumbnail>http://pavootv.com/repo/icon.png</thumbnail> 
+<externallink>http://pavootv.com/PAVOOTV/menu2.xml</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
 
 <channels>
 <channel>
