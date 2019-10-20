@@ -1,215 +1,549 @@
 #EXTM3U
-#EXTINF:-1,DE: Sky Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/759
-#EXTINF:-1,DE: Sky Sport +1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/761
-#EXTINF:-1,DE: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/829
-#EXTINF:-1,DE: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/826
-#EXTINF:-1,DE: Sky Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/827
-#EXTINF:-1,DE: Sky Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/828
-#EXTINF:-1,DE: Sky Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/809
-#EXTINF:-1,DE: Dazn Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/830
-#EXTINF:-1,DE: Dazn Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/845
-#EXTINF:-1,DE: Sky FC Bayern
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1665
-#EXTINF:-1,DE: Sky Motorvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1661
-#EXTINF:-1,DE: Sky UPC Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1663
-#EXTINF:-1,DE: Sky Austria 24 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/796
-#EXTINF:-1,DE: Sky Sport Austria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/807
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/810
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/831
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/832
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/833
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/834
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/835
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/836
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/837
-#EXTINF:-1,DE: Sky Bundesliga 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/838
-#EXTINF:-1,DE: Sky Sport 3 HD (Only at Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/839
-#EXTINF:-1,DE: Sky Sport 4 HD (Only at Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/840
-#EXTINF:-1,DE: Sky Sport 5 HD (Only at Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/841
-#EXTINF:-1,DE: Sky Sport 6 HD (Only at Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/842
-#EXTINF:-1,DE: Sky Sport 7 HD (Only at Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/843
-#EXTINF:-1,DE: Sky Sport 8 HD (Only at Games)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/844
-#EXTINF:-1,DE: Sky Select 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/825
-#EXTINF:-1,DE: Sky Select 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/824
-#EXTINF:-1,DE: Sky Select 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/823
-#EXTINF:-1,DE: Sky Select 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/822
-#EXTINF:-1,DE: Sky Select 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/821
-#EXTINF:-1,DE: Sky Select 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/820
-#EXTINF:-1,DE: Sky Select 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/819
-#EXTINF:-1,DE: Sky Select 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/818
-#EXTINF:-1,DE: Sky Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/804
-#EXTINF:-1,DE: Sky Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/808
-#EXTINF:-1,DE: Sky Cinema +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/806
-#EXTINF:-1,DE: Sky Cinema +24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/805
-#EXTINF:-1,DE: Sky Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/801
-#EXTINF:-1,DE: Sky Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/799
-#EXTINF:-1,DE: Sky Cinema Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/802
-#EXTINF:-1,DE: Sky Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/786
-#EXTINF:-1,DE: Sky Teleclub Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/751
-#EXTINF:-1,DE: Sky Teleclub Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/750
-#EXTINF:-1,DE: Sky Teleclub Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/749
-#EXTINF:-1,DE: Sky Cinema Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/748
-#EXTINF:-1,DE: Sky Teleclub Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/747
-#EXTINF:-1,DE: Sky Teleclub Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/746
-#EXTINF:-1,DE: Sky RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/779
-#EXTINF:-1,DE: Sky RTL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/778
-#EXTINF:-1,DE: Sky RTL Nitro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/776
-#EXTINF:-1,DE: Sky RTL Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/752
-#EXTINF:-1,DE: Sky RTL Living
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/813
-#EXTINF:-1,DE: Sky RTL Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/800
-#EXTINF:-1,DE: Sky RTL Passion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/774
-#EXTINF:-1,DE: Sky Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/812
-#EXTINF:-1,DE: Sky Servus TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/784
-#EXTINF:-1,DE: Sky Sat1 Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/777
-#EXTINF:-1,DE: Sky Kinowelt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/791
-#EXTINF:-1,DE: Sky RBB Berlin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1578
-#EXTINF:-1,DE: Sky TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1664
-#EXTINF:-1,DE: Sky SRF 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/783
-#EXTINF:-1,DE: Sky ORF 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/782
-#EXTINF:-1,DE: Sky ORF Eins
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/771
-#EXTINF:-1,DE: Sky ORF 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/814
-#EXTINF:-1,DE: ORF Sport +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/772
-#EXTINF:-1,DE: Sky VOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/788
-#EXTINF:-1,DE: Sky FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/787
-#EXTINF:-1,DE: Sky One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/753
-#EXTINF:-1,DE: Sky TNT Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/811
-#EXTINF:-1,DE: Sky TNT Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/794
-#EXTINF:-1,DE: Sky TNT Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/758
-#EXTINF:-1,DE: Sky Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/754
-#EXTINF:-1,DE: Sky Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/817
-#EXTINF:-1,DE: Sky Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/795
-#EXTINF:-1,DE: Sky Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/815
-#EXTINF:-1,DE: Sky Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/797
-#EXTINF:-1,DE: Sky Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/816
-#EXTINF:-1,DE: Sky National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/792
-#EXTINF:-1,DE: Sky Nat Geo wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/793
-#EXTINF:-1,DE: Sky History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/762
-#EXTINF:-1,DE: Sky AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/760
-#EXTINF:-1,DE: Sky 13th Street
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/780
-#EXTINF:-1,DE: Sky ZDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/775
-#EXTINF:-1,DE: Sky ZDF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1666
-#EXTINF:-1,DE: Sky ZDF Neo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/1662
-#EXTINF:-1,DE: Sky ZDF Info
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/790
-#EXTINF:-1,DE: Sky Phoenix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/769
-#EXTINF:-1,DE: Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/798
-#EXTINF:-1,DE: Sky Wdr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/789
-#EXTINF:-1,DE: Sky Sixx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/785
-#EXTINF:-1,DE: Sky Pro 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/773
-#EXTINF:-1,DE: Sky NDR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/768
-#EXTINF:-1,DE: Sky N24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/767
-#EXTINF:-1,DE: Sky N-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/766
-#EXTINF:-1,DE: Sky Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/765
-#EXTINF:-1,DE: Sky Krimi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/803
-#EXTINF:-1,DE: Sky Kika
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/764
-#EXTINF:-1,DE: Sky Kabel 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/763
-#EXTINF:-1,DE: Sky Dmax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/770
-#EXTINF:-1,DE: Sky Pro 7 Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/757
-#EXTINF:-1,DE: Sky Arte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/756
-#EXTINF:-1,DE: Sky ARD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/755
-#EXTINF:-1,DE: Sky 3sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/FRxES3imRy/z8cq9jJAfh/781
+#EXTINF:-1,13th Street FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14060
+#EXTINF:-1,3sat DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12341
+#EXTINF:-1,3sat HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16497
+#EXTINF:-1,Animal Planet FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9561
+#EXTINF:-1,ANIXE DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3445
+#EXTINF:-1,ANIXE FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14576
+#EXTINF:-1,Arte FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16496
+#EXTINF:-1,Astro TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12339
+#EXTINF:-1,AXN DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9562
+#EXTINF:-1,AXN HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/17498
+#EXTINF:-1,Boomerang DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12315
+#EXTINF:-1,BR Fernsehen Nord DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12322
+#EXTINF:-1,BR Fernsehen Nord HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16495
+#EXTINF:-1,Cartoon Network DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15565
+#EXTINF:-1,CLASSICA DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9555
+#EXTINF:-1,Comedy Central FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/17280
+#EXTINF:-1,Das Erste FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16493
+#EXTINF:-1,Das Erste HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/22824
+#EXTINF:-1,Das Erste DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3451
+#EXTINF:-1,Deluxe Music DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9554
+#EXTINF:-1,Deluxe Music FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14057
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12334
+#EXTINF:-1,Discovery Channel FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14063
+#EXTINF:-1,Discovery Channel DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3426
+#EXTINF:-1,Disney Channel DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3622
+#EXTINF:-1,Disney Channel FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14056
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14312
+#EXTINF:-1,Disney Junior HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15566
+#EXTINF:-1,Disney XD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9547
+#EXTINF:-1,DMAX DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3431
+#EXTINF:-1,DMAX HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19683
+#EXTINF:-1,E! HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15567
+#EXTINF:-1,Eurosport 1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19101
+#EXTINF:-1,Eurosport 1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3435
+#EXTINF:-1,Eurosport 2 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15568
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/17281
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19099
+#EXTINF:-1,Fix & Foxi DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/20263
+#EXTINF:-1,Folx TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12319
+#EXTINF:-1,FOX FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14055
+#EXTINF:-1,FOX HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3425
+#EXTINF:-1,Heimatkanal DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9558
+#EXTINF:-1,History DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3424
+#EXTINF:-1,History FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14311
+#EXTINF:-1,hr-Fernsehen DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12316
+#EXTINF:-1,JukeBox DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15579
+#EXTINF:-1,Junior DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/20207
+#EXTINF:-1,Kabel Eins FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1649
+#EXTINF:-1,KiKa DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1648
+#EXTINF:-1,KiKA FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16492
+#EXTINF:-1,Kinowelt TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12291
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15750
+#EXTINF:-1,Motorvision TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9564
+#EXTINF:-1,MTV HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15759
+#EXTINF:-1,n-tv DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3449
+#EXTINF:-1,n-tv FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14054
+#EXTINF:-1,Welt FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14573
+#EXTINF:-1,Welt DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3448
+#EXTINF:-1,National Geographic Wild FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14062
+#EXTINF:-1,National Geographic Wild HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1646
+#EXTINF:-1,National Geographic FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14053
+#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16488
+#EXTINF:-1,NDR HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3443
+#EXTINF:-1,Nickelodeon DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19100
+#EXTINF:-1,Nick/MTV+ HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14571
+#EXTINF:-1,Phoenix DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3454
+#EXTINF:-1,Phoenix FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16487
+#EXTINF:-1,Planet HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18394
+#EXTINF:-1,Popcorn Select 1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18234
+#EXTINF:-1,Popcorn Select 2 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18235
+#EXTINF:-1,Popcorn Select 3 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18236
+#EXTINF:-1,Popcorn Select 4 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18237
+#EXTINF:-1,Popcorn Select 5 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18238
+#EXTINF:-1,Popcorn Select 6 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/18239
+#EXTINF:-1,ProSieben DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1642
+#EXTINF:-1,ProSieben FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14052
+#EXTINF:-1,ProSieben Maxx DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3444
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14051
+#EXTINF:-1,rbb Fernsehen Berlin FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15747
+#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15754
+#EXTINF:-1,One FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15751
+#EXTINF:-1,Regio TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12328
+#EXTINF:-1,Romance TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/13111
+#EXTINF:-1,RTL Crime HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15570
+#EXTINF:-1,RTL FS DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12300
+#EXTINF:-1,RTL HB NDS DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12299
+#EXTINF:-1,RTL FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14049
+#EXTINF:-1,RTL HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3825
+#EXTINF:-1,RTL II DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3826
+#EXTINF:-1,RTL II FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14050
+#EXTINF:-1,RTL Living HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3202
+#EXTINF:-1,RTL Plus DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19655
+#EXTINF:-1,NITRO DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1639
+#EXTINF:-1,NITRO FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14048
+#EXTINF:-1,RTL WEST DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12298
+#EXTINF:-1,RTL Passion FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9563
+#EXTINF:-1,RTLplus DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12297
+#EXTINF:-1,SAT.1 Gold DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12309
+#EXTINF:-1,SAT.1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14047
+#EXTINF:-1,SAT.1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1637
+#EXTINF:-1,ServusTV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12307
+#EXTINF:-1,Sixx DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9560
+#EXTINF:-1,Sixx FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14046
+#EXTINF:-1,Sky 1 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9557
+#EXTINF:-1,Sky Atlantic FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14306
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15574
+#EXTINF:-1,Sky Cinema +24 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1633
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15575
+#EXTINF:-1,Sky Action FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14307
+#EXTINF:-1,Sky Action DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3432
+#EXTINF:-1,Sky Cinema DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1634
+#EXTINF:-1,Sky Family FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15576
+#EXTINF:-1,Sky Cinema FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14061
+#EXTINF:-1,Sky Cinema HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3420
+#EXTINF:-1,Sky Hits FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14305
+#EXTINF:-1,Sky Comedy DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3430
+#EXTINF:-1,Sky Emotion DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1631
+#EXTINF:-1,Sky Krimi DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3429
+#EXTINF:-1,Sky Nostalgie DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9556
+#EXTINF:-1,Sky Select 1 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11265
+#EXTINF:-1,Sky Select 2 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11266
+#EXTINF:-1,E! DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16502
+#EXTINF:-1,Sky Select 3 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11267
+#EXTINF:-1,Sky Select 4 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11268
+#EXTINF:-1,Sky Select 5 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11269
+#EXTINF:-1,Sky Select 6 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11270
+#EXTINF:-1,Sky Select 7 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11271
+#EXTINF:-1,Sky Select 8 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11272
+#EXTINF:-1,Sky Select 9 Live DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12290
+#EXTINF:-1,Sky Sport 1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14559
+#EXTINF:-1,Sky Sport 1 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1479
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7326
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7335
+#EXTINF:-1,Sky Sport 11 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7336
+#EXTINF:-1,Sky Sport 2 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14560
+#EXTINF:-1,Sky Sport 2 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1480
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7327
+#EXTINF:-1,Sky Sport 3 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14561
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7328
+#EXTINF:-1,Sky Sport 4 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14562
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7329
+#EXTINF:-1,Sky Sport 5 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14563
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7330
+#EXTINF:-1,Sky Sport 6 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14564
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7331
+#EXTINF:-1,Sky Sport 7 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14565
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7332
+#EXTINF:-1,Sky Sport 8 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14566
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7333
+#EXTINF:-1,Sky Sport 9 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14567
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7334
+#EXTINF:-1,Sky Sport Austria DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9551
+#EXTINF:-1,Sky Sport Austria HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15578
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14550
+#EXTINF:-1,Sky Bundesliga 1 HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3436
+#EXTINF:-1,Sky Bundesliga 1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7338
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14558
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7347
+#EXTINF:-1,Sky Bundesliga 2 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14551
+#EXTINF:-1,Sky Bundesliga 2 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7339
+#EXTINF:-1,Sky Bundesliga 3 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14552
+#EXTINF:-1,Sky Bundesliga 3 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7340
+#EXTINF:-1,Sky Bundesliga 4 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14553
+#EXTINF:-1,Sky Bundesliga 4 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7341
+#EXTINF:-1,Sky Bundesliga 5 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14554
+#EXTINF:-1,Sky Bundesliga 5 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7342
+#EXTINF:-1,Sky Bundesliga 6 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14555
+#EXTINF:-1,Sky Bundesliga 6 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7343
+#EXTINF:-1,Sky Bundesliga 7 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/24735
+#EXTINF:-1,Sky Bundesliga 7 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7344
+#EXTINF:-1,Sky Bundesliga 8 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14556
+#EXTINF:-1,Sky Bundesliga 8 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7345
+#EXTINF:-1,Sky Bundesliga 9 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14557
+#EXTINF:-1,Sky Bundesliga 9 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7346
+#EXTINF:-1,Sky Sport News DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14577
+#EXTINF:-1,Sky Sport News HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/7337
+#EXTINF:-1,Spiegel TV Wissen DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14045
+#EXTINF:-1,SPORT1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/9552
+#EXTINF:-1,SPORT1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15745
+#EXTINF:-1,sportdigital DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3841
+#EXTINF:-1,sportdigital FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16582
+#EXTINF:-1,SR Fernsehen FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15749
+#EXTINF:-1,Super RTL DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3456
+#EXTINF:-1,Super RTL FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14044
+#EXTINF:-1,SWR BW FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16486
+#EXTINF:-1,SWR DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12296
+#EXTINF:-1,Syfy HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14043
+#EXTINF:-1,tagesschau24 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15752
+#EXTINF:-1,Tele 5 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12325
+#EXTINF:-1,Tele 5 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/20208
+#EXTINF:-1,TLC DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12324
+#EXTINF:-1,TLC FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15757
+#EXTINF:-1,TNT Comedy HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15577
+#EXTINF:-1,TNT Serie FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14303
+#EXTINF:-1,TOGGO plus DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12323
+#EXTINF:-1,Universal Channel HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3439
+#EXTINF:-1,Comedy Central DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12317
+#EXTINF:-1,VOX FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/14291
+#EXTINF:-1,VOX DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1630
+#EXTINF:-1,WDR DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3442
+#EXTINF:-1,Welt der Wunder DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12305
+#EXTINF:-1,ZDF DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/1629
+#EXTINF:-1,ZDF HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19098
+#EXTINF:-1,ZDF FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16484
+#EXTINF:-1,ZDFinfo DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/12295
+#EXTINF:-1,ZDFneo DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3453
+#EXTINF:-1,ZDFneo FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16482
+#EXTINF:-1,ZDFinfo FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16483
+#EXTINF:-1,Zee One DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/13112
+#EXTINF:-1,Zee One FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/15748
+#EXTINF:-1,München TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/11659
+#EXTINF:-1,FC Bayern FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16767
+#EXTINF:-1,Sky Hits DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16803
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16573
+#EXTINF:-1,Sat. 1 Emotions DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16836
+#EXTINF:-1,ProSieben Fun HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16627
+#EXTINF:-1,TNT Film FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16628
+#EXTINF:-1,Sport 1+ FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/17166
+#EXTINF:-1,Kabel Eins Doku DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/17167
+#EXTINF:-1,DW English DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/17300
+#EXTINF:-1,Baby TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19622
+#EXTINF:-1,DW Arabia DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19620
+#EXTINF:-1,Comedy Central HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19677
+#EXTINF:-1,Auto Motor und Sport HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19658
+#EXTINF:-1,Sony TV HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/3447
+#EXTINF:-1,Kabel Eins Classics DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/16581
+#EXTINF:-1,One TV FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/23043
+#EXTINF:-1,WDR HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/23437
+#EXTINF:-1,German Tote TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/23945
+#EXTINF:-1,Eagle Cinema Abenteuer HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26323
+#EXTINF:-1,Eagle Cinema Aktion HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26324
+#EXTINF:-1,Eagle Cinema Horror HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26328
+#EXTINF:-1,Eagle Cinema Romantisch HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26332
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26330
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26327
+#EXTINF:-1,Eagle Cinema Premiere HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26331
+#EXTINF:-1,Eagle Cinema Drama HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26326
+#EXTINF:-1,Eagle Cinema Thriller HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26334
+#EXTINF:-1,Eagle Cinema Sci-Fi HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26333
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26325
+#EXTINF:-1,Eagle Cinema Komodie HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26329
+#EXTINF:-1,Nick Jr. DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/19165
+#EXTINF:-1,Sky Cinema Animation DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/26817
+#EXTINF:-1,RTL UHD 4K DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27220
+#EXTINF:-1,Servus TV HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27566
+#EXTINF:-1,Oberpfalz TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27632
+#EXTINF:-1,Genius Family DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27655
+#EXTINF:-1,EO TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27657
+#EXTINF:-1,HGTV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27656
+#EXTINF:-1,DW Deutsch DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/27791
+#EXTINF:-1,DAZN 1 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/23280
+#EXTINF:-1,DAZN 2 FHD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/23281
+#EXTINF:-1,Health TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28231
+#EXTINF:-1,Allgäu TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28232
+#EXTINF:-1,Baden TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28233
+#EXTINF:-1,Niederbayern TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28234
+#EXTINF:-1,Kabel Journal DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28236
+#EXTINF:-1,L TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28237
+#EXTINF:-1,noa4 Hamburg HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28238
+#EXTINF:-1,noa4 Norderstedt HD DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28239
+#EXTINF:-1,OK Koblenz DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28240
+#EXTINF:-1,OK Trier DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28241
+#EXTINF:-1,Regio TV Schwaben DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28242
+#EXTINF:-1,RFO DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28243
+#EXTINF:-1,Rhein Neckar Fernsehen DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28244
+#EXTINF:-1,RheinMain TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28245
+#EXTINF:-1,TRP 1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28246
+#EXTINF:-1,TV Mainfranken DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28247
+#EXTINF:-1,tv.berlin DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28248
+#EXTINF:-1,Westerwald TV DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28249
+#EXTINF:-1,Sylt1 DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28250
+#EXTINF:-1,Das Erste HD (B) DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28251
+#EXTINF:-1,Sky Cinema Dark Future DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28535
+#EXTINF:-1,Crime + Investigation DE
+http://channels227070.clientportal.link:80/salem/zlunJL9054/28577
