@@ -1,69 +1,84 @@
 #EXTM3U
-#EXTINF:-1,#
+#EXTINF:0 type="video" channelId="-1", Harry Potter i Kamień Filozoficzny (2001) 
+https://stream.freedisc.pl/video/13039171/harry-poter-i-kamie-filozoficzny-pl-1.mp4
+#EXTINF:0 type="video" channelId="-1", Harry Potter i więzień Azkabanu (2004) 
+https://stream.freedisc.pl/video/532404/harry-potter-wiezien-askabanu-dubbing.mp4
+#EXTINF:0 type="video" channelId="-1", Harry Potter i Czara Ognia (2005) 
+https://stream.freedisc.pl/video/5981211/2005-harry-potter-i-czara-ognia-dubbing.mp4
+#EXTINF:0 type="video" channelId="-1", Harry Potter i Zakon Feniksa (2007) 
+https://stream.freedisc.pl/video/8747859/5-harry-potter-i-zakon-feniksa-2007.mp4
+#EXTINF:0 type="video" channelId="-1", Harry Potter i Książę Półkrwi (2009) 
+https://stream.freedisc.pl/video/4588706/harry-potter-i-ksi-pkrwi-2009.mp4
+#EXTINF:0 type="video" channelId="-1", Harry Potter i Insygnia Śmierci: Część I (2010) 
+https://stream.freedisc.pl/video/6157417/harry-potter-i-insygnia-mierci-cz-i.mp4
+#EXTINF:0 type="video" channelId="-1", Harry Potter i Insygnia śmierci Część II 
+https://stream.freedisc.pl/video/6157526/harry-potter-i-insygnia-mierci-cz-ii.mp4
+
+#EXTINF:-1,Spider Man Far From Home
 https://network3.internetowa.tv/movies/Spider-Man-Far-From-Home-2019-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,The Balkan 
 https://network3.internetowa.tv/movies/The-Balkan-Line-PL-SUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Manou
 https://network3.internetowa.tv/movies/Manou-the-Swift-PL-DUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Shaft
 https://network3.internetowa.tv/movies/Shaft-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Krasue
 https://network3.internetowa.tv/movies/krasue-inhuman-kiss-PL-SUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Girls with Balls
 https://network3.internetowa.tv/movies/Girls-with-Balls-2018-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Mamusie bez synusiow
 https://network3.internetowa.tv/movies/Mamusie-bez-synusiow-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Porwanie Stelli
 https://network3.internetowa.tv/movies/Porwanie-Stelli-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Szescioraczki  
 https://network3.internetowa.tv/movies/Szescioraczki-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Sharon
 https://network3.internetowa.tv/movies/Sharon-Tate-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Justice League vs the Fatal Five
 https://network3.internetowa.tv/movies/Justice-League-vs-the-Fatal-Five-PL-SUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Godzilla King of the Monsters
 https://network3.internetowa.tv/movies/Godzilla-King-of-the-Monsters-2019-PL-DUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Batman vs Teenage Mutant Ninja Turtles
 https://network3.internetowa.tv/movies/Batman-vs-Teenage-Mutant-Ninja-Turtles-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Deadwood
 https://network3.internetowa.tv/movies/Deadwood-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,What-Men-Want
 https://network3.internetowa.tv/movies/What-Men-Want-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Escape-Room
 https://network3.internetowa.tv/movies/Escape-Room-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Iron-Sky-The-Coming-Race
 https://network3.internetowa.tv/movies/Iron-Sky-The-Coming-Race-2019.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Shazam
 https://network3.internetowa.tv/movies/Shazam-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Captain-Marvel
 https://network3.internetowa.tv/movies/Captain-Marvel-2018-PL-SUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,John-Wick-3
 https://network3.internetowa.tv/movies/John-Wick-3-2019-PL-SUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Miszmasz-czyli-Kogel-Mogel-3
 https://network3.internetowa.tv/movies/Miszmasz-czyli-Kogel-Mogel-3-Lektor-PL.mp4
 #EXTINF:-1,#
 https://network3.internetowa.tv/movies/Kobiety-mafii-2-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Men-in-Black-International
 https://network3.internetowa.tv/movies/Men-in-Black-International-PL-SUB.mp4
-#EXTINF:-1,#
+#EXTINF:-1,The-Hole-in-the-Ground
 https://network3.internetowa.tv/movies/The-Hole-in-the-Ground-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,El-Hijo
 https://network3.internetowa.tv/movies/El-Hijo-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Nazi-Overlord
 https://network3.internetowa.tv/movies/Nazi-Overlord-2018-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Artcic-Apocalypse
 https://network3.internetowa.tv/movies/Artcic-Apocalypse-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Backdraft
 https://network3.internetowa.tv/movies/Backdraft-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,The-Curse-of-La-Llorona
 https://network3.internetowa.tv/movies/The-Curse-of-La-Llorona-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Fighting-with-My-Family
 https://network3.internetowa.tv/movies/Fighting-with-My-Family-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Monster-Island
 https://network3.internetowa.tv/movies/Monster-Island-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Hakowanie-swiata-the-great-hack
 https://network3.internetowa.tv/movies/Hakowanie-swiata-the-great-hack-2019-Lektor-PL.mp4
-#EXTINF:-1,#
+#EXTINF:-1,Diablo-Wyscig-o-wszystko
 https://network3.internetowa.tv/movies/Diablo-Wyscig-o-wszystko-2019-PL.mp4
 #EXTINF:-1,Justice League vs the Fatal Five (2019)
 https://network3.internetowa.tv/movies/Justice-League-vs-the-Fatal-Five-PL-SUB.mp4
