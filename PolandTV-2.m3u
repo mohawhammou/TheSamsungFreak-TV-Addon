@@ -1,141 +1,87 @@
 #EXTM3U
-#EXTINF:-1,PL: Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1307
-#EXTINF:-1,PL: Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1312
-#EXTINF:-1,PL: Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1291
-#EXTINF:-1,PL: N sport+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1325
-#EXTINF:-1,PL: Canal + Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1313
-#EXTINF:-1,PL: Polsat Sport Extrea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1278
-#EXTINF:-1,PL: Canal +2 Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1280
-#EXTINF:-1,PL: TVP Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1319
-#EXTINF:-1,PL: Super Polsat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1267
-#EXTINF:-1,PL: Sport Klub
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1261
-#EXTINF:-1,PL: Polsat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1322
-#EXTINF:-1,PL: Polsat 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1311
-#EXTINF:-1,PL: Polsat Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1279
-#EXTINF:-1,PL: Polsat Play
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1320
-#EXTINF:-1,PL: Polsat Cafe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1301
-#EXTINF:-1,PL: Polsat Film HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1273
-#EXTINF:-1,PL: Polsat Viasat Explore HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1272
-#EXTINF:-1,PL: Polsat Viasat Nature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1271
-#EXTINF:-1,PL: Kuchina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1281
-#EXTINF:-1,PL: Mini Mini
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1302
-#EXTINF:-1,PL: TVN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1303
-#EXTINF:-1,PL: Film box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1304
-#EXTINF:-1,PL: Filmbox Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1295
-#EXTINF:-1,PL: Filmbox Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1324
-#EXTINF:-1,PL: Filmbox Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1288
-#EXTINF:-1,PL: Filmbox Arthouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1286
-#EXTINF:-1,PL: Canal+ Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1306
-#EXTINF:-1,PL: Canal+ Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1277
-#EXTINF:-1,PL: Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1300
-#EXTINF:-1,PL: Cinemax 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1264
-#EXTINF:-1,PL: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1263
-#EXTINF:-1,PL: Comedy Central Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1262
-#EXTINF:-1,PL: Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1276
-#EXTINF:-1,PL: Sundance HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1270
-#EXTINF:-1,PL: HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1285
-#EXTINF:-1,PL: HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1283
-#EXTINF:-1,PL: HBO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1284
-#EXTINF:-1,PL: CBS Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1258
-#EXTINF:-1,PL: CBS Europa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1257
-#EXTINF:-1,PL: CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1256
-#EXTINF:-1,PL: TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1268
-#EXTINF:-1,PL: Travel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1260
-#EXTINF:-1,PL: Ale Kino HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1265
-#EXTINF:-1,PL: Disney HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1282
-#EXTINF:-1,PL: Polo TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1298
-#EXTINF:-1,PL: Lech
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1310
-#EXTINF:-1,PL: E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1275
-#EXTINF:-1,PL: TVN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1314
-#EXTINF:-1,PL: TVP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1299
-#EXTINF:-1,PL: TVP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1318
-#EXTINF:-1,PL: TVN 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1315
-#EXTINF:-1,PL: TVN Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1321
-#EXTINF:-1,PL: Kino Polska
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1305
-#EXTINF:-1,PL: Discovery SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1323
-#EXTINF:-1,PL: Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1287
-#EXTINF:-1,PL: History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1308
-#EXTINF:-1,PL: Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1274
-#EXTINF:-1,PL: National Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1289
-#EXTINF:-1,PL: Planete
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1317
-#EXTINF:-1,PL: TeleToon+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1266
-#EXTINF:-1,PL: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1293
-#EXTINF:-1,PL: Bloomborg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1296
-#EXTINF:-1,PL: TVN Fabula HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1269
-#EXTINF:-1,PL: TVP ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1259
-#EXTINF:-1,PL: TVP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1294
-#EXTINF:-1,PL: AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1292
-#EXTINF:-1,PL: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1290
-#EXTINF:-1,PL: Ale Kino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1316
-#EXTINF:-1,PL: MTV Polska
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1297
-#EXTINF:-1,PL: Music Vox 2 Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://boxoffiec.rocks:8080/aXebKxAn1P/N28hUTtx6O/1309
+#EXTINF:0,Canal+
+http://api5.telewizjastreamer.com/Canal/tracks-v1a1/mono.m3u8?token=2452d049d84b8d6157645cc2ed179804c64c1914-0a8dbb5754654d5322a0f0d15a39bf42-1571631736-1571545336
+#EXTINF:0,HBO HD
+http://api5.telewizjastreamer.com/HBOtest/tracks-v1a1/mono.m3u8?token=5fcf17e7bd3d9d6ca79e06c4291b8db5a96db7ee-cb7baab523d3ae36b1cc33fc4462efc2-1571631831-1571545431
+#EXTINF:0,HBO 2
+http://api5.telewizjastreamer.com/HBO2test/tracks-v1a1/mono.m3u8?token=c7d51ad01b21aab118a2a75be5ab41df55089374-ee56a9ac05e5ab1db25be1bafa98d7b8-1571631870-1571545470
+#EXTINF:0,AXN WHITE
+http://api6.telewizjastreamer.com/axnwhite/tracks-v1a1/mono.m3u8?token=d17ca6f50269cc2dd836f7c219f9562c2e253b6d-abdef91123bf9e9c2be2d9f1c9ecde46-1571631903-1571545503
+#EXTINF:0,Comedy Central
+http://api6.telewizjastreamer.com/comedycentral/tracks-v1a1/mono.m3u8?token=f1d9aa248503ebd7af6df67370897401c7588d8a-b1dfcb3871367f89484455bfd7cd5faf-1571631933-1571545533
+#EXTINF:0,CANAL+_SPORT
+http://api5.telewizjastreamer.com/CanalSport_/tracks-v1a1/mono.m3u8?token=dc605eab4bad4108ed4bbf668a6101211d0c6834-38137fe75e779a2465b470bf5e46a691-1571632047-1571545647
+#EXTINF:0,CANAL+_SPORT_2
+http://api5.telewizjastreamer.com/canal-sport-2-hd/tracks-v1a1/mono.m3u8?token=a2f72b208ffbf5e4a57af39d97e3066fdcbedda5-fe7bad0e7969628ba0373146f7c0f17b-1571632070-1571545670
+#EXTINF:0,TVP Sport
+http://api5.telewizjastreamer.com/tvpsport/tracks-v1a1/mono.m3u8?token=d8f94170cca9d837cc468e082af0f5448d861bef-e2a50db24b5e7988dcc07aa919eb6232-1571632114-1571545714
+#EXTINF:0,Eleven Sports 1
+http://telewizjastreamer.com/run/co.m3u8?sid=F5357911&id=11633&q=tvhd
+#EXTINF:0,Eleven Sports 2
+http://telewizjastreamer.com/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
+#EXTINF:0,Eleven Sports 3
+http://telewizjastreamer.com/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
+#EXTINF:0,Polsat Sport Extra
+https://ul.cdn946.net:8443/hls/48mweuli210.m3u8?s=l7F4N_3y20J65lYLCK7_DA&e=1571567420
+#EXTINF:0,Polsat Sport News
+http://telewizjastreamer.com/run/co.m3u8?sid=20DE3CF8&id=13227&q=tvhd
+#EXTINF:0,Polsat Sport Fight
+http://telewizjastreamer.com/run/co.m3u8?sid=F3CF3C96&id=12311&q=tvhd
+#EXTINF:0,POLSAT SPORT PREMIUM 1
+http://api6.telewizjastreamer.com/ps1/preview.mp4?token=ed3f9777f9b880af0545bf827a65089df67c2420-804c8a9001059a25a1e858037d73cfff-1571632295-1571545895
+#EXTINF:0,POLSAT SPORT PREMIUM 2
+http://api5.telewizjastreamer.com/PS2/index.m3u8?token=595753692346a32fbb03567663f8a087b4bc5e1d-89956432db4cc26929a6395103bcb637-1571632324-1571545924
+#EXTINF:0,Eurosport
+http://api6.telewizjastreamer.com/euro1test/tracks-v1a1/mono.m3u8?token=a9235972190f9b43bc5c957fcd5d4924e4084a21-4d1dddb14f25142ed2d75d0890097c76-1571632344-1571545944
+#EXTINF:0,Eurosport 2
+http://api5.telewizjastreamer.com/EuroSport2/tracks-v1a1/mono.m3u8?token=90ccda21121228659fdd54831774ea526fb100cc-5650a4c3a7f96e307b8d9f9c24553e7a-1571632362-1571545962
+#EXTINF:0,TVP1 HD
+http://api5.telewizjastreamer.com/tvp-1-hd/tracks-v1a1/mono.m3u8?token=ea6081400ff511d6bf39f945604a3ce4db499b65-5b6f31241a9e89b7ddd845e9f844ad79-1571632404-1571546004
+#EXTINF:0,TVN
+http://api5.telewizjastreamer.com/TVN___streamtelewizjastreamer/tracks-v1a1/mono.m3u8?token=3493e13c438c1a3bcfe499520e0dea4b2270f13c-95edbcf811a15ae3da69f4ab2bfd1532-1571632447-1571546047
+#EXTINF:0,TVN 7
+http://api5.telewizjastreamer.com/3_su__/tracks-v1a1/mono.m3u8?token=d359604f3dfb3207df17d12f5cbe906f4c0fd92f-0871f7b9c9a30dbf2215f11b493e40a2-1571632473-1571546073
+#EXTINF:0,Polsat
+http://api5.telewizjastreamer.com/Polsat_HD/tracks-v1a1/mono.m3u8?token=4a9ec93f07f5c1bdddd72f2f42b7f9e95687cf2a-5e7e61d64fcb7ec370b133cd2eddca48-1571632512-1571546112
+#EXTINF:0,POLSAT 2
+http://telewizjastreamer.com/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
+#EXTINF:0,Polsat 1
+http://telewizjastreamer.com/run/co.m3u8?sid=984144FB&id=11938&q=tv
+#EXTINF:0,TTV
+http://api5.telewizjastreamer.com/TTV/tracks-v1a1/mono.m3u8?token=047027e0301be4ff9cd211b6a07e44d98133408b-c1d669ced1d3f5923fd270cf47808e55-1571632660-1571546260
+#EXTINF:0,TV PULS
+http://api5.telewizjastreamer.com/Puls_/tracks-v1a1/mono.m3u8?token=07a19cdbb0eeacfee97e989181f3fcdeb2fa6216-d5cbcf76c7a47ddb8595c2ba31fcf286-1571632683-1571546283
+#EXTINF:0,PULS 2
+http://api5.telewizjastreamer.com/14_/tracks-v1a1/mono.m3u8?token=41162d928fe5d9be33ba4b2b6e446029ccafc870-831e6ca2f862a16684dcd6ca893106a3-1571632722-1571546322
+#EXTINF:0,TV4
+http://api5.telewizjastreamer.com/Czworka/tracks-v1a1/mono.m3u8?token=2fe78432404734f306cc3e2640422ddb8661a47e-39ce0097bc03d0c2e3c4187527b0db37-1571632745-1571546345
+#EXTINF:0,TV6
+http://api5.telewizjastreamer.com/Szostka/tracks-v1a1/mono.m3u8?token=93ff357cd6f0cf2c4e1447359595893a1b2f549b-01bb1342a4bfac183b58f58ecd070c23-1571632775-1571546375
+#EXTINF:0,Polsat Cafe HD
+http://telewizjastreamer.com/run/co.m3u8?sid=564F662D&id=11441&q=tvhd
+#EXTINF:0,POLSAT PLAY
+http://telewizjastreamer.com/run/co.m3u8?sid=504A45C5&id=11379&q=tvhd
+#EXTINF:0,Polsat Doku HD
+http://telewizjastreamer.com/run/co.m3u8?sid=0267FF41&id=13302&q=tvhd
+#EXTINF:0,CI POLSAT
+http://telewizjastreamer.com/run/co.m3u8?sid=F9A05338&id=11306&q=tv
+#EXTINF:0,DISCOVERY
+http://api5.telewizjastreamer.com/Discovery/tracks-v1a1/mono.m3u8?token=8bf94409cc86bdf3e06a406ce41c838b2541b9d3-1f85f02ac8571459c441dcdd71d3e494-1571633057-1571546657
+#EXTINF:0,Polsat Viasat Nature
+http://telewizjastreamer.com/run/co.m3u8?sid=57304801&id=4195&q=tv
+#EXTINF:0,Polsat Viasat Explore
+http://telewizjastreamer.com/run/co.m3u8?sid=C708000D&id=4196&q=tvhd
+#EXTINF:0,Polsat Viasat History
+http://telewizjastreamer.com/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
+#EXTINF:0,NAT GEO WILD
+http://api5.telewizjastreamer.com/natgeowild/tracks-v1a1/mono.m3u8?token=4adc90b93521740d6de9e62a8c53fa4d3f375d0c-aab09564f19b95b3651cd38bf2ea176f-1571633190-1571546790
+#EXTINF:0,Cartoon Network
+http://api5.telewizjastreamer.com/cartoon-network/tracks-v1a1/mono.m3u8?token=93ee3eda467691d153a326317515d931e85065ba-29a6e612e63c5e46a2a102bc6310647e-1571633217-1571546817
+#EXTINF:0,Polsat News
+http://telewizjastreamer.com/run/co.m3u8?sid=6A563CAF&id=1574&q=tvhd
+#EXTINF:0,Polsat News 2
+http://telewizjastreamer.com/run/co.m3u8?sid=CA4E96D7&id=1575&q=tv
+#EXTINF:0,Superstajca
+http://telewizjastreamer.com/run/co.m3u8?sid=A8F24DC5&id=1577&q=tv
+#EXTINF:0,Polsat Music HD
+http://telewizjastreamer.com/run/co.m3u8?sid=B9EFC54E&id=10259&q=tvhd
