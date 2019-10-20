@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,13th Street FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14060
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14060
 #EXTINF:-1,3sat DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12341
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12341
 #EXTINF:-1,3sat HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16497
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16497
 #EXTINF:-1,Animal Planet FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9561
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9561
 #EXTINF:-1,ANIXE DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3445
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3445
 #EXTINF:-1,ANIXE FHD DE
 http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14576
 #EXTINF:-1,Arte FHD DE
@@ -308,9 +308,9 @@ http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15578
 #EXTINF:-1,Sky Bundesliga 1 DE
 http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14550
 #EXTINF:-1,Sky Bundesliga 1 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3436
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3436
 #EXTINF:-1,Sky Bundesliga 1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7338
+plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7338
 #EXTINF:-1,Sky Bundesliga 10 DE
 http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14558
 #EXTINF:-1,Sky Bundesliga 10 FHD DE
