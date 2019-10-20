@@ -1,87 +1,421 @@
 #EXTM3U
-#EXTINF:0,Canal+
-http://api5.telewizjastreamer.com/Canal/tracks-v1a1/mono.m3u8?token=2452d049d84b8d6157645cc2ed179804c64c1914-0a8dbb5754654d5322a0f0d15a39bf42-1571631736-1571545336
-#EXTINF:0,HBO HD
-http://api5.telewizjastreamer.com/HBOtest/tracks-v1a1/mono.m3u8?token=5fcf17e7bd3d9d6ca79e06c4291b8db5a96db7ee-cb7baab523d3ae36b1cc33fc4462efc2-1571631831-1571545431
-#EXTINF:0,HBO 2
-http://api5.telewizjastreamer.com/HBO2test/tracks-v1a1/mono.m3u8?token=c7d51ad01b21aab118a2a75be5ab41df55089374-ee56a9ac05e5ab1db25be1bafa98d7b8-1571631870-1571545470
-#EXTINF:0,AXN WHITE
-http://api6.telewizjastreamer.com/axnwhite/tracks-v1a1/mono.m3u8?token=d17ca6f50269cc2dd836f7c219f9562c2e253b6d-abdef91123bf9e9c2be2d9f1c9ecde46-1571631903-1571545503
-#EXTINF:0,Comedy Central
-http://api6.telewizjastreamer.com/comedycentral/tracks-v1a1/mono.m3u8?token=f1d9aa248503ebd7af6df67370897401c7588d8a-b1dfcb3871367f89484455bfd7cd5faf-1571631933-1571545533
-#EXTINF:0,CANAL+_SPORT
-http://api5.telewizjastreamer.com/CanalSport_/tracks-v1a1/mono.m3u8?token=dc605eab4bad4108ed4bbf668a6101211d0c6834-38137fe75e779a2465b470bf5e46a691-1571632047-1571545647
-#EXTINF:0,CANAL+_SPORT_2
-http://api5.telewizjastreamer.com/canal-sport-2-hd/tracks-v1a1/mono.m3u8?token=a2f72b208ffbf5e4a57af39d97e3066fdcbedda5-fe7bad0e7969628ba0373146f7c0f17b-1571632070-1571545670
-#EXTINF:0,TVP Sport
-http://api5.telewizjastreamer.com/tvpsport/tracks-v1a1/mono.m3u8?token=d8f94170cca9d837cc468e082af0f5448d861bef-e2a50db24b5e7988dcc07aa919eb6232-1571632114-1571545714
-#EXTINF:0,Eleven Sports 1
-http://telewizjastreamer.com/run/co.m3u8?sid=F5357911&id=11633&q=tvhd
-#EXTINF:0,Eleven Sports 2
-http://telewizjastreamer.com/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
-#EXTINF:0,Eleven Sports 3
-http://telewizjastreamer.com/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
-#EXTINF:0,Polsat Sport Extra
-https://ul.cdn946.net:8443/hls/48mweuli210.m3u8?s=l7F4N_3y20J65lYLCK7_DA&e=1571567420
-#EXTINF:0,Polsat Sport News
-http://telewizjastreamer.com/run/co.m3u8?sid=20DE3CF8&id=13227&q=tvhd
-#EXTINF:0,Polsat Sport Fight
-http://telewizjastreamer.com/run/co.m3u8?sid=F3CF3C96&id=12311&q=tvhd
-#EXTINF:0,POLSAT SPORT PREMIUM 1
-http://api6.telewizjastreamer.com/ps1/preview.mp4?token=ed3f9777f9b880af0545bf827a65089df67c2420-804c8a9001059a25a1e858037d73cfff-1571632295-1571545895
-#EXTINF:0,POLSAT SPORT PREMIUM 2
-http://api5.telewizjastreamer.com/PS2/index.m3u8?token=595753692346a32fbb03567663f8a087b4bc5e1d-89956432db4cc26929a6395103bcb637-1571632324-1571545924
-#EXTINF:0,Eurosport
-http://api6.telewizjastreamer.com/euro1test/tracks-v1a1/mono.m3u8?token=a9235972190f9b43bc5c957fcd5d4924e4084a21-4d1dddb14f25142ed2d75d0890097c76-1571632344-1571545944
-#EXTINF:0,Eurosport 2
-http://api5.telewizjastreamer.com/EuroSport2/tracks-v1a1/mono.m3u8?token=90ccda21121228659fdd54831774ea526fb100cc-5650a4c3a7f96e307b8d9f9c24553e7a-1571632362-1571545962
-#EXTINF:0,TVP1 HD
-http://api5.telewizjastreamer.com/tvp-1-hd/tracks-v1a1/mono.m3u8?token=ea6081400ff511d6bf39f945604a3ce4db499b65-5b6f31241a9e89b7ddd845e9f844ad79-1571632404-1571546004
-#EXTINF:0,TVN
-http://api5.telewizjastreamer.com/TVN___streamtelewizjastreamer/tracks-v1a1/mono.m3u8?token=3493e13c438c1a3bcfe499520e0dea4b2270f13c-95edbcf811a15ae3da69f4ab2bfd1532-1571632447-1571546047
-#EXTINF:0,TVN 7
-http://api5.telewizjastreamer.com/3_su__/tracks-v1a1/mono.m3u8?token=d359604f3dfb3207df17d12f5cbe906f4c0fd92f-0871f7b9c9a30dbf2215f11b493e40a2-1571632473-1571546073
-#EXTINF:0,Polsat
-http://api5.telewizjastreamer.com/Polsat_HD/tracks-v1a1/mono.m3u8?token=4a9ec93f07f5c1bdddd72f2f42b7f9e95687cf2a-5e7e61d64fcb7ec370b133cd2eddca48-1571632512-1571546112
-#EXTINF:0,POLSAT 2
-http://telewizjastreamer.com/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
-#EXTINF:0,Polsat 1
-http://telewizjastreamer.com/run/co.m3u8?sid=984144FB&id=11938&q=tv
-#EXTINF:0,TTV
-http://api5.telewizjastreamer.com/TTV/tracks-v1a1/mono.m3u8?token=047027e0301be4ff9cd211b6a07e44d98133408b-c1d669ced1d3f5923fd270cf47808e55-1571632660-1571546260
-#EXTINF:0,TV PULS
-http://api5.telewizjastreamer.com/Puls_/tracks-v1a1/mono.m3u8?token=07a19cdbb0eeacfee97e989181f3fcdeb2fa6216-d5cbcf76c7a47ddb8595c2ba31fcf286-1571632683-1571546283
-#EXTINF:0,PULS 2
-http://api5.telewizjastreamer.com/14_/tracks-v1a1/mono.m3u8?token=41162d928fe5d9be33ba4b2b6e446029ccafc870-831e6ca2f862a16684dcd6ca893106a3-1571632722-1571546322
-#EXTINF:0,TV4
-http://api5.telewizjastreamer.com/Czworka/tracks-v1a1/mono.m3u8?token=2fe78432404734f306cc3e2640422ddb8661a47e-39ce0097bc03d0c2e3c4187527b0db37-1571632745-1571546345
-#EXTINF:0,TV6
-http://api5.telewizjastreamer.com/Szostka/tracks-v1a1/mono.m3u8?token=93ff357cd6f0cf2c4e1447359595893a1b2f549b-01bb1342a4bfac183b58f58ecd070c23-1571632775-1571546375
-#EXTINF:0,Polsat Cafe HD
-http://telewizjastreamer.com/run/co.m3u8?sid=564F662D&id=11441&q=tvhd
-#EXTINF:0,POLSAT PLAY
-http://telewizjastreamer.com/run/co.m3u8?sid=504A45C5&id=11379&q=tvhd
-#EXTINF:0,Polsat Doku HD
-http://telewizjastreamer.com/run/co.m3u8?sid=0267FF41&id=13302&q=tvhd
-#EXTINF:0,CI POLSAT
-http://telewizjastreamer.com/run/co.m3u8?sid=F9A05338&id=11306&q=tv
-#EXTINF:0,DISCOVERY
-http://api5.telewizjastreamer.com/Discovery/tracks-v1a1/mono.m3u8?token=8bf94409cc86bdf3e06a406ce41c838b2541b9d3-1f85f02ac8571459c441dcdd71d3e494-1571633057-1571546657
-#EXTINF:0,Polsat Viasat Nature
-http://telewizjastreamer.com/run/co.m3u8?sid=57304801&id=4195&q=tv
-#EXTINF:0,Polsat Viasat Explore
-http://telewizjastreamer.com/run/co.m3u8?sid=C708000D&id=4196&q=tvhd
-#EXTINF:0,Polsat Viasat History
-http://telewizjastreamer.com/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
-#EXTINF:0,NAT GEO WILD
-http://api5.telewizjastreamer.com/natgeowild/tracks-v1a1/mono.m3u8?token=4adc90b93521740d6de9e62a8c53fa4d3f375d0c-aab09564f19b95b3651cd38bf2ea176f-1571633190-1571546790
-#EXTINF:0,Cartoon Network
-http://api5.telewizjastreamer.com/cartoon-network/tracks-v1a1/mono.m3u8?token=93ee3eda467691d153a326317515d931e85065ba-29a6e612e63c5e46a2a102bc6310647e-1571633217-1571546817
-#EXTINF:0,Polsat News
-http://telewizjastreamer.com/run/co.m3u8?sid=6A563CAF&id=1574&q=tvhd
-#EXTINF:0,Polsat News 2
-http://telewizjastreamer.com/run/co.m3u8?sid=CA4E96D7&id=1575&q=tv
-#EXTINF:0,Superstajca
-http://telewizjastreamer.com/run/co.m3u8?sid=A8F24DC5&id=1577&q=tv
-#EXTINF:0,Polsat Music HD
-http://telewizjastreamer.com/run/co.m3u8?sid=B9EFC54E&id=10259&q=tvhd
+#EXTINF:-1 tvg-id="" tvg-name="13 Ulica HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/13ulicahd.png" group-title="LIVE: Poland",13 Ulica HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adventure HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/adventurehd.png" group-title="LIVE: Poland",Adventure HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/amc.png" group-title="LIVE: Poland",AMC Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnblack.png" group-title="LIVE: Poland",AXN Black
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN Polska HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnhd.png" group-title="LIVE: Poland",AXN Polska HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axn.png" group-title="LIVE: Poland",AXN Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN Spin HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnspinhd.png" group-title="LIVE: Poland",AXN Spin HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/axnwhite.png" group-title="LIVE: Poland",AXN White
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Xtra" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoveryturboxtra.png" group-title="LIVE: Poland",Discovery Turbo Xtra
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ale kino+ FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/alekinoplushd.png" group-title="LIVE: Poland",Ale kino+ FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animalanet HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/animalplanethd.png" group-title="LIVE: Poland",Animalanet HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/bbcearth.png" group-title="LIVE: Poland",BBC Earth HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC First FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/bbchd.png" group-title="LIVE: Poland",BBC First FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/boomerang.png" group-title="LIVE: Poland",Boomerang HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + 1 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplus1hd.png" group-title="LIVE: Poland",Canal + 1 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Dokument FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusdiscoveryhd.png" group-title="LIVE: Poland",Canal + Dokument FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Family FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusfamily.png" group-title="LIVE: Poland",Canal + Family FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Film FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusfilmhd.png" group-title="LIVE: Poland",Canal + Film FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motowizja FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/motowizjatv.png" group-title="LIVE: Poland",Motowizja FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Seriale FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplusserialehd.png" group-title="LIVE: Poland",Canal + Seriale FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WP Telewizja" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbsdrama.png" group-title="LIVE: Poland",WP Telewizja
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Europa FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbseuropa.png" group-title="LIVE: Poland",CBS Europa FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbsreality.png" group-title="LIVE: Poland",CBS Reality
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Family Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentralfamilypl.png" group-title="LIVE: Poland",Comedy Central Family Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplushd.png" group-title="LIVE: Poland",Canal + FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Sport FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplussport.png" group-title="LIVE: Poland",Canal + Sport FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL + Sport 2 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/canalplussport2hd.png" group-title="LIVE: Poland",CANAL + Sport 2 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cartoonnethd.png" group-title="LIVE: Poland",Cartoon Network FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cinemaxhd.png" group-title="LIVE: Poland",Cinemax HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cinemax2hd.png" group-title="LIVE: Poland",Cinemax 2 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentral.png" group-title="LIVE: Poland",Comedy Central Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Crime & Investigation FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/24146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Domo+ FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/domoplushd.png" group-title="LIVE: Poland",Domo+ FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverychannelhd.png" group-title="LIVE: Poland",Discovery Channel FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Historia" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoveryhistoria.png" group-title="LIVE: Poland",Discovery Historia
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverylife.png" group-title="LIVE: Poland",Discovery Life FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverysciencehd.png" group-title="LIVE: Poland",Discovery Science FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Xtra FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoveryturboxtrahd.png" group-title="LIVE: Poland",Discovery Turbo Xtra FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/metrotv.png" group-title="LIVE: Poland",Metro
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneychannelhd.png" group-title="LIVE: Poland",Disney Channel HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneyjunior.png" group-title="LIVE: Poland",Disney Junior
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/disneyxd.png" group-title="LIVE: Poland",Disney XD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eleven.png" group-title="LIVE: Poland",Eleven Sports 1 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/elevensports.png" group-title="LIVE: Poland",Eleven Sports 2 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/elevenextrahd.png" group-title="LIVE: Poland",Eleven Sports 3 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Eleven Sports 4 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Epic Drama
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eentertainmenthd.png" group-title="LIVE: Poland",E! Entertainment FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport1hd.png" group-title="LIVE: Poland",Eurosport 1 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport2hd.png" group-title="LIVE: Poland",Eurosport 2 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/extremesportshd.png" group-title="LIVE: Poland",Extreme Sports FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FightBox HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fightboxhd.png" group-title="LIVE: Poland",FightBox HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Klub FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fightklubhdpl.png" group-title="LIVE: Poland",Fight Klub FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Action" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxaction.png" group-title="LIVE: Poland",FilmBox Action
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Family" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxfamily.png" group-title="LIVE: Poland",FilmBox Family
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kino TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmbox.png" group-title="LIVE: Poland",Kino TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Premium HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxpremium.png" group-title="LIVE: Poland",FilmBox Premium HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fokus TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fokustv.png" group-title="LIVE: Poland",Fokus TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy Polska HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxcomedyhd.png" group-title="LIVE: Poland",FOX Comedy Polska HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxcomedy.png" group-title="LIVE: Poland",FOX Comedy Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Polska HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxhd.png" group-title="LIVE: Poland",FOX Polska HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 Polska HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/h2hd.png" group-title="LIVE: Poland",H2 Polska HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hbo1hd.png" group-title="LIVE: Poland",HBO FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hbo2hd.png" group-title="LIVE: Poland",HBO 2 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hbo3hd.png" group-title="LIVE: Poland",HBO 3 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eska Rock TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hiphoptvpl.png" group-title="LIVE: Poland",Eska Rock TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/historyhd.png" group-title="LIVE: Poland",History HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/investigationdiscoveryhd.png" group-title="LIVE: Poland",Investigation Discovery FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kino Polska Muzyka" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kinopolskamuzyka.png" group-title="LIVE: Poland",Kino Polska Muzyka
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kino Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kinopolska.png" group-title="LIVE: Poland",Kino Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuchnia + FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kuchniaplushd.png" group-title="LIVE: Poland",Kuchnia + FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/lifetimehd.png" group-title="LIVE: Poland",Lifetime HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvlivehd.png" group-title="LIVE: Poland",MTV Rocks
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvpolska.png" group-title="LIVE: Poland",MTV Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/mtvlivehd.png" group-title="LIVE: Poland",MTV Live HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/20424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MiniMini + HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/miniminiplushd.png" group-title="LIVE: Poland",MiniMini + HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ntl.png" group-title="LIVE: Poland",NTL
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nationalgeographichd.png" group-title="LIVE: Poland",National Geographic FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeo.png" group-title="LIVE: Poland",National Geographic Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic People HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeopeoplehd.png" group-title="LIVE: Poland",National Geographic People HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeowildhd.png" group-title="LIVE: Poland",National Geographic Wild HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/natgeowild.png" group-title="LIVE: Poland",National Geographic Wild
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickjr.png" group-title="LIVE: Poland",Nick Jr
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nickelodeon.png" group-title="LIVE: Poland",Nickelodeon
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/powertv.png" group-title="LIVE: Poland",Power TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD  PL" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hgtv.png" group-title="LIVE: Poland",HGTV HD  PL
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planete + Polska HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/planeteplushd.png" group-title="LIVE: Poland",Planete + Polska HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polo TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polotv.png" group-title="LIVE: Poland",Polo TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polonia 1" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polonia1.png" group-title="LIVE: Poland",Polonia 1
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsat2hd.png" group-title="LIVE: Poland",Polsat 2 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat 2" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsat2.png" group-title="LIVE: Poland",Polsat 2
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Café HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatcafehd.png" group-title="LIVE: Poland",Polsat Café HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Film HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatfilmhd.png" group-title="LIVE: Poland",Polsat Film HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsathd.png" group-title="LIVE: Poland",Polsat HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JimJam Polsat" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/jimjampolsat.png" group-title="LIVE: Poland",JimJam Polsat
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat News 2" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatnews2.png" group-title="LIVE: Poland",Polsat News 2
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat News HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatnewshd.png" group-title="LIVE: Poland",Polsat News HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsat.png" group-title="LIVE: Poland",Polsat
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Doku HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Doku HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/20123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Music HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Music HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/21527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsatay HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatplayhd.png" group-title="LIVE: Poland",Polsatay HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsatay" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatplay.png" group-title="LIVE: Poland",Polsatay
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Romans" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatromans.png" group-title="LIVE: Poland",Polsat Romans
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatsportextrahd.png" group-title="LIVE: Poland",Polsat Sport Extra HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatsportfighthd.png" group-title="LIVE: Poland",Polsat Sport Fight FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 1 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 2 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 3 PPV FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 3 PPV FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 4 PPV FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 4 PPV FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 5 PPV FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 5 PPV FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 6 PPV FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport Premium 6 PPV FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/17470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatsporthd.png" group-title="LIVE: Poland",Polsat Sport HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Polsat HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/superpolsatpl.png" group-title="LIVE: Poland",Super Polsat HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Viasat History HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/polsatviasathistory.png" group-title="LIVE: Poland",Polsat Viasat History HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Puls 2" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/puls2.png" group-title="LIVE: Poland",TV Puls 2
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Romance TV Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/romancetvhd.png" group-title="LIVE: Poland",Romance TV Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Scifi Universal FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Scifi Universal FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/20124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stars TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/starstv.png" group-title="LIVE: Poland",Stars TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele 5" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tele5-lichoridas.png" group-title="LIVE: Poland",Tele 5
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tlchd.png" group-title="LIVE: Poland",TLC HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tlc.png" group-title="LIVE: Poland",TLC
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tnthd.png" group-title="LIVE: Poland",TNT FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOTV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/totvpl.png" group-title="LIVE: Poland",TOTV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TTV FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ttv.png" group-title="LIVE: Poland",TTV FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tv4hd.png" group-title="LIVE: Poland",TV 4 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV6 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tv6.png" group-title="LIVE: Poland",TV6 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Info FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpinfohdpl.png" group-title="LIVE: Poland",TVP Info FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn24hd.png" group-title="LIVE: Poland",TVN 24 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN 7 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn7hd.png" group-title="LIVE: Poland",TVN 7 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Fabuła FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnfabula.png" group-title="LIVE: Poland",TVN Fabuła FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnhd.png" group-title="LIVE: Poland",TVN FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Style FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnstylehd.png" group-title="LIVE: Poland",TVN Style FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Style" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnstyle.png" group-title="LIVE: Poland",TVN Style
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnturbohd.png" group-title="LIVE: Poland",TVN Turbo FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvnturbo.png" group-title="LIVE: Poland",TVN Turbo
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN24Bis HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn24bis.png" group-title="LIVE: Poland",TVN24Bis HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN 7" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn7.png" group-title="LIVE: Poland",TVN 7
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/13539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn24.png" group-title="LIVE: Poland",TVN 24
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvn.png" group-title="LIVE: Poland",TVN
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP 1 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvp1hd.png" group-title="LIVE: Poland",TVP 1 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP 2 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvp2hd.png" group-title="LIVE: Poland",TVP 2 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Warszawa" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvp3.png" group-title="LIVE: Poland",TVP 3 Warszawa
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP ABC" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpabc.png" group-title="LIVE: Poland",TVP ABC
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Historia" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvphistoria.png" group-title="LIVE: Poland",TVP Historia
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Info" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpinfo.png" group-title="LIVE: Poland",TVP Info
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Seriale" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpseriale.png" group-title="LIVE: Poland",TVP Seriale
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Sport FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvpsporthd.png" group-title="LIVE: Poland",TVP Sport FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Kultura" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",TVP Kultura
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/24147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvs.png" group-title="LIVE: Poland",TVS
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/12820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/traceurban.png" group-title="LIVE: Poland",Trace Urban
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/davincilearning.png" group-title="LIVE: Poland",Da Vinci Learning
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Polska" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vh1.png" group-title="LIVE: Poland",VH1 Polska
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/voxmusic.png" group-title="LIVE: Poland",VOX Music TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zest TV (18+)" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zesttv.png" group-title="LIVE: Poland",Zest TV (18+)
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="N Sport + FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nsportplushd.png" group-title="LIVE: Poland",N Sport + FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon + FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/teletoonplushd-lichoridas.png" group-title="LIVE: Poland",Teletoon + FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/15206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 Fun Dance" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/4funfitanddance.png" group-title="LIVE: Poland",4 Fun Dance
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 Fun Gold Hits" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/4fungoldhits.png" group-title="LIVE: Poland",4 Fun Gold Hits
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 Fun TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/4funtv.png" group-title="LIVE: Poland",4 Fun TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Action" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cbsaction.png" group-title="LIVE: Poland",CBS Action
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/filmboxarthouse.png" group-title="LIVE: Poland",FilmBox Arthouse
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stopklatka TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/stopklatkatv.png" group-title="LIVE: Poland",Stopklatka TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Republika" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvrepublika.png" group-title="LIVE: Poland",TV Republika
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Rozrywka" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvprozrywka.png" group-title="LIVE: Poland",TVP Rozrywka
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vod150.png" group-title="LIVE: Poland",VOD 205
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vod150.png" group-title="LIVE: Poland",VOD 206
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/vod150.png" group-title="LIVE: Poland",VOD 207
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/zoomtv.png" group-title="LIVE: Poland",Zoom TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Polska HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportklub.png" group-title="LIVE: Poland",Sport Klub Polska HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Puls HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvplushdpl.png" group-title="LIVE: Poland",TV Puls HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/16606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATM Rozrywka" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/atmrozrywka.png" group-title="LIVE: Poland",ATM Rozrywka
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/17040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore Polsat FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Viasat Explore Polsat FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/18387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Travel Channel FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/18389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 6 HD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",TV 6 HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/18393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/tvphd.png" group-title="LIVE: Poland",TVP FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/18392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WPolsce.pl" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",WPolsce.pl
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/19084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature Polsat" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/viasatnature.png" group-title="LIVE: Poland",Viasat Nature Polsat
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/18388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Nicktoons Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentralfamilypl.png" group-title="LIVE: Poland",Comedy Central Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Family Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/comedycentralfamilypl.png" group-title="LIVE: Poland",Comedy Central Family Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/paramountchannelhd.png" group-title="LIVE: Poland",Paramount Channel Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nowa TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nowatv.png" group-title="LIVE: Poland",Nowa TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wateranet" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Wateranet
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Okazje" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",TV Okazje
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discopolomusic.png" group-title="LIVE: Poland",Disco Polo Music
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foodnetworkhd.png" group-title="LIVE: Poland",Food Network FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature Polsat FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/viasatnaturehd.png" group-title="LIVE: Poland",Viasat Nature Polsat FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Sport News FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/babytv.png" group-title="LIVE: Poland",Baby TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/22303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eskatv.png" group-title="LIVE: Poland",Eska TV Extra
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",VOD 208
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Brit Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/bbcbrit.png" group-title="LIVE: Poland",BBC Brit Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle Polska FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",BBC Lifestyle Polska FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cnn.png" group-title="LIVE: Poland",CNN FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC CBeebies" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",BBC CBeebies
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/23427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/8tvpl.png" group-title="LIVE: Poland",Eska TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/11197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Games FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Games FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/24376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png" group-title="LIVE: Poland",Polsat Rodzina FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/24377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-logo="" group-title="LIVE: Poland",Discovery Life
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="LIVE: Poland",Discovery Channel
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery " tvg-logo="" group-title="LIVE: Poland",Investigation Discovery 
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Extra HD" tvg-logo="" group-title="LIVE: Poland",FilmBox Extra HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Polonia" tvg-logo="" group-title="LIVE: Poland",TVP Polonia
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedCarpet FHD" tvg-logo="" group-title="LIVE: Poland",RedCarpet FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sundancetv.png" group-title="LIVE: Poland",Sundance TV FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/20422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="" group-title="LIVE: Poland",Golf Channel HD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nuta TV" tvg-logo="" group-title="LIVE: Poland",Nuta TV
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/27540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Sport 3 FHD" tvg-logo="" group-title="LIVE: Poland",Canal + Sport 3 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/28019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Sport 4 FHD" tvg-logo="" group-title="LIVE: Poland",Canal + Sport 4 FHD
+http://channels227070.clientportal.link:80/live/U7mW3eg1443/LXW5SA4972/28020.m3u8
