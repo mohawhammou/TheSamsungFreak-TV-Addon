@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", Five Came Back 
+https://youtu.be/5JuiCTz6Khw
+#EXTINF:0 type="video" channelId="-1", Chapter 1
+https://vodhost.internetowa.tv/movies/series/five-came-back/S01E01.mp4
+#EXTINF:0 type="video" channelId="-1", Chapter 2
+https://vodhost.internetowa.tv/movies/series/five-came-back/S01E02.mp4
+#EXTINF:0 type="video" channelId="-1", Chapter 3
+https://vodhost.internetowa.tv/movies/series/five-came-back/S01E03.mp4
+
 #EXTINF:0 type="video" channelId="-1", Kompania Braci 
 https://youtu.be/1wlYPlwjGOY 
 #EXTINF:0 type="video" channelId="-1", 1 - Currahee 
