@@ -1,307 +1,549 @@
 #EXTM3U
-#EXTINF:-1,DE: 13TH STREET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5359
-#EXTINF:-1,DE: 3Sat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1355
-#EXTINF:-1,DE: A E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1356
-#EXTINF:-1,DE: ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5348
-#EXTINF:-1,DE: ANIXE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7559
-#EXTINF:-1,DE: ARD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/4659
-#EXTINF:-1,DE: Arte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/134
-#EXTINF:-1,DE: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1616
-#EXTINF:-1,DE: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7551
-#EXTINF:-1,DE: BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2561
-#EXTINF:-1,DE: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7576
-#EXTINF:-1,DE: Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1325
-#EXTINF:-1,DE: Deluxe Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7562
-#EXTINF:-1,DE: Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1324
-#EXTINF:-1,DE: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7575
-#EXTINF:-1,DE: DISNEY CINEMAGIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5366
-#EXTINF:-1,DE: DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5365
-#EXTINF:-1,DE: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1320
-#EXTINF:-1,DE: DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7557
-#EXTINF:-1,DE: DW TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7563
-#EXTINF:-1,DE: E Entertainm HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7564
-#EXTINF:-1,DE: N24 Doku
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26991
-#EXTINF:-1,DE: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7580
-#EXTINF:-1,DE: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7581
-#EXTINF:-1,DE: Eurosport 2 Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/13663
-#EXTINF:-1,DE: FAMILY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5347
-#EXTINF:-1,DE: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1618
-#EXTINF:-1,DE: Fox Serie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7550
-#EXTINF:-1,DE: GOLDSTAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5354
-#EXTINF:-1,DE: HEIMATKANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5350
-#EXTINF:-1,DE: HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5362
-#EXTINF:-1,DE: HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2567
-#EXTINF:-1,DE: JUKEBOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5364
-#EXTINF:-1,DE: JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5367
-#EXTINF:-1,DE: Kabel 1 Docu HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7556
-#EXTINF:-1,DE: Kabel 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/131
-#EXTINF:-1,DE: Kabel 1 Classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/21660
-#EXTINF:-1,DE: KIKA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5355
-#EXTINF:-1,DE: KINOWELT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5361
-#EXTINF:-1,DE: MDR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7570
-#EXTINF:-1,DE: Motorvision TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7582
-#EXTINF:-1,DE: MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7561
-#EXTINF:-1,DE: N-TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5356
-#EXTINF:-1,DE: WELT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/133
-#EXTINF:-1,DE: Nat GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1314
-#EXTINF:-1,DE: Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1313
-#EXTINF:-1,DE: Ndr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1348
-#EXTINF:-1,DE:Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12865
-#EXTINF:-1,DE: Nick/Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7578
-#EXTINF:-1,DE: Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7577
-#EXTINF:-1,DE: ORF 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1622
-#EXTINF:-1,DE: ORF 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1346
-#EXTINF:-1,DE: Phoenix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7558
-#EXTINF:-1,DE: PRO 7 FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/6094
-#EXTINF:-1,DE: PRO 7 MAXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1621
-#EXTINF:-1,DE: ProSieben HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/127
-#EXTINF:-1,DE: Astro TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2565
-#EXTINF:-1,DE: RBB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2562
-#EXTINF:-1,DE: Romance TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1311
-#EXTINF:-1,DE: RTL Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5349
-#EXTINF:-1,DE: RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/125
-#EXTINF:-1,DE: RTL Living HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1309
-#EXTINF:-1,DE: RTL Nitro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/119
-#EXTINF:-1,DE: Rtl Passion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/117
-#EXTINF:-1,DE: RTL Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7554
-#EXTINF:-1,DE: RTL2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/126
-#EXTINF:-1,DE: SAT 1 Emotions
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7566
-#EXTINF:-1,DE: SAT 1 GOLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5353
-#EXTINF:-1,DE: SAT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/128
-#EXTINF:-1,DE: Servus TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2563
-#EXTINF:-1,DE: Sport1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7583
-#EXTINF:-1,DE: Sportdigital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/123
-#EXTINF:-1,DE: Sixx HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/132
-#EXTINF:-1,DE: SKY 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7870
-#EXTINF:-1,DE: Sky Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/107
-#EXTINF:-1,DE: Sky Atlantic +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7547
-#EXTINF:-1,DE: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/121
-#EXTINF:-1,DE: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/540
-#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7487
-#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1333
-#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1332
-#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1331
-#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1330
-#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1329
-#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1328
-#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1335
-#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1334
-#EXTINF:-1,DE: Sky Sport Austria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/122
-#EXTINF:-1,DE: Sky Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/120
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/539
-#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1345
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1344
-#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1343
-#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1342
-#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1341
-#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1340
-#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1339
-#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1338
-#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1337
-#EXTINF:-1,DE: Sky Cinema +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7545
-#EXTINF:-1,DE: Sky Cinema  24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7546
-#EXTINF:-1,DE: Sky Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/106
-#EXTINF:-1,DE: Sky Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/108
-#EXTINF:-1,DE: Sky Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/109
-#EXTINF:-1,DE: Sky Hits HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/111
-#EXTINF:-1,DE: Sky Krimi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/114
-#EXTINF:-1,DE: Sky Nostalgie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/110
-#EXTINF:-1,DE: SKY SELECT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7210
-#EXTINF:-1,DE: SKY SELECT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/446
-#EXTINF:-1,DE: SKY SELECT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/447
-#EXTINF:-1,DE: SKY SELECT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/448
-#EXTINF:-1,DE: SKY SELECT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/475
-#EXTINF:-1,DE: SKY SELECT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/474
-#EXTINF:-1,DE: SKY SELECT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2568
-#EXTINF:-1,DE: SKY SELECT 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2569
-#EXTINF:-1,DE: Sky Popcorn Select 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26952
-#EXTINF:-1,DE: Sky Popcorn Select 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26951
-#EXTINF:-1,DE: Sky Popcorn Select 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26950
-#EXTINF:-1,DE: Sky Popcorn Select 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26949
-#EXTINF:-1,DE: Sky Popcorn Select 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26948
-#EXTINF:-1,DE: Sky Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/112
-#EXTINF:-1,DE: Sky Popcorn Select 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/26947
-#EXTINF:-1,DE: Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/115
-#EXTINF:-1,DE: Spiegel Geschichte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7552
-#EXTINF:-1,DE: Spiegel TV Wissen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5363
-#EXTINF:-1,DE: ESport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7584
-#EXTINF:-1,DE: SR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7569
-#EXTINF:-1,DE: Super RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/130
-#EXTINF:-1,DE: SWR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7568
-#EXTINF:-1,DE: Sonnenklar TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12867
-#EXTINF:-1,DE: Sky Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12864
-#EXTINF:-1,DE: Travel Ch. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12866
-#EXTINF:-1,DE: ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12587
-#EXTINF:-1,DE: Salzwedel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12590
-#EXTINF:-1,DE: Tagesschau 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12591
-#EXTINF:-1,DE: Welt der Wunder
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12592
-#EXTINF:-1,DE: Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/116
-#EXTINF:-1,DE: Tele 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7567
-#EXTINF:-1,DE: TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7565
-#EXTINF:-1,DE: TNT Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1617
-#EXTINF:-1,DE: TNT Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7549
-#EXTINF:-1,DE: TNT SERIE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5360
-#EXTINF:-1,DE: Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7553
-#EXTINF:-1,DE: VOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/129
-#EXTINF:-1,DE: WDR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2390
-#EXTINF:-1,DE: Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2564
-#EXTINF:-1,DE: ZDF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/655
-#EXTINF:-1,DE: ZDF Info HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1327
-#EXTINF:-1,DE: ZDF neo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/1326
-#EXTINF:-1,DE: ZDF NEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/7572
-#EXTINF:-1,DE: Zee One HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/5357
-#EXTINF:-1,DE: Augsburg TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/2566
-#EXTINF:-1,DE: Munchen TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak TV;url=http://livegopanel.club:8080/1234567890/1234567890/12589
+#EXTINF:-1,13th Street FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14060
+#EXTINF:-1,3sat DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12341
+#EXTINF:-1,3sat HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16497
+#EXTINF:-1,Animal Planet FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9561
+#EXTINF:-1,ANIXE DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3445
+#EXTINF:-1,ANIXE FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14576
+#EXTINF:-1,Arte FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16496
+#EXTINF:-1,Astro TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12339
+#EXTINF:-1,AXN DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9562
+#EXTINF:-1,AXN HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/17498
+#EXTINF:-1,Boomerang DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12315
+#EXTINF:-1,BR Fernsehen Nord DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12322
+#EXTINF:-1,BR Fernsehen Nord HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16495
+#EXTINF:-1,Cartoon Network DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15565
+#EXTINF:-1,CLASSICA DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9555
+#EXTINF:-1,Comedy Central FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/17280
+#EXTINF:-1,Das Erste FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16493
+#EXTINF:-1,Das Erste HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/22824
+#EXTINF:-1,Das Erste DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3451
+#EXTINF:-1,Deluxe Music DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9554
+#EXTINF:-1,Deluxe Music FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14057
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12334
+#EXTINF:-1,Discovery Channel FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14063
+#EXTINF:-1,Discovery Channel DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3426
+#EXTINF:-1,Disney Channel DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3622
+#EXTINF:-1,Disney Channel FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14056
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14312
+#EXTINF:-1,Disney Junior HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15566
+#EXTINF:-1,Disney XD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9547
+#EXTINF:-1,DMAX DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3431
+#EXTINF:-1,DMAX HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19683
+#EXTINF:-1,E! HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15567
+#EXTINF:-1,Eurosport 1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19101
+#EXTINF:-1,Eurosport 1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3435
+#EXTINF:-1,Eurosport 2 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15568
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/17281
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19099
+#EXTINF:-1,Fix & Foxi DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/20263
+#EXTINF:-1,Folx TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12319
+#EXTINF:-1,FOX FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14055
+#EXTINF:-1,FOX HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3425
+#EXTINF:-1,Heimatkanal DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9558
+#EXTINF:-1,History DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3424
+#EXTINF:-1,History FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14311
+#EXTINF:-1,hr-Fernsehen DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12316
+#EXTINF:-1,JukeBox DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15579
+#EXTINF:-1,Junior DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/20207
+#EXTINF:-1,Kabel Eins FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1649
+#EXTINF:-1,KiKa DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1648
+#EXTINF:-1,KiKA FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16492
+#EXTINF:-1,Kinowelt TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12291
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15750
+#EXTINF:-1,Motorvision TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9564
+#EXTINF:-1,MTV HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15759
+#EXTINF:-1,n-tv DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3449
+#EXTINF:-1,n-tv FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14054
+#EXTINF:-1,Welt FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14573
+#EXTINF:-1,Welt DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3448
+#EXTINF:-1,National Geographic Wild FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14062
+#EXTINF:-1,National Geographic Wild HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1646
+#EXTINF:-1,National Geographic FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14053
+#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16488
+#EXTINF:-1,NDR HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3443
+#EXTINF:-1,Nickelodeon DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19100
+#EXTINF:-1,Nick/MTV+ HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14571
+#EXTINF:-1,Phoenix DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3454
+#EXTINF:-1,Phoenix FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16487
+#EXTINF:-1,Planet HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18394
+#EXTINF:-1,Popcorn Select 1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18234
+#EXTINF:-1,Popcorn Select 2 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18235
+#EXTINF:-1,Popcorn Select 3 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18236
+#EXTINF:-1,Popcorn Select 4 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18237
+#EXTINF:-1,Popcorn Select 5 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18238
+#EXTINF:-1,Popcorn Select 6 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/18239
+#EXTINF:-1,ProSieben DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1642
+#EXTINF:-1,ProSieben FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14052
+#EXTINF:-1,ProSieben Maxx DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3444
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14051
+#EXTINF:-1,rbb Fernsehen Berlin FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15747
+#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15754
+#EXTINF:-1,One FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15751
+#EXTINF:-1,Regio TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12328
+#EXTINF:-1,Romance TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/13111
+#EXTINF:-1,RTL Crime HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15570
+#EXTINF:-1,RTL FS DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12300
+#EXTINF:-1,RTL HB NDS DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12299
+#EXTINF:-1,RTL FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14049
+#EXTINF:-1,RTL HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3825
+#EXTINF:-1,RTL II DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3826
+#EXTINF:-1,RTL II FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14050
+#EXTINF:-1,RTL Living HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3202
+#EXTINF:-1,RTL Plus DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19655
+#EXTINF:-1,NITRO DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1639
+#EXTINF:-1,NITRO FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14048
+#EXTINF:-1,RTL WEST DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12298
+#EXTINF:-1,RTL Passion FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9563
+#EXTINF:-1,RTLplus DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12297
+#EXTINF:-1,SAT.1 Gold DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12309
+#EXTINF:-1,SAT.1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14047
+#EXTINF:-1,SAT.1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1637
+#EXTINF:-1,ServusTV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12307
+#EXTINF:-1,Sixx DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9560
+#EXTINF:-1,Sixx FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14046
+#EXTINF:-1,Sky 1 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9557
+#EXTINF:-1,Sky Atlantic FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14306
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15574
+#EXTINF:-1,Sky Cinema +24 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1633
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15575
+#EXTINF:-1,Sky Action FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14307
+#EXTINF:-1,Sky Action DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3432
+#EXTINF:-1,Sky Cinema DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1634
+#EXTINF:-1,Sky Family FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15576
+#EXTINF:-1,Sky Cinema FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14061
+#EXTINF:-1,Sky Cinema HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3420
+#EXTINF:-1,Sky Hits FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14305
+#EXTINF:-1,Sky Comedy DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3430
+#EXTINF:-1,Sky Emotion DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1631
+#EXTINF:-1,Sky Krimi DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3429
+#EXTINF:-1,Sky Nostalgie DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9556
+#EXTINF:-1,Sky Select 1 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11265
+#EXTINF:-1,Sky Select 2 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11266
+#EXTINF:-1,E! DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16502
+#EXTINF:-1,Sky Select 3 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11267
+#EXTINF:-1,Sky Select 4 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11268
+#EXTINF:-1,Sky Select 5 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11269
+#EXTINF:-1,Sky Select 6 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11270
+#EXTINF:-1,Sky Select 7 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11271
+#EXTINF:-1,Sky Select 8 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11272
+#EXTINF:-1,Sky Select 9 Live DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12290
+#EXTINF:-1,Sky Sport 1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14559
+#EXTINF:-1,Sky Sport 1 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1479
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7326
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7335
+#EXTINF:-1,Sky Sport 11 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7336
+#EXTINF:-1,Sky Sport 2 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14560
+#EXTINF:-1,Sky Sport 2 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1480
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7327
+#EXTINF:-1,Sky Sport 3 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14561
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7328
+#EXTINF:-1,Sky Sport 4 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14562
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7329
+#EXTINF:-1,Sky Sport 5 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14563
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7330
+#EXTINF:-1,Sky Sport 6 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14564
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7331
+#EXTINF:-1,Sky Sport 7 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14565
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7332
+#EXTINF:-1,Sky Sport 8 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14566
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7333
+#EXTINF:-1,Sky Sport 9 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14567
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7334
+#EXTINF:-1,Sky Sport Austria DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9551
+#EXTINF:-1,Sky Sport Austria HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15578
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14550
+#EXTINF:-1,Sky Bundesliga 1 HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3436
+#EXTINF:-1,Sky Bundesliga 1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7338
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14558
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7347
+#EXTINF:-1,Sky Bundesliga 2 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14551
+#EXTINF:-1,Sky Bundesliga 2 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7339
+#EXTINF:-1,Sky Bundesliga 3 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14552
+#EXTINF:-1,Sky Bundesliga 3 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7340
+#EXTINF:-1,Sky Bundesliga 4 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14553
+#EXTINF:-1,Sky Bundesliga 4 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7341
+#EXTINF:-1,Sky Bundesliga 5 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14554
+#EXTINF:-1,Sky Bundesliga 5 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7342
+#EXTINF:-1,Sky Bundesliga 6 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14555
+#EXTINF:-1,Sky Bundesliga 6 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7343
+#EXTINF:-1,Sky Bundesliga 7 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/24735
+#EXTINF:-1,Sky Bundesliga 7 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7344
+#EXTINF:-1,Sky Bundesliga 8 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14556
+#EXTINF:-1,Sky Bundesliga 8 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7345
+#EXTINF:-1,Sky Bundesliga 9 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14557
+#EXTINF:-1,Sky Bundesliga 9 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7346
+#EXTINF:-1,Sky Sport News DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14577
+#EXTINF:-1,Sky Sport News HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/7337
+#EXTINF:-1,Spiegel TV Wissen DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14045
+#EXTINF:-1,SPORT1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/9552
+#EXTINF:-1,SPORT1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15745
+#EXTINF:-1,sportdigital DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3841
+#EXTINF:-1,sportdigital FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16582
+#EXTINF:-1,SR Fernsehen FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15749
+#EXTINF:-1,Super RTL DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3456
+#EXTINF:-1,Super RTL FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14044
+#EXTINF:-1,SWR BW FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16486
+#EXTINF:-1,SWR DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12296
+#EXTINF:-1,Syfy HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14043
+#EXTINF:-1,tagesschau24 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15752
+#EXTINF:-1,Tele 5 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12325
+#EXTINF:-1,Tele 5 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/20208
+#EXTINF:-1,TLC DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12324
+#EXTINF:-1,TLC FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15757
+#EXTINF:-1,TNT Comedy HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15577
+#EXTINF:-1,TNT Serie FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14303
+#EXTINF:-1,TOGGO plus DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12323
+#EXTINF:-1,Universal Channel HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3439
+#EXTINF:-1,Comedy Central DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12317
+#EXTINF:-1,VOX FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/14291
+#EXTINF:-1,VOX DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1630
+#EXTINF:-1,WDR DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3442
+#EXTINF:-1,Welt der Wunder DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12305
+#EXTINF:-1,ZDF DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/1629
+#EXTINF:-1,ZDF HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19098
+#EXTINF:-1,ZDF FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16484
+#EXTINF:-1,ZDFinfo DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/12295
+#EXTINF:-1,ZDFneo DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3453
+#EXTINF:-1,ZDFneo FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16482
+#EXTINF:-1,ZDFinfo FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16483
+#EXTINF:-1,Zee One DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/13112
+#EXTINF:-1,Zee One FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/15748
+#EXTINF:-1,München TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/11659
+#EXTINF:-1,FC Bayern FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16767
+#EXTINF:-1,Sky Hits DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16803
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16573
+#EXTINF:-1,Sat. 1 Emotions DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16836
+#EXTINF:-1,ProSieben Fun HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16627
+#EXTINF:-1,TNT Film FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16628
+#EXTINF:-1,Sport 1+ FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/17166
+#EXTINF:-1,Kabel Eins Doku DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/17167
+#EXTINF:-1,DW English DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/17300
+#EXTINF:-1,Baby TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19622
+#EXTINF:-1,DW Arabia DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19620
+#EXTINF:-1,Comedy Central HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19677
+#EXTINF:-1,Auto Motor und Sport HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19658
+#EXTINF:-1,Sony TV HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/3447
+#EXTINF:-1,Kabel Eins Classics DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/16581
+#EXTINF:-1,One TV FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/23043
+#EXTINF:-1,WDR HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/23437
+#EXTINF:-1,German Tote TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/23945
+#EXTINF:-1,Eagle Cinema Abenteuer HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26323
+#EXTINF:-1,Eagle Cinema Aktion HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26324
+#EXTINF:-1,Eagle Cinema Horror HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26328
+#EXTINF:-1,Eagle Cinema Romantisch HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26332
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26330
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26327
+#EXTINF:-1,Eagle Cinema Premiere HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26331
+#EXTINF:-1,Eagle Cinema Drama HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26326
+#EXTINF:-1,Eagle Cinema Thriller HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26334
+#EXTINF:-1,Eagle Cinema Sci-Fi HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26333
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26325
+#EXTINF:-1,Eagle Cinema Komodie HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26329
+#EXTINF:-1,Nick Jr. DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/19165
+#EXTINF:-1,Sky Cinema Animation DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/26817
+#EXTINF:-1,RTL UHD 4K DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27220
+#EXTINF:-1,Servus TV HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27566
+#EXTINF:-1,Oberpfalz TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27632
+#EXTINF:-1,Genius Family DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27655
+#EXTINF:-1,EO TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27657
+#EXTINF:-1,HGTV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27656
+#EXTINF:-1,DW Deutsch DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/27791
+#EXTINF:-1,DAZN 1 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/23280
+#EXTINF:-1,DAZN 2 FHD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/23281
+#EXTINF:-1,Health TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28231
+#EXTINF:-1,Allgäu TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28232
+#EXTINF:-1,Baden TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28233
+#EXTINF:-1,Niederbayern TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28234
+#EXTINF:-1,Kabel Journal DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28236
+#EXTINF:-1,L TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28237
+#EXTINF:-1,noa4 Hamburg HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28238
+#EXTINF:-1,noa4 Norderstedt HD DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28239
+#EXTINF:-1,OK Koblenz DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28240
+#EXTINF:-1,OK Trier DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28241
+#EXTINF:-1,Regio TV Schwaben DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28242
+#EXTINF:-1,RFO DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28243
+#EXTINF:-1,Rhein Neckar Fernsehen DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28244
+#EXTINF:-1,RheinMain TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28245
+#EXTINF:-1,TRP 1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28246
+#EXTINF:-1,TV Mainfranken DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28247
+#EXTINF:-1,tv.berlin DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28248
+#EXTINF:-1,Westerwald TV DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28249
+#EXTINF:-1,Sylt1 DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28250
+#EXTINF:-1,Das Erste HD (B) DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28251
+#EXTINF:-1,Sky Cinema Dark Future DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28535
+#EXTINF:-1,Crime + Investigation DE
+http://channels227070.clientportal.link:80/72ahVpu3133/a9jvS76998/28577
