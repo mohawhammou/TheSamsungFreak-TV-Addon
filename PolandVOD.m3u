@@ -1,4 +1,36 @@
 #EXTM3U
+
+#EXTINF:-1,Zakleci w czasie 
+https://vodhost.internetowa.tv/movies/oldmovies/8497a7c8322f171783412523c370c10d19900cf0.mp4 
+#EXTINF:-1,Escape Room 
+https://vodhost.internetowa.tv/movies/Escape-Room-2019-Lektor-PL.mp4 
+#EXTINF:-1,Przemytnik 
+https://vodhost.internetowa.tv/movies/The-Mule-2018-PL-SUB.mp4 
+#EXTINF:-1,Zabojcze maszyny 
+https://vodhost.internetowa.tv/movies/Mortal-Engines-2018-PL-SUB.mp4 
+#EXTINF:-1,Green Book 
+https://vodhost.internetowa.tv/movies/Green-Book-2018-Lektor-PL.mp4 
+#EXTINF:-1,Źle się dzieje w El Royale 
+https://vodhost.internetowa.tv/movies/Bad-Times-at-the-El-Royale-2018-Napisy-PL.mp4 
+#EXTINF:-1,Na głęboką wodę 
+https://vodhost.internetowa.tv/movies/The-Mercy-2018-Lektor-PL.mp4 
+#EXTINF:-1,Dziewczyna-w-sieci-pajaka-2018 
+https://vodhost.internetowa.tv/movies/Dziewczyna-w-sieci-pajaka-2018-PL-SUB.mp4 
+#EXTINF:-1,127 godzin 
+https://vodhost.internetowa.tv/movies/oldmovies/9f1ec3b90191eb65debb475221978675b1169c10.mp4 
+#EXTINF:-1, W wysokiej trawie / In the Tall Grass (2019) 
+https://vodhost.internetowa.tv/movies/W-wysokiej-trawie-720p-Lektor-PL.mp4 
+#EXTINF:-1, Trauma / Fractured (2019) 
+https://vodhost.internetowa.tv/movies/Trauma-720p-Lektor-PL.mp4 
+#EXTINF:-1, W cieniu księżyca / In the Shadow of the Moon (2019) 
+https://vodhost.internetowa.tv/movies/W-cieniu-ksiezyca-720p-Lektor-PL.mp4 
+#EXTINF:-1, Styks / Styx (2018) 
+https://vodhost.internetowa.tv/movies/Styx-2018-PL-SUB.mp4 
+#EXTINF:-1, American Hangman (2019) 
+https://vodhost.internetowa.tv/movies/American-Hangman-2018-Lektor-PL.mp4 
+#EXTINF:-1, Komunia (2016) 
+https://vodhost.internetowa.tv/movies/Komunia-2016-PL.mp4
+
 #EXTINF:0 type="video" channelId="-1", Harry Potter i Kamień Filozoficzny (2001) 
 https://stream.freedisc.pl/video/13039171/harry-poter-i-kamie-filozoficzny-pl-1.mp4
 #EXTINF:0 type="video" channelId="-1", Harry Potter i więzień Azkabanu (2004) 
