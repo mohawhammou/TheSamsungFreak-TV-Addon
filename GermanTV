@@ -35,10 +35,19 @@
 <fanart></fanart> 
 <info></info> 
 </channel>
-<channels> 
+<channels>
 
 <channel> 
-<name>[B]German TV 5 - 238 Local Channels[/B]</name> 
+<name>[B]German TV 5 - Vavoo Pro TV[/B]</name> 
+<thumbnail>https://images.app.goo.gl/A7W7H3v612QeRMnz9</thumbnail> 
+<externallink>https://dtrsa.dj-btronic.de/upload/vavoo.xml</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+<channels>
+
+<channel> 
+<name>[B]German TV 6 - 238 Local Channels[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.pnghttps://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi-tv</externallink> 
 <fanart></fanart> 
@@ -47,7 +56,7 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 6 - 434 Local Channels[/B]</name> 
+<name>[B]German TV 7 - 434 Local Channels[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi</externallink> 
 <fanart></fanart> 
