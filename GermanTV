@@ -38,9 +38,9 @@
 <channels>
 
 <channel> 
-<name>[B]German TV 5 - Vavoo Pro TV[/B]</name> 
+<name>[B]German TV 5[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://dtrsa.dj-btronic.de/upload/vavoo.xml</externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV-5.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
