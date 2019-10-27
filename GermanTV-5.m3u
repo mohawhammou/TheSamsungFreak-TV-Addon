@@ -1,0 +1,591 @@
+#EXTM3U
+#EXTINF:-1,Das Erste (Backup) HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6262
+#EXTINF:-1,Das Erste DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6256
+#EXTINF:-1,Das Erste HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13166
+#EXTINF:-1,ZDF HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6151
+#EXTINF:-1,ZDF DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/17011
+#EXTINF:-1,ZDF Neo HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/17304
+#EXTINF:-1,RTL HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6216
+#EXTINF:-1,RTL FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13565
+#EXTINF:-1,Sat.1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6210
+#EXTINF:-1,Pro Sieben HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13144
+#EXTINF:-1,Pro 7 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6220
+#EXTINF:-1,Pro Sieben FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8235
+#EXTINF:-1,VOX DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6153
+#EXTINF:-1,VOX FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13553
+#EXTINF:-1,Kabel 1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6242
+#EXTINF:-1,Kabel 1 Classic HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9151
+#EXTINF:-1,RTL 2 HD (Backup) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13136
+#EXTINF:-1,RTL 2 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6215
+#EXTINF:-1,RTL Nitro HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13137
+#EXTINF:-1,RTL Nitro FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6212
+#EXTINF:-1,RTL Passion HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8219
+#EXTINF:-1,RTL Plus DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9152
+#EXTINF:-1,RTL Crime FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6214
+#EXTINF:-1,RTL Crime HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/17012
+#EXTINF:-1,RTL Living DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6213
+#EXTINF:-1,Sat1 Emotion DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13135
+#EXTINF:-1,Sat1 Gold FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6209
+#EXTINF:-1,Pro 7 Fun HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13145
+#EXTINF:-1,Pro 7 Fun FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6219
+#EXTINF:-1,Pro Sieben Fun HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13142
+#EXTINF:-1,Pro 7 Max FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6218
+#EXTINF:-1,Pro Sieben Maxx HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13143
+#EXTINF:-1,Pro Sieben Maxx FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8234
+#EXTINF:-1,E! FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9137
+#EXTINF:-1,E! Entertainment DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5095
+#EXTINF:-1,E! Entertainment FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13569
+#EXTINF:-1,AXN FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5097
+#EXTINF:-1,AXN DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6259
+#EXTINF:-1,Fox HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6245
+#EXTINF:-1,Fox FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13567
+#EXTINF:-1,Fox Serie DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13154
+#EXTINF:-1,Sixx FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6207
+#EXTINF:-1,TLC HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8224
+#EXTINF:-1,Arte DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6261
+#EXTINF:-1,Arte HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13172
+#EXTINF:-1,Tele 5 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9150
+#EXTINF:-1,Dmax FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6249
+#EXTINF:-1,Sky Arts HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9139
+#EXTINF:-1,Sky Arts FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5091
+#EXTINF:-1,Sky Sport Bundesliga 1 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/73136
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/620245
+#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13538
+#EXTINF:-1,Sky Sport Bundesliga 2 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/62223
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/135258
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/135671
+#EXTINF:-1,Sky Sport Bundesliga 3 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/62220
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/91235
+#EXTINF:-1,Sky Sport Bundesliga 5 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/62002
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/135335
+#EXTINF:-1,Sky Sport Bundesliga 6 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/619225
+#EXTINF:-1,Sky Sport Bundesliga 7 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6198
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6197
+#EXTINF:-1,Sky Sport Bundesliga 9 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6196
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6195
+#EXTINF:-1,DAZN 1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/625243
+#EXTINF:-1,DAZN 2 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/50775
+#EXTINF:-1,Sport1 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6173
+#EXTINF:-1,Sport1 HD  DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8221
+#EXTINF:-1,Sport1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8226
+#EXTINF:-1,Sport1 US FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6172
+#EXTINF:-1,eSports 1 US HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9129
+#EXTINF:-1,Eurosport 1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8218
+#EXTINF:-1,Eurosport 2 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9131
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9130
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13163
+#EXTINF:-1,Sky Sport 1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6184
+#EXTINF:-1,Sky Sport 1 (Backup) HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9125
+#EXTINF:-1,Sky Sport 01 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/52533
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13564
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7362
+#EXTINF:-1,Sky Sport 2 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/61835
+#EXTINF:-1,Sky Sport 3 (only at games) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6182
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13563
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13562
+#EXTINF:-1,Sky Sport 4 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9127
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13561
+#EXTINF:-1,Sky Sport 5 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9126
+#EXTINF:-1,Sky Sport 6 (only at games) HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6181
+#EXTINF:-1,Sky SPort 7 (only at games) HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6180
+#EXTINF:-1,Sky Sport 8 (only at games) HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6179
+#EXTINF:-1,Sky Sport 9 (only at games) HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6178
+#EXTINF:-1,Sky Sport 10 (only at games) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6177
+#EXTINF:-1,Sky Sports News HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6176
+#EXTINF:-1,Sky Sport News FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13555
+#EXTINF:-1,Sport Digital DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6171
+#EXTINF:-1,Sport Digital FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8244
+#EXTINF:-1,Motorvision TV FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8222
+#EXTINF:-1,Auto Motor Sport FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9132
+#EXTINF:-1,Euronews DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6248
+#EXTINF:-1,Welt HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6228
+#EXTINF:-1,N-TV HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8195
+#EXTINF:-1,N-TV FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13566
+#EXTINF:-1,Phoenix HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6221
+#EXTINF:-1,Tagesschau 24 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6163
+#EXTINF:-1,ZDF Info HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9148
+#EXTINF:-1,Kabel Eins Doku DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13147
+#EXTINF:-1,History Channel FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6244
+#EXTINF:-1,Spiegel Geschichte DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6174
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9135
+#EXTINF:-1,Discovery DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5096
+#EXTINF:-1,Discovery FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13570
+#EXTINF:-1,Discovery Channel FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6254
+#EXTINF:-1,A&E FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6263
+#EXTINF:-1,Animal Planet HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8196
+#EXTINF:-1,Animal Planet FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13173
+#EXTINF:-1,Planet HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/48089
+#EXTINF:-1,National Geographic HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6226
+#EXTINF:-1,Nat Geo HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8194
+#EXTINF:-1,Nat Geo wild FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6227
+#EXTINF:-1,Nat Geo Wild HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9136
+#EXTINF:-1,Nat Geo Wild DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5085
+#EXTINF:-1,Travel Channel DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9134
+#EXTINF:-1,Super RTL HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6166
+#EXTINF:-1,Super RTL FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13554
+#EXTINF:-1,Kika HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6241
+#EXTINF:-1,Toggo Plus DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9133
+#EXTINF:-1,Baby TV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13169
+#EXTINF:-1,Boomerang DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6258
+#EXTINF:-1,Cartoon Network FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6257
+#EXTINF:-1,Disney Channel FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6253
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8217
+#EXTINF:-1,Disney Cinema Magic DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6252
+#EXTINF:-1,Disney Junior DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6251
+#EXTINF:-1,Disney Junior FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13568
+#EXTINF:-1,Disney XD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6250
+#EXTINF:-1,Junior DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6239
+#EXTINF:-1,Nickelodeon DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6224
+#EXTINF:-1,Comedy Central DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6154
+#EXTINF:-1,Kronehit FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/14200
+#EXTINF:-1,Jukebox DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13148
+#EXTINF:-1,Deluxe Music DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6255
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13165
+#EXTINF:-1,Sky Classica DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6191
+#EXTINF:-1,Classica HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13167
+#EXTINF:-1,MTV FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/35466
+#EXTINF:-1,Sky Select 1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7375
+#EXTINF:-1,Sky Select 2 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7376
+#EXTINF:-1,Sky Select 3 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7377
+#EXTINF:-1,Sky Select 4 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7378
+#EXTINF:-1,Sky Select 5 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8977
+#EXTINF:-1,Sky Select 6 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8976
+#EXTINF:-1,Sky Select 7 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8975
+#EXTINF:-1,Sky Select 8 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8974
+#EXTINF:-1,PopCorn Select 1 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23778
+#EXTINF:-1,PopCorn Select 2 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23777
+#EXTINF:-1,PopCorn Select 3 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23776
+#EXTINF:-1,PopCorn Select 4 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23775
+#EXTINF:-1,CINE FILM CLUB 1 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20543
+#EXTINF:-1,CINE FILM CLUB 3 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20541
+#EXTINF:-1,CINE FILM CLUB 4 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20540
+#EXTINF:-1,CINE FILM CLUB 5 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20539
+#EXTINF:-1,Elit Cinema 1 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20562
+#EXTINF:-1,Elit Cinema 2 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20561
+#EXTINF:-1,Elit Cinema 3 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20560
+#EXTINF:-1,Elit Cinema 4 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20559
+#EXTINF:-1,Elit Cinema 5 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20558
+#EXTINF:-1,Elit Select HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20549
+#EXTINF:-1,Elit Select 1 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20557
+#EXTINF:-1,Elit Select 2 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20556
+#EXTINF:-1,Elit Select 3 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20555
+#EXTINF:-1,Elit Select 4 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20554
+#EXTINF:-1,Elit Select 5 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20553
+#EXTINF:-1,Elit Select 6 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20552
+#EXTINF:-1,Elit Select 7 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20551
+#EXTINF:-1,Elit Select 8 HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20550
+#EXTINF:-1,Film Club 1 HD HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20548
+#EXTINF:-1,Film Club 2 HD HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20547
+#EXTINF:-1,Film Club 3 HD HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20546
+#EXTINF:-1,Film Club 4 HD HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20545
+#EXTINF:-1,Film Club 5 HD HD VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20544
+#EXTINF:-1,MOVIESINEMA GERMAN 1 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20538
+#EXTINF:-1,MOVIESINEMA GERMAN 2 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20537
+#EXTINF:-1,MOVIESINEMA GERMAN 3 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20536
+#EXTINF:-1,MOVIESINEMA GERMAN 4 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20535
+#EXTINF:-1,MOVIESINEMA GERMAN 5 VIP DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/20534
+#EXTINF:-1,Sky Action HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5093
+#EXTINF:-1,Sky Action DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6205
+#EXTINF:-1,Sky Cinema FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6194
+#EXTINF:-1,Sky Cinema HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7373
+#EXTINF:-1,Sky Cinema 1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7372
+#EXTINF:-1,Sky Cinema 1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5089
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6193
+#EXTINF:-1,Sky Cinema 24 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7371
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13133
+#EXTINF:-1,Sky Cinema +24 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6192
+#EXTINF:-1,Sky Cinema Action HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7370
+#EXTINF:-1,Sky Cinema Action DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9146
+#EXTINF:-1,Sky Cinema Comedy DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9144
+#EXTINF:-1,Sky Comedy DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6190
+#EXTINF:-1,Sky Cinema Hits HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8223
+#EXTINF:-1,Sky Cinema Hits  FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7368
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9145
+#EXTINF:-1,Sky Cinema Family HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7369
+#EXTINF:-1,Sky Cinema Emotion DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13132
+#EXTINF:-1,Sky Cinema Nostalgie DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13131
+#EXTINF:-1,Sky Nostalgie DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6186
+#EXTINF:-1,Sky Atlantic DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6204
+#EXTINF:-1,Sky Atlantic HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7367
+#EXTINF:-1,Sky Atlantic +1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13134
+#EXTINF:-1,Sky 13TH Street HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7365
+#EXTINF:-1,13th Street FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5098
+#EXTINF:-1,13th Street HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8198
+#EXTINF:-1,Sky Emotion DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6189
+#EXTINF:-1,Sky Hits FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5088
+#EXTINF:-1,Sky Fox DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23770
+#EXTINF:-1,Sky 1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9138
+#EXTINF:-1,Syfy DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6164
+#EXTINF:-1,Syfy  HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/7364
+#EXTINF:-1,Syfy FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5087
+#EXTINF:-1,Sky Krimi DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8220
+#EXTINF:-1,Sky 3D FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6206
+#EXTINF:-1,TNT Comedy FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6157
+#EXTINF:-1,TNT Film FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6156
+#EXTINF:-1,TNT Serie HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6155
+#EXTINF:-1,TNT Serie FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5084
+#EXTINF:-1,Universal FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5265
+#EXTINF:-1,Sony HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6167
+#EXTINF:-1,Kinowelt DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6240
+#EXTINF:-1,Family HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23772
+#EXTINF:-1,Fix & Foxi DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23771
+#EXTINF:-1,Family TV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6246
+#EXTINF:-1,Astro TV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13171
+#EXTINF:-1,Augsburg TV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13170
+#EXTINF:-1,Romance TV DE Backup
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13152
+#EXTINF:-1,INTV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13149
+#EXTINF:-1,Kabel Eins Journal DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13146
+#EXTINF:-1,Mediaspar DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8237
+#EXTINF:-1,Munchen TV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6229
+#EXTINF:-1,One HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9147
+#EXTINF:-1,QVC Beuaty & Style DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13141
+#EXTINF:-1,QVC HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13140
+#EXTINF:-1,RFO DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13139
+#EXTINF:-1,Romance TV DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6211
+#EXTINF:-1,Sonnenklar TV FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13130
+#EXTINF:-1,SRF 1 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6170
+#EXTINF:-1,Welt der Wunder DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13129
+#EXTINF:-1,Zee One FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6150
+#EXTINF:-1,Sky Heimat Kanal DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6188
+#EXTINF:-1,A&E HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8197
+#EXTINF:-1,MGM DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/5086
+#EXTINF:-1,Rhein Neckar Fernsehen DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/23774
+#EXTINF:-1,MDR HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6238
+#EXTINF:-1,Bayern TV FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/9128
+#EXTINF:-1,RD HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8229
+#EXTINF:-1,3Sat FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/16289
+#EXTINF:-1,Servus TV HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6208
+#EXTINF:-1,NDR HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6225
+#EXTINF:-1,HR HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13150
+#EXTINF:-1,HR Fernsehen DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6243
+#EXTINF:-1,RBB Berlin DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6217
+#EXTINF:-1,RBB Brandenburg HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8230
+#EXTINF:-1,BR DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/13168
+#EXTINF:-1,MDR S-Anhalt HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8240
+#EXTINF:-1,MDR Sachsen HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8239
+#EXTINF:-1,SR Fernsehen HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/8225
+#EXTINF:-1,SWR DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6165
+#EXTINF:-1,Wdr HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6152
+#EXTINF:-1,3sat HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6265
+#EXTINF:-1,Anixe HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/6264
+#EXTINF:-1,VH1 Classic DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/638080
+#EXTINF:-1,MTV Brand New DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/638079
+#EXTINF:-1,Eagle Cinema Abenteuer HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648352
+#EXTINF:-1,Eagle Cinema Aktion HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648356
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648354
+#EXTINF:-1,Eagle Cinema Drama HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648353
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648348
+#EXTINF:-1,Eagle Cinema Horror HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648351
+#EXTINF:-1,Eagle Cinema KinoSaal (GERINGE QUALITÄT) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648344
+#EXTINF:-1,Eagle Cinema Komodie HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648350
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648349
+#EXTINF:-1,Eagle Cinema Mythologie HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648347
+#EXTINF:-1,Eagle Cinema Premiere HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648357
+#EXTINF:-1,Eagle Cinema Romantisch HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648346
+#EXTINF:-1,Eagle Cinema Sci-Fi HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648355
+#EXTINF:-1,Eagle Cinema Thriller HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648345
+#EXTINF:-1,Eagle Game of Thrones S08 DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648343
+#EXTINF:-1,Eagle Peppa Wutz HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648341
+#EXTINF:-1,Eagle PJ MASKS HD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/648342
+#EXTINF:-1,Sky Select 1 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655131
+#EXTINF:-1,Sky Select 2 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655130
+#EXTINF:-1,Sky Select 3 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655129
+#EXTINF:-1,Sky Select 4 FHD DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655128
+#EXTINF:-1,Sky Select 5 HD (demnächst) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655127
+#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655126
+#EXTINF:-1,Sky Select 7 4K (demnächst) DE
+http://iptv.rent:8080/f8vyz6yqzg/ubx6r1dos/655125
