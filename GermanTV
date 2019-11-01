@@ -89,4 +89,13 @@
 <fanart></fanart> 
 <info></info> 
 </channel>
+<channels> 
+
+<channel> 
+<name>[B]German TV - TEST[/B]</name>
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://dtrsa.dj-btronic.de/upload/tv2.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
 
