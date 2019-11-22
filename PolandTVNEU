@@ -35,7 +35,16 @@
 <fanart></fanart> 
 <info></info> 
 </channel> 
-<channels> 
+<channels>
+
+<channel> 
+<name>[B]Poland VOD - TEST[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://pastebin.com/raw/8S2Yhznf</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
 
 <channel> 
 <name>[B]Poland VOD 4K UHD - Movies[/B]</name> 
