@@ -38,9 +38,9 @@
 <channels>
 
 <channel> 
-<name>[B]Poland VOD - TEST[/B]</name> 
+<name>[B]Poland VOD - Movies TEST[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://pastebin.com/raw/8S2Yhznf</externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandVOD91-93.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
