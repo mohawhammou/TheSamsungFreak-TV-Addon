@@ -27,25 +27,7 @@
 <info></info>
 </channel>
 
-<channels>
-<channel>
-<name>[B]Robin Hood[/B]</name>
-<thumbnail>http://kodibalkan.com/repo/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/robinhood</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
 <channels> 
-
-<channel> 
-<name>[B]Pavoo TV[/B]</name> 
-<thumbnail>http://pavootv.com/repo/icon.png</thumbnail> 
-<externallink>http://pavootv.com/PAVOOTV/menu2.xml</externallink> 
-<fanart></fanart> 
-<info></info> 
-</channel>
-<channels>
-
 <channel>
 <name>[B]XXX TV[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
@@ -53,8 +35,8 @@
 <fanart></fanart>
 <info></info>
 </channel>
-<channels> 
 
+<channels> 
 <channel> 
 <name>[B]XXX VOD[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
