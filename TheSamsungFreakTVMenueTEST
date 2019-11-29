@@ -1,6 +1,24 @@
 <layouttype>thumbnail</layouttype>
 
+<channels> 
+<channel> 
+<name>[B]France TV[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/FranceTV/master/FranceTV.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]France Movies - VOD[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
 <channels>
+
 <channel>
 <name>[B]German TV[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
