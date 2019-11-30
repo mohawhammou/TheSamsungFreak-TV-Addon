@@ -4,7 +4,7 @@
 <channel> 
 <name>[B]Poland Movies - VOD 1[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>   </externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
@@ -13,8 +13,217 @@
 <channel> 
 <name>[B]Poland Movies - VOD 2[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>   </externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy1.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 3[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy91-93.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
 <channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 4[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy94-97.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 5[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy98-99.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 6[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2000.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 7[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2001.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 8[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2002.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 9[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2003.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 10[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2004.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 11[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2005.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 12[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2006.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 13[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2007.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 14[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2008.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 15[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2009.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 16[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2010.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 17[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2011.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 18[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2012.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 19[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2013.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 20[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2014.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 21[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2015.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 22[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2016.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channels> 
+<channel> 
+<name>[B]Poland Movies - VOD 23[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Poland-VOD-Movies/master/Filmy2017.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]Poland Movies - VOD 24[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>   </externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
