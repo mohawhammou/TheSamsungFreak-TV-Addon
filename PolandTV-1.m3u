@@ -1,555 +1,371 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TVN FHD" tvg-logo="" group-title="Poland",TVN FHD
-http://iptvking.123tv.to:8080/live/1Y3DGNoo1h/PW3JbN8I5h/839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="" group-title="Poland",TVN HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://195.154.221.171/picons/tvnpl.png" group-title="Poland",TVN
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN 7 FHD" tvg-logo="" group-title="Poland",TVN 7 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN 7 HD" tvg-logo="" group-title="Poland",TVN 7 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat FHD" tvg-logo="http://195.154.221.171/picons/polsathdpl.png" group-title="Poland",Polsat FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat HD" tvg-logo="" group-title="Poland",Polsat HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 FHD" tvg-logo="" group-title="Poland",Polsat 2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 HD" tvg-logo="" group-title="Poland",Polsat 2 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2" tvg-logo="" group-title="Poland",Polsat 2
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV4 HD" tvg-logo="" group-title="Poland",TV4 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD" tvg-logo="" group-title="Poland",TV 4 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="http://195.154.221.171/picons/tv4pl.png" group-title="Poland",TV 4
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 1 FHD" tvg-logo="" group-title="Poland",TVP 1 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 1 HD" tvg-logo="" group-title="Poland",TVP 1 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 2 FHD" tvg-logo="" group-title="Poland",TVP 2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 2" tvg-logo="http://195.154.221.171/picons/tvp2pl.png" group-title="Poland",TVP 2
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD" tvg-logo="" group-title="Poland",HBO 1 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/11099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-logo="" group-title="Poland",HBO 1 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="Poland",HBO 2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="Poland",HBO 2 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD" tvg-logo="" group-title="Poland",HBO 3 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ FHD" tvg-logo="http://195.154.221.171/picons/canalplushd.png" group-title="Poland",Canal+ FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ HD" tvg-logo="http://195.154.221.171/picons/canalplushd.png" group-title="Poland",Canal+ HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="http://195.154.221.171/picons/canalplus.png" group-title="Poland",Canal+
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/8429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ UHD" tvg-logo="" group-title="Poland",Canal+ UHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/66881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ +1 FHD" tvg-logo="" group-title="Poland",Canal+ +1 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Film HD" tvg-logo="" group-title="Poland",Canal+ Film HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY FHD" tvg-logo="" group-title="Poland",CANAL+ FAMILY FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY HD" tvg-logo="" group-title="Poland",CANAL+ FAMILY HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/12321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale FHD" tvg-logo="" group-title="Poland",Canal+ Seriale FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale HD" tvg-logo="" group-title="Poland",Canal+ Seriale HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/12322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Film FHD" tvg-logo="" group-title="Poland",Polsat Film FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Film HD" tvg-logo="" group-title="Poland",Polsat Film HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Film" tvg-logo="" group-title="Poland",Polsat Film
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="http://195.154.221.171/picons/axnhdpl.png" group-title="Poland",AXN FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Poland",AXN HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN Black" tvg-logo="" group-title="Poland",AXN Black
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="" group-title="Poland",AXN White
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin FHD" tvg-logo="" group-title="Poland",AXN Spin FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin" tvg-logo="" group-title="Poland",AXN Spin
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://195.154.221.171/picons/foxhdpl.png" group-title="Poland",FOX FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://195.154.221.171/picons/foxpl.png" group-title="Poland",FOX HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy FHD" tvg-logo="http://195.154.221.171/picons/foxcomedyhdpl.png" group-title="Poland",FOX Comedy FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy" tvg-logo="" group-title="Poland",Fox Comedy
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Action HD" tvg-logo="" group-title="Poland",Filmbox Action HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Action" tvg-logo="" group-title="Poland",Filmbox Action
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse" tvg-logo="" group-title="Poland",FilmBox Arthouse
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra HD" tvg-logo="" group-title="Poland",Filmbox Extra HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra" tvg-logo="http://195.154.221.171/picons/filmboxextrapl.png" group-title="Poland",Filmbox Extra
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Family" tvg-logo="" group-title="Poland",Filmbox Family
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Premium HD" tvg-logo="" group-title="Poland",Filmbox Premium HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax 1 FHD" tvg-logo="" group-title="Poland",CineMax 1 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax 1 HD" tvg-logo="" group-title="Poland",CineMax 1 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="Poland",Cinemax 2 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Action" tvg-logo="" group-title="Poland",CBS Action
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Europa FHD" tvg-logo="" group-title="Poland",CBS Europa FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="" group-title="Poland",CBS Reality
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 Ulica FHD" tvg-logo="" group-title="Poland",13 Ulica FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 Ulica" tvg-logo="" group-title="Poland",13 Ulica
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ale Kino+ FHD" tvg-logo="" group-title="Poland",Ale Kino+ FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ale Kino+ HD" tvg-logo="" group-title="Poland",Ale Kino+ HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="http://195.154.221.171/picons/comedycentralhdpl.png" group-title="Poland",Comedy Central FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Poland",Comedy Central
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Family" tvg-logo="" group-title="Poland",Comedy Central Family
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kino Polska" tvg-logo="http://195.154.221.171/picons/kinopolska.png" group-title="Poland",Kino Polska
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kino TV" tvg-logo="http://195.154.221.171/picons/kinotvpl.png" group-title="Poland",Kino TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="" group-title="Poland",Paramount Channel FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SciFi Universal" tvg-logo="" group-title="Poland",SciFi Universal
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="Poland",TNT FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Poland",TNT HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Poland",TNT
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="Poland",AMC FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/21328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://195.154.221.171/picons/amcpl.png" group-title="Poland",AMC
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Active Family" tvg-logo="" group-title="Poland",Active Family
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN Fabula FHD" tvg-logo="" group-title="Poland",TVN Fabula FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Romans" tvg-logo="http://195.154.221.171/picons/polsatromanspl.png" group-title="Poland",Polsat Romans
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Romance FHD" tvg-logo="" group-title="Poland",Romance FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Seriale" tvg-logo="" group-title="Poland",TVP Seriale
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 FHD" tvg-logo="" group-title="Poland",EuroSport 1 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD" tvg-logo="" group-title="Poland",EuroSport 1 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://195.154.221.171/picons/eurosport1pl.png" group-title="Poland",Eurosport 1
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 FHD" tvg-logo="" group-title="Poland",EuroSport 2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="" group-title="Poland",Eleven Sports 1 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="" group-title="Poland",Eleven Sports 2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD" tvg-logo="" group-title="Poland",Eleven Sports 3 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 FHD" tvg-logo="" group-title="Poland",Eleven Sports 4 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 3 - Eleven Sport 3 FHD" tvg-logo="http://195.154.221.171/picons/tenispremium1pl.png" group-title="Poland",Eurosport 3 - Eleven Sport 3 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 4 - Eleven Sport 4 FHD" tvg-logo="http://195.154.221.171/picons/tenispremium2pl.png" group-title="Poland",Eurosport 4 - Eleven Sport 4 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport FHD" tvg-logo="" group-title="Poland",Canal+ Sport FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="" group-title="Poland",Canal+ Sport HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport" tvg-logo="" group-title="Poland",Canal+ Sport
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 FHD" tvg-logo="" group-title="Poland",Canal+ Sport 2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD" tvg-logo="" group-title="Poland",Canal+ Sport 2 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports FHD" tvg-logo="" group-title="Poland",Extreme Sports FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports HD" tvg-logo="" group-title="Poland",Extreme Sports HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/12323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News HD" tvg-logo="" group-title="Poland",Polsat Sport News HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport FHD" tvg-logo="http://195.154.221.171/picons/polsatsporthdpl.png" group-title="Poland",Polsat Sport FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport HD" tvg-logo="" group-title="Poland",Polsat Sport HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport" tvg-logo="http://195.154.221.171/picons/polsatsportpl.png" group-title="Poland",Polsat Sport
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra FHD" tvg-logo="" group-title="Poland",Polsat Sport Extra FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD" tvg-logo="" group-title="Poland",Polsat Sport Extra HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra" tvg-logo="" group-title="Poland",Polsat Sport Extra
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/75258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 FHD VIP" tvg-logo="" group-title="Poland",Polsat Sport Premium 1 FHD VIP
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 FHD VIP" tvg-logo="" group-title="Poland",Polsat Sport Premium 2 FHD VIP
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT Sport Fight FHD" tvg-logo="" group-title="Poland",POLSAT Sport Fight FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight HD" tvg-logo="" group-title="Poland",Polsat Sport Fight HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight" tvg-logo="http://195.154.221.171/picons/polsatsportfightpl.png" group-title="Poland",Polsat Sport Fight
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Channel World HD" tvg-logo="" group-title="Poland",Fight Channel World HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD" tvg-logo="" group-title="Poland",Fight Network FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD" tvg-logo="" group-title="Poland",Fightbox FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fightbox" tvg-logo="" group-title="Poland",Fightbox
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nSport HD" tvg-logo="" group-title="Poland",nSport HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/54963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nSport FHD" tvg-logo="" group-title="Poland",nSport FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub FHD" tvg-logo="" group-title="Poland",Sport Klub FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Sport FHD" tvg-logo="http://195.154.221.171/picons/tvpsporthdpl.png" group-title="Poland",TVP Sport FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD" tvg-logo="" group-title="Poland",TVP Sport HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="http://195.154.221.171/picons/golfchannelhdpl.png" group-title="Poland",Golf Channel FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adventure FHD" tvg-logo="" group-title="Poland",Adventure FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animalanet FHD" tvg-logo="" group-title="Poland",Animalanet FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Brit FHD" tvg-logo="" group-title="Poland",BBC Brit FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/21327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD" tvg-logo="" group-title="Poland",BBC Earth HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC HD" tvg-logo="" group-title="Poland",BBC HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Discovery FHD" tvg-logo="" group-title="Poland",Canal+ Discovery FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Discovery HD" tvg-logo="" group-title="Poland",Canal+ Discovery HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation Polsat FHD" tvg-logo="" group-title="Poland",Crime Investigation Polsat FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/18821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DTX FHD" tvg-logo="" group-title="Poland",DTX FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DTX HD" tvg-logo="http://195.154.221.171/picons/dtxpl.png" group-title="Poland",DTX HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Poland",Da Vinci Learning
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://195.154.221.171/picons/discoverychannelhdpl.png" group-title="Poland",Discovery Channel FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://195.154.221.171/picons/discoverychannelpl.png" group-title="Poland",Discovery Channel HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Historia" tvg-logo="" group-title="Poland",Discovery Historia
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life FHD" tvg-logo="" group-title="Poland",Discovery Life FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-logo="" group-title="Poland",Discovery Life
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Poland",Discovery Science HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fokus TV" tvg-logo="" group-title="Poland",Fokus TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="http://195.154.221.171/picons/historyhdpl.png" group-title="Poland",History FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="Poland",History
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="" group-title="Poland",H2 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryhdpl.png" group-title="Poland",Investigation Discovery FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://195.154.221.171/picons/investigationdiscoverypl.png" group-title="Poland",Investigation Discovery
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD" tvg-logo="" group-title="Poland",Nat Geo FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="Poland",Nat Geo
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People FHD" tvg-logo="" group-title="Poland",Nat Geo People FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="http://195.154.221.171/picons/natgeowildhdpl.png" group-title="Poland",Nat Geo Wild FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Poland",Nat Geo Wild
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Motorwizja" tvg-logo="" group-title="Poland",Motorwizja
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ FHD" tvg-logo="" group-title="Poland",Planete+ FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Planete+" tvg-logo="" group-title="Poland",Planete+
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Doku FHD" tvg-logo="http://195.154.221.171/picons/polsatdokuhdpl.png" group-title="Poland",Polsat Doku FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Viasat History FHD" tvg-logo="http://195.154.221.171/picons/polsatviasathistoryhdpl.png" group-title="Poland",Polsat Viasat History FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT Viasat Explore FHD" tvg-logo="" group-title="Poland",POLSAT Viasat Explore FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT Viasat Nature" tvg-logo="" group-title="Poland",POLSAT Viasat Nature
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo FHD" tvg-logo="" group-title="Poland",TVN Turbo FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo" tvg-logo="" group-title="Poland",TVN Turbo
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Historia" tvg-logo="" group-title="Poland",TVP Historia
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TheBlaze TV" tvg-logo="http://195.154.221.171/picons/theblazetvpl.png" group-title="Poland",TheBlaze TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel HD" tvg-logo="" group-title="Poland",Travel HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4Fun Dance" tvg-logo="http://195.154.221.171/picons/4fundancepl.png" group-title="Poland",4Fun Dance
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4Fun Gold Hits" tvg-logo="http://195.154.221.171/picons/4fungoldhitspl.png" group-title="Poland",4Fun Gold Hits
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4Fun TV" tvg-logo="" group-title="Poland",4Fun TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATM Rozrywka TV" tvg-logo="" group-title="Poland",ATM Rozrywka TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music HD" tvg-logo="http://195.154.221.171/picons/discopolomusicpl.png" group-title="Poland",Disco Polo Music HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music" tvg-logo="" group-title="Poland",Disco Polo Music
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra" tvg-logo="http://195.154.221.171/picons/eskatvextrapl.png" group-title="Poland",Eska TV Extra
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eska TV" tvg-logo="http://195.154.221.171/picons/eskatvpl.png" group-title="Poland",Eska TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIP HOP TV" tvg-logo="" group-title="Poland",HIP HOP TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kino Polska Muzyka" tvg-logo="http://195.154.221.171/picons/kinopolskamuzyka.png" group-title="Poland",Kino Polska Muzyka
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD" tvg-logo="" group-title="Poland",MTV Dance HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="http://195.154.221.171/picons/mtvlivehdpl.png" group-title="Poland",MTV Live FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Polska FHD" tvg-logo="http://195.154.221.171/picons/mtvhdpl.png" group-title="Poland",MTV Polska FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Polska" tvg-logo="" group-title="Poland",MTV Polska
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nuta.TV" tvg-logo="http://195.154.221.171/picons/nutatvpl.png" group-title="Poland",Nuta.TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polo TV" tvg-logo="" group-title="Poland",Polo TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Music FHD" tvg-logo="http://195.154.221.171/picons/polsatmusichdpl.png" group-title="Poland",Polsat Music FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="http://195.154.221.171/picons/powertvpl.png" group-title="Poland",Power TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TO!TV" tvg-logo="http://195.154.221.171/picons/totvpl.png" group-title="Poland",TO!TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Rozrywka" tvg-logo="" group-title="Poland",TVP Rozrywka
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV" tvg-logo="" group-title="Poland",VOX Music TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://195.154.221.171/picons/vh1pl.png" group-title="Poland",VH1
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stars TV" tvg-logo="" group-title="Poland",Stars TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban Muzik HD" tvg-logo="http://195.154.221.171/picons/traceurbanpl.png" group-title="Poland",Trace Urban Muzik HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 FHD" tvg-logo="http://195.154.221.171/picons/tvn24hd.png" group-title="Poland",TVN 24 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 HD" tvg-logo="http://195.154.221.171/picons/tvn24hd.png" group-title="Poland",TVN 24 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24" tvg-logo="http://195.154.221.171/picons/tvn24.png" group-title="Poland",TVN 24
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 BiS HD" tvg-logo="http://195.154.221.171/picons/tvn24bis.png" group-title="Poland",TVN 24 BiS HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat News FHD" tvg-logo="" group-title="Poland",Polsat News FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat News" tvg-logo="" group-title="Poland",Polsat News
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat News 2" tvg-logo="" group-title="Poland",Polsat News 2
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Info FHD" tvg-logo="http://195.154.221.171/picons/tvpinfohdpl.png" group-title="Poland",TVP Info FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Info" tvg-logo="" group-title="Poland",TVP Info
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="" group-title="Poland",Baby TV HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/24160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Poland",Boomerang
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Poland",Cartoon Network HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="" group-title="Poland",Cbeebies
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="" group-title="Poland",Disney Channel FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="Poland",Disney Junior
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="Poland",Disney XD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MiniMini+ FHD" tvg-logo="" group-title="Poland",MiniMini+ FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MiniMini+ HD" tvg-logo="" group-title="Poland",MiniMini+ HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick JR." tvg-logo="" group-title="Poland",Nick JR.
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Poland",Nickelodeon
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT JimJam" tvg-logo="" group-title="Poland",POLSAT JimJam
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP ABC" tvg-logo="" group-title="Poland",TVP ABC
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleToon+ FHD" tvg-logo="" group-title="Poland",TeleToon+ FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleToon+" tvg-logo="" group-title="Poland",TeleToon+
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuchnia+ FHD" tvg-logo="http://195.154.221.171/picons/kuchniaplushdpl.png" group-title="Poland",Kuchnia+ FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuchnia+ HD" tvg-logo="" group-title="Poland",Kuchnia+ HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="" group-title="Poland",HGTV FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="Poland",HGTV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="" group-title="Poland",Food Network FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/19522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="" group-title="Poland",TLC FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Poland",TLC
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TTV FHD" tvg-logo="http://195.154.221.171/picons/ttvhdpl.png" group-title="Poland",TTV FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Domo+ HD" tvg-logo="" group-title="Poland",Domo+ HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/7798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="" group-title="Poland",E! FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Epic Drama FHD" tvg-logo="http://195.154.221.171/picons/twojatvhdpl.png" group-title="Poland",Epic Drama FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="" group-title="Poland",Lifetime FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/855.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://195.154.221.171/picons/lifetimehdpl.png" group-title="Poland",Lifetime HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Cafe HD" tvg-logo="" group-title="Poland",Polsat Cafe HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Games FHD" tvg-logo="http://195.154.221.171/picons/polsatgames.png" group-title="Poland",Polsat Games FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/21792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsatay FHD" tvg-logo="" group-title="Poland",Polsatay FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsatay HD" tvg-logo="" group-title="Poland",Polsatay HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsatay" tvg-logo="" group-title="Poland",Polsatay
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina FHD" tvg-logo="http://195.154.221.171/picons/polsatrodzinafhd.png" group-title="Poland",Polsat Rodzina FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/21793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN Style FHD" tvg-logo="http://195.154.221.171/picons/tvnstylehdpl.png" group-title="Poland",TVN Style FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN Style" tvg-logo="" group-title="Poland",TVN Style
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="METRO" tvg-logo="" group-title="Poland",METRO
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Kultura" tvg-logo="" group-title="Poland",TVP Kultura
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Puls FHD" tvg-logo="http://195.154.221.171/picons/tvpulshdpl.png" group-title="Poland",TV Puls FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Puls HD" tvg-logo="" group-title="Poland",TV Puls HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Puls 2" tvg-logo="" group-title="Poland",Puls 2
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV6 FHD" tvg-logo="" group-title="Poland",TV6 FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV6 HD" tvg-logo="" group-title="Poland",TV6 HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nowa TV" tvg-logo="http://195.154.221.171/picons/nowatvpl.png" group-title="Poland",Nowa TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stopklatka TV" tvg-logo="" group-title="Poland",Stopklatka TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sundance FHD" tvg-logo="" group-title="Poland",Sundance FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Polsat FHD" tvg-logo="" group-title="Poland",Super Polsat FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Superstacja" tvg-logo="http://195.154.221.171/picons/superstacjapl.png" group-title="Poland",Superstacja
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Republika HD" tvg-logo="" group-title="Poland",TV Republika HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Republika" tvg-logo="" group-title="Poland",TV Republika
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP FHD" tvg-logo="" group-title="Poland",TVP FHD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP HD" tvg-logo="" group-title="Poland",TVP HD
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/6419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Polonia" tvg-logo="http://195.154.221.171/picons/tvppoloniapl.png" group-title="Poland",TVP Polonia
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="http://195.154.221.171/picons/tvspl.png" group-title="Poland",TVS
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WP" tvg-logo="http://195.154.221.171/picons/wppl.png" group-title="Poland",WP
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zest TV" tvg-logo="http://195.154.221.171/picons/zesttvpl.png" group-title="Poland",Zest TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="http://195.154.221.171/picons/zoomtvpl.png" group-title="Poland",Zoom TV
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Trwam" tvg-logo="" group-title="Poland",TV Trwam
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/4537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Białystok" tvg-logo="http://195.154.221.171/picons/tvp3bialystok.png" group-title="Poland",TVP 3 Białystok
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Bydgoszcz" tvg-logo="http://195.154.221.171/picons/tvp3bydgoszcz.png" group-title="Poland",TVP 3 Bydgoszcz
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Gdańsk" tvg-logo="http://195.154.221.171/picons/tvp3gdansk.png" group-title="Poland",TVP 3 Gdańsk
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/15876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Katowice" tvg-logo="http://195.154.221.171/picons/tvp3katowice.png" group-title="Poland",TVP 3 Katowice
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/15877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Kielce" tvg-logo="http://195.154.221.171/picons/tvp3kielce.png" group-title="Poland",TVP 3 Kielce
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Kraków" tvg-logo="http://195.154.221.171/picons/tvp3krakow.png" group-title="Poland",TVP 3 Kraków
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Lublin" tvg-logo="http://195.154.221.171/picons/tvp3lublin.png" group-title="Poland",TVP 3 Lublin
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Olsztyn" tvg-logo="http://195.154.221.171/picons/tvp3olsztyn.png" group-title="Poland",TVP 3 Olsztyn
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Opole" tvg-logo="http://195.154.221.171/picons/tvp3opole.png" group-title="Poland",TVP 3 Opole
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3" tvg-logo="" group-title="Poland",TVP 3
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Poznań" tvg-logo="http://195.154.221.171/picons/tvp3poznan.png" group-title="Poland",TVP 3 Poznań
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/15878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Rzeszów" tvg-logo="http://195.154.221.171/picons/tvp3rzeszow.png" group-title="Poland",TVP 3 Rzeszów
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Szczecin" tvg-logo="http://195.154.221.171/picons/tvp3szczecin.png" group-title="Poland",TVP 3 Szczecin
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/15875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Warszawa" tvg-logo="http://195.154.221.171/picons/tvp3warszawapl.png" group-title="Poland",TVP 3 Warszawa
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/10425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Wrocław" tvg-logo="http://195.154.221.171/picons/tvp3wroclaw.png" group-title="Poland",TVP 3 Wrocław
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Łódź" tvg-logo="http://195.154.221.171/picons/tvp3lodz.png" group-title="Poland",TVP 3 Łódź
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Imperium TV Gliwice" tvg-logo="http://195.154.221.171/picons/imperiumtv.png" group-title="Poland",Imperium TV Gliwice
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Kujawy" tvg-logo="http://195.154.221.171/picons/tvkujawy.png" group-title="Poland",TV Kujawy
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/16006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Toruń" tvg-logo="http://195.154.221.171/picons/tvtorun.png" group-title="Poland",TV Toruń
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/21151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVT Zgorzelec" tvg-logo="http://195.154.221.171/picons/tvt.png" group-title="Poland",TVT Zgorzelec
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/15318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 202" tvg-logo="" group-title="Poland",VOD 202
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 204" tvg-logo="" group-title="Poland",VOD 204
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 205" tvg-logo="" group-title="Poland",VOD 205
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 206" tvg-logo="" group-title="Poland",VOD 206
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 207" tvg-logo="" group-title="Poland",VOD 207
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 208" tvg-logo="" group-title="Poland",VOD 208
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD 212" tvg-logo="" group-title="Poland",VOD 212
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSW PPV (Match Time)" tvg-logo="" group-title="Poland",KSW PPV (Match Time)
-http://iptvking.123tv.to:8080/live/MT2mJzAvY9/MkrhVySyj9/43690.m3u8
+#EXTINF:-1,TVP FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2949
+#EXTINF:-1,TVP 1 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2951
+#EXTINF:-1,TVP 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2950
+#EXTINF:-1,TVP 3 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5460
+#EXTINF:-1,TVP ABC PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5452
+#EXTINF:-1,TVP Historia PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5453
+#EXTINF:-1,TVP Info FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5455
+#EXTINF:-1,TVP Info HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5454
+#EXTINF:-1,TVP Kultura PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5456
+#EXTINF:-1,TVP Polonia PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5457
+#EXTINF:-1,TVP Rozrywka PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5464
+#EXTINF:-1,TVP Seriale PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5463
+#EXTINF:-1,TVN FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2953
+#EXTINF:-1,TVN 7 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2955
+#EXTINF:-1,TV Puls HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2959
+#EXTINF:-1,TV6 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2957
+#EXTINF:-1,Nowa TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5445
+#EXTINF:-1,Stopklatka TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5447
+#EXTINF:-1,Superstacja PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5448
+#EXTINF:-1,TVP 2 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5323
+#EXTINF:-1,POLSAT FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5446
+#EXTINF:-1,POLSAT 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2977
+#EXTINF:-1,TV4 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2958
+#EXTINF:-1,POLSAT Cafe FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2976
+#EXTINF:-1,POLSAT Play FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2973
+#EXTINF:-1,TVN STYLE PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5287
+#EXTINF:-1,TVN STYLE FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5288
+#EXTINF:-1,TVN Turbo FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2952
+#EXTINF:-1,Travel Channel PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2960
+#EXTINF:-1,Adventure FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2938
+#EXTINF:-1,Domo+ FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2909
+#EXTINF:-1,E! HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5291
+#EXTINF:-1,HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2989
+#EXTINF:-1,Kuchnia+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2987
+#EXTINF:-1,Super Polsat PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2964
+#EXTINF:-1,Polsat News FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5305
+#EXTINF:-1,Polsat News 2 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5307
+#EXTINF:-1,TVN 24 BIS PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5308
+#EXTINF:-1,TVN 24 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2956
+#EXTINF:-1,TVN Fabula FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2954
+#EXTINF:-1,TTV FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5449
+#EXTINF:-1,TV Republika PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5450
+#EXTINF:-1,TV Trwam PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5451
+#EXTINF:-1,TVS PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5462
+#EXTINF:-1,WP PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5461
+#EXTINF:-1,Ale Kino+  FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2937
+#EXTINF:-1,Canal+  FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2925
+#EXTINF:-1,Canal+ 4K ULTRA HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2971
+#EXTINF:-1,CANAL+ 1 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2929
+#EXTINF:-1,CANAL+ FAMILY FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2927
+#EXTINF:-1,Canal+ Seriale FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2924
+#EXTINF:-1,CANAL+ Film FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2926
+#EXTINF:-1,CineMax 1 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2916
+#EXTINF:-1,Cinemax 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2915
+#EXTINF:-1,HBO FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2992
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2991
+#EXTINF:-1,HBO3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2990
+#EXTINF:-1,Canal+ Sport FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2922
+#EXTINF:-1,Canal+ Sport 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2923
+#EXTINF:-1,Polsat Sport Premium 1 HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12391
+#EXTINF:-1,Polsat Sport Premium 1 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12389
+#EXTINF:-1,Polsat Sport Premium 2 HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12390
+#EXTINF:-1,Polsat Sport Premium 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12388
+#EXTINF:-1,Polsat Sport Premium 3 PPV HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12387
+#EXTINF:-1,Polsat Sport Premium 4 PPV HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12386
+#EXTINF:-1,Polsat Sport Premium 5 PPV HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12385
+#EXTINF:-1,Polsat Sport Premium 6 PPV HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12384
+#EXTINF:-1,Eleven Sports 1 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2906
+#EXTINF:-1,Eleven Sports 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2905
+#EXTINF:-1,Eleven Sports 3 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2904
+#EXTINF:-1,Eleven Sports 4 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2903
+#EXTINF:-1,EuroSport 1 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2902
+#EXTINF:-1,Golf Channel FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5326
+#EXTINF:-1,EuroSport 2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2901
+#EXTINF:-1,nSport + FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2981
+#EXTINF:-1,Polsat Sport FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2970
+#EXTINF:-1,Polsat Sport Extra FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2972
+#EXTINF:-1,Polsat Sport News FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2969
+#EXTINF:-1,TVP Sport FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2948
+#EXTINF:-1,Extreme Sports FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2900
+#EXTINF:-1,Fightbox FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2897
+#EXTINF:-1,PPV KSW FIGHTS PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2898
+#EXTINF:-1,Fight Channel World FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2899
+#EXTINF:-1,ATM Rozrywka TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5327
+#EXTINF:-1,Motorwizja PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5313
+#EXTINF:-1,Animal Planet HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2936
+#EXTINF:-1,BBC HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2930
+#EXTINF:-1,BBC Earth HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2931
+#EXTINF:-1,BBC BRIT PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12398
+#EXTINF:-1,BBC LIFESTYLE FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12397
+#EXTINF:-1,CBS Reality PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2917
+#EXTINF:-1,DA VINCI LEARNING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5300
+#EXTINF:-1,Discovery Channel FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5409
+#EXTINF:-1,Canal+ Discovery FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2928
+#EXTINF:-1,Discovery Life FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2912
+#EXTINF:-1,Discovery Science FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2911
+#EXTINF:-1,Investigation Discovery FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5292
+#EXTINF:-1,Crime and Investigation FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2945
+#EXTINF:-1,Discovery Historia PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5444
+#EXTINF:-1,HISTORY PL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5299
+#EXTINF:-1,HISTORY FULL HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5298
+#EXTINF:-1,DTX HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2908
+#EXTINF:-1,H2 FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2993
+#EXTINF:-1,Nat Geo FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2983
+#EXTINF:-1,Nat Geo Wild FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5320
+#EXTINF:-1,Nat Geo People FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5321
+#EXTINF:-1,Nat Geo People FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2982
+#EXTINF:-1,Planete FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12393
+#EXTINF:-1,Planete + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2979
+#EXTINF:-1,POLSAT Doku FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5304
+#EXTINF:-1,Viasat Nature PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5314
+#EXTINF:-1,POLSAT Viasat Explore FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2968
+#EXTINF:-1,POLSAT Viasat History FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5315
+#EXTINF:-1,POLSAT Games HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/14647
+#EXTINF:-1,Polsat Rodzina PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/14648
+#EXTINF:-1,13 Ulica FULL HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2939
+#EXTINF:-1,AXN Black PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2935
+#EXTINF:-1,AXN White PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2932
+#EXTINF:-1,AXN PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2934
+#EXTINF:-1,AXN Spin FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2933
+#EXTINF:-1,Comedy Central PL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2914
+#EXTINF:-1,Comedy Central PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/6253
+#EXTINF:-1,Comedy Central Family FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2913
+#EXTINF:-1,AMC HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5317
+#EXTINF:-1,Fox FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5311
+#EXTINF:-1,Fox Comedy PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2994
+#EXTINF:-1,Fox Comedy FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5312
+#EXTINF:-1,Epic Drama FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12830
+#EXTINF:-1,Lifetime FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2986
+#EXTINF:-1,POLSAT Film FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2975
+#EXTINF:-1,POLSAT Romans PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5303
+#EXTINF:-1,TLC FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2962
+#EXTINF:-1,CBS Action PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2919
+#EXTINF:-1,CBS Europa FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2918
+#EXTINF:-1,FilmBox Action PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2896
+#EXTINF:-1,FilmBox Arthouse PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2895
+#EXTINF:-1,FilmBox Family PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2893
+#EXTINF:-1,FilmBox Premium PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2891
+#EXTINF:-1,FilmBox Extra PL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2894
+#EXTINF:-1,Kino Polska PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2988
+#EXTINF:-1,Paramount Channel HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2980
+#EXTINF:-1,Active Family PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5302
+#EXTINF:-1,Sundance FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2965
+#EXTINF:-1,Romance FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2967
+#EXTINF:-1,SciFi Universal FULL HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2947
+#EXTINF:-1,Stars TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3355
+#EXTINF:-1,TNT FULL HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2961
+#EXTINF:-1,Zoom TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5325
+#EXTINF:-1,|PL| VOD 205
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2944
+#EXTINF:-1,|PL| VOD 206
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2946
+#EXTINF:-1,|PL| VOD 207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2942
+#EXTINF:-1,|PL| VOD 208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2941
+#EXTINF:-1,4Fun.TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3356
+#EXTINF:-1,4Fun Dance PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3358
+#EXTINF:-1,4Fun Gold Hits PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3357
+#EXTINF:-1,Disco Polo Music PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3202
+#EXTINF:-1,Kino Polska Muzyka PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5319
+#EXTINF:-1,Eska TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3349
+#EXTINF:-1,MTV POLSKA FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5296
+#EXTINF:-1,MTV Live PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5295
+#EXTINF:-1,VH1 PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2984
+#EXTINF:-1,VOX Music TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3354
+#EXTINF:-1,HIP HOP TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5297
+#EXTINF:-1,METRO PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5294
+#EXTINF:-1,Polo TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3204
+#EXTINF:-1,VH1 TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/3203
+#EXTINF:-1,Power TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5301
+#EXTINF:-1,Nuta TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12394
+#EXTINF:-1,TO!TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12396
+#EXTINF:-1,TRACE TV PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12395
+#EXTINF:-1,Boomerang PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5443
+#EXTINF:-1,Cartoon Network FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2920
+#EXTINF:-1,Disney Channel FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2910
+#EXTINF:-1,DISNEY JUNIOR PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5289
+#EXTINF:-1,DISNEY XD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5290
+#EXTINF:-1,BBC Cbeebies PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5318
+#EXTINF:-1,Baby Tv PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/12392
+#EXTINF:-1,POLSAT JimJam PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5316
+#EXTINF:-1,MiniMini FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2985
+#EXTINF:-1,Nickelodeon PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5310
+#EXTINF:-1,Nick JR PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/5309
+#EXTINF:-1,TeleToon + FHD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/27092019/27092019/2963
+#EXTINF:-1,Botox PL 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/movie/27092019/27092019/6419.mp4
+#EXTINF:-1,Fanatyk PL 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/movie/27092019/27092019/6418.mp4
+#EXTINF:-1,Silent Night PL 2017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.com:2103/movie/27092019/27092019/6420.mp4
