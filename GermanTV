@@ -85,16 +85,16 @@
 <channel> 
 <name>[B]German - WagasWorld Live Portal[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>http://wagasworld.com:80/Kodi/wagasworld.xml</externallink> 
+<externallink>http://wagasworld.com/Kodi/wwstreamportal.xml</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
 <channels> 
 
 <channel> 
-<name>[B]German TV - TEST[/B]</name>
+<name>[B]--- OFFLINE ---[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://pastebin.com/raw/wMWpxytb</externallink> 
+<externallink>  </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
