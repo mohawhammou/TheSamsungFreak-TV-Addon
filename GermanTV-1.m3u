@@ -1,549 +1,695 @@
 #EXTM3U
-#EXTINF:-1,13th Street FHD DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14060
-#EXTINF:-1,3sat DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12341
-#EXTINF:-1,3sat HD DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16497
-#EXTINF:-1,Animal Planet FHD DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9561
-#EXTINF:-1,ANIXE DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3445
-#EXTINF:-1,ANIXE FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14576
-#EXTINF:-1,Arte FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16496
-#EXTINF:-1,Astro TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12339
-#EXTINF:-1,AXN DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9562
-#EXTINF:-1,AXN HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/17498
-#EXTINF:-1,Boomerang DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12315
-#EXTINF:-1,BR Fernsehen Nord DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12322
-#EXTINF:-1,BR Fernsehen Nord HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16495
-#EXTINF:-1,Cartoon Network DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15565
-#EXTINF:-1,CLASSICA DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9555
-#EXTINF:-1,Comedy Central FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/17280
-#EXTINF:-1,Das Erste FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16493
-#EXTINF:-1,Das Erste HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/22824
-#EXTINF:-1,Das Erste DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3451
-#EXTINF:-1,Deluxe Music DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9554
-#EXTINF:-1,Deluxe Music FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14057
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12334
-#EXTINF:-1,Discovery Channel FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14063
-#EXTINF:-1,Discovery Channel DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3426
-#EXTINF:-1,Disney Channel DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3622
-#EXTINF:-1,Disney Channel FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14056
-#EXTINF:-1,Disney Cinemagic FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14312
-#EXTINF:-1,Disney Junior HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15566
-#EXTINF:-1,Disney XD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9547
-#EXTINF:-1,DMAX DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3431
-#EXTINF:-1,DMAX HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19683
-#EXTINF:-1,E! HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15567
-#EXTINF:-1,Eurosport 1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19101
-#EXTINF:-1,Eurosport 1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3435
-#EXTINF:-1,Eurosport 2 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15568
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/17281
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19099
-#EXTINF:-1,Fix & Foxi DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/20263
-#EXTINF:-1,Folx TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12319
-#EXTINF:-1,FOX FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14055
-#EXTINF:-1,FOX HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3425
-#EXTINF:-1,Heimatkanal DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9558
-#EXTINF:-1,History DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3424
-#EXTINF:-1,History FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14311
-#EXTINF:-1,hr-Fernsehen DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12316
-#EXTINF:-1,JukeBox DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15579
-#EXTINF:-1,Junior DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/20207
-#EXTINF:-1,Kabel Eins FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1649
-#EXTINF:-1,KiKa DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1648
-#EXTINF:-1,KiKA FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16492
-#EXTINF:-1,Kinowelt TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12291
-#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15750
-#EXTINF:-1,Motorvision TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9564
-#EXTINF:-1,MTV HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15759
-#EXTINF:-1,n-tv DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3449
-#EXTINF:-1,n-tv FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14054
-#EXTINF:-1,Welt FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14573
-#EXTINF:-1,Welt DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3448
-#EXTINF:-1,National Geographic Wild FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14062
-#EXTINF:-1,National Geographic Wild HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1646
-#EXTINF:-1,National Geographic FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14053
-#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16488
-#EXTINF:-1,NDR HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3443
-#EXTINF:-1,Nickelodeon DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19100
-#EXTINF:-1,Nick/MTV+ HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14571
-#EXTINF:-1,Phoenix DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3454
-#EXTINF:-1,Phoenix FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16487
-#EXTINF:-1,Planet HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18394
-#EXTINF:-1,Popcorn Select 1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18234
-#EXTINF:-1,Popcorn Select 2 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18235
-#EXTINF:-1,Popcorn Select 3 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18236
-#EXTINF:-1,Popcorn Select 4 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18237
-#EXTINF:-1,Popcorn Select 5 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18238
-#EXTINF:-1,Popcorn Select 6 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/18239
-#EXTINF:-1,ProSieben DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1642
-#EXTINF:-1,ProSieben FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14052
-#EXTINF:-1,ProSieben Maxx DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3444
-#EXTINF:-1,ProSieben Maxx FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14051
-#EXTINF:-1,rbb Fernsehen Berlin FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15747
-#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15754
-#EXTINF:-1,One FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15751
-#EXTINF:-1,Regio TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12328
-#EXTINF:-1,Romance TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/13111
-#EXTINF:-1,RTL Crime HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15570
-#EXTINF:-1,RTL FS DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12300
-#EXTINF:-1,RTL HB NDS DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12299
-#EXTINF:-1,RTL FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14049
-#EXTINF:-1,RTL HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3825
-#EXTINF:-1,RTL II DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3826
-#EXTINF:-1,RTL II FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14050
-#EXTINF:-1,RTL Living HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3202
-#EXTINF:-1,RTL Plus DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19655
-#EXTINF:-1,NITRO DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1639
-#EXTINF:-1,NITRO FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14048
-#EXTINF:-1,RTL WEST DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12298
-#EXTINF:-1,RTL Passion FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9563
-#EXTINF:-1,RTLplus DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12297
-#EXTINF:-1,SAT.1 Gold DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12309
-#EXTINF:-1,SAT.1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14047
-#EXTINF:-1,SAT.1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1637
-#EXTINF:-1,ServusTV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12307
-#EXTINF:-1,Sixx DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9560
-#EXTINF:-1,Sixx FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14046
-#EXTINF:-1,Sky 1 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9557
-#EXTINF:-1,Sky Atlantic FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14306
-#EXTINF:-1,Sky Cinema +1 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15574
-#EXTINF:-1,Sky Cinema +24 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1633
-#EXTINF:-1,Sky Cinema +24 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15575
-#EXTINF:-1,Sky Action FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14307
-#EXTINF:-1,Sky Action DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3432
-#EXTINF:-1,Sky Cinema DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1634
-#EXTINF:-1,Sky Family FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15576
-#EXTINF:-1,Sky Cinema FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14061
-#EXTINF:-1,Sky Cinema HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3420
-#EXTINF:-1,Sky Hits FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14305
-#EXTINF:-1,Sky Comedy DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3430
-#EXTINF:-1,Sky Emotion DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1631
-#EXTINF:-1,Sky Krimi DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3429
-#EXTINF:-1,Sky Nostalgie DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9556
-#EXTINF:-1,Sky Select 1 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11265
-#EXTINF:-1,Sky Select 2 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11266
-#EXTINF:-1,E! DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16502
-#EXTINF:-1,Sky Select 3 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11267
-#EXTINF:-1,Sky Select 4 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11268
-#EXTINF:-1,Sky Select 5 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11269
-#EXTINF:-1,Sky Select 6 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11270
-#EXTINF:-1,Sky Select 7 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11271
-#EXTINF:-1,Sky Select 8 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11272
-#EXTINF:-1,Sky Select 9 Live DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12290
-#EXTINF:-1,Sky Sport 1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14559
-#EXTINF:-1,Sky Sport 1 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1479
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7326
-#EXTINF:-1,Sky Sport 10 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7335
-#EXTINF:-1,Sky Sport 11 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7336
-#EXTINF:-1,Sky Sport 2 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14560
-#EXTINF:-1,Sky Sport 2 HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1480
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7327
-#EXTINF:-1,Sky Sport 3 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14561
-#EXTINF:-1,Sky Sport 3 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7328
-#EXTINF:-1,Sky Sport 4 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14562
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7329
-#EXTINF:-1,Sky Sport 5 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14563
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7330
-#EXTINF:-1,Sky Sport 6 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14564
-#EXTINF:-1,Sky Sport 6 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7331
-#EXTINF:-1,Sky Sport 7 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14565
-#EXTINF:-1,Sky Sport 7 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7332
-#EXTINF:-1,Sky Sport 8 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14566
-#EXTINF:-1,Sky Sport 8 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7333
-#EXTINF:-1,Sky Sport 9 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14567
-#EXTINF:-1,Sky Sport 9 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7334
-#EXTINF:-1,Sky Sport Austria DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9551
-#EXTINF:-1,Sky Sport Austria HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15578
-#EXTINF:-1,Sky Bundesliga 1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14550
-#EXTINF:-1,Sky Bundesliga 1 HD DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3436
-#EXTINF:-1,Sky Bundesliga 1 FHD DE
-plugin://plugin.video.f4mTester/?name=SamsungFreakTV&streamtype=TSDOWNLOADER&amp;url=http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7338
-#EXTINF:-1,Sky Bundesliga 10 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14558
-#EXTINF:-1,Sky Bundesliga 10 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7347
-#EXTINF:-1,Sky Bundesliga 2 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14551
-#EXTINF:-1,Sky Bundesliga 2 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7339
-#EXTINF:-1,Sky Bundesliga 3 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14552
-#EXTINF:-1,Sky Bundesliga 3 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7340
-#EXTINF:-1,Sky Bundesliga 4 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14553
-#EXTINF:-1,Sky Bundesliga 4 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7341
-#EXTINF:-1,Sky Bundesliga 5 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14554
-#EXTINF:-1,Sky Bundesliga 5 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7342
-#EXTINF:-1,Sky Bundesliga 6 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14555
-#EXTINF:-1,Sky Bundesliga 6 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7343
-#EXTINF:-1,Sky Bundesliga 7 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/24735
-#EXTINF:-1,Sky Bundesliga 7 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7344
-#EXTINF:-1,Sky Bundesliga 8 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14556
-#EXTINF:-1,Sky Bundesliga 8 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7345
-#EXTINF:-1,Sky Bundesliga 9 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14557
-#EXTINF:-1,Sky Bundesliga 9 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7346
-#EXTINF:-1,Sky Sport News DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14577
-#EXTINF:-1,Sky Sport News HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/7337
-#EXTINF:-1,Spiegel TV Wissen DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14045
-#EXTINF:-1,SPORT1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/9552
-#EXTINF:-1,SPORT1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15745
-#EXTINF:-1,sportdigital DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3841
-#EXTINF:-1,sportdigital FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16582
-#EXTINF:-1,SR Fernsehen FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15749
-#EXTINF:-1,Super RTL DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3456
-#EXTINF:-1,Super RTL FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14044
-#EXTINF:-1,SWR BW FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16486
-#EXTINF:-1,SWR DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12296
-#EXTINF:-1,Syfy HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14043
-#EXTINF:-1,tagesschau24 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15752
-#EXTINF:-1,Tele 5 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12325
-#EXTINF:-1,Tele 5 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/20208
-#EXTINF:-1,TLC DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12324
-#EXTINF:-1,TLC FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15757
-#EXTINF:-1,TNT Comedy HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15577
-#EXTINF:-1,TNT Serie FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14303
-#EXTINF:-1,TOGGO plus DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12323
-#EXTINF:-1,Universal Channel HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3439
-#EXTINF:-1,Comedy Central DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12317
-#EXTINF:-1,VOX FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/14291
-#EXTINF:-1,VOX DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1630
-#EXTINF:-1,WDR DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3442
-#EXTINF:-1,Welt der Wunder DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12305
-#EXTINF:-1,ZDF DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/1629
-#EXTINF:-1,ZDF HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19098
-#EXTINF:-1,ZDF FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16484
-#EXTINF:-1,ZDFinfo DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/12295
-#EXTINF:-1,ZDFneo DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3453
-#EXTINF:-1,ZDFneo FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16482
-#EXTINF:-1,ZDFinfo FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16483
-#EXTINF:-1,Zee One DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/13112
-#EXTINF:-1,Zee One FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/15748
-#EXTINF:-1,München TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/11659
-#EXTINF:-1,FC Bayern FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16767
-#EXTINF:-1,Sky Hits DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16803
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16573
-#EXTINF:-1,Sat. 1 Emotions DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16836
-#EXTINF:-1,ProSieben Fun HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16627
-#EXTINF:-1,TNT Film FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16628
-#EXTINF:-1,Sport 1+ FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/17166
-#EXTINF:-1,Kabel Eins Doku DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/17167
-#EXTINF:-1,DW English DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/17300
-#EXTINF:-1,Baby TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19622
-#EXTINF:-1,DW Arabia DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19620
-#EXTINF:-1,Comedy Central HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19677
-#EXTINF:-1,Auto Motor und Sport HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19658
-#EXTINF:-1,Sony TV HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/3447
-#EXTINF:-1,Kabel Eins Classics DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/16581
-#EXTINF:-1,One TV FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/23043
-#EXTINF:-1,WDR HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/23437
-#EXTINF:-1,German Tote TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/23945
-#EXTINF:-1,Eagle Cinema Abenteuer HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26323
-#EXTINF:-1,Eagle Cinema Aktion HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26324
-#EXTINF:-1,Eagle Cinema Horror HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26328
-#EXTINF:-1,Eagle Cinema Romantisch HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26332
-#EXTINF:-1,Eagle Cinema Lächeln HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26330
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26327
-#EXTINF:-1,Eagle Cinema Premiere HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26331
-#EXTINF:-1,Eagle Cinema Drama HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26326
-#EXTINF:-1,Eagle Cinema Thriller HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26334
-#EXTINF:-1,Eagle Cinema Sci-Fi HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26333
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26325
-#EXTINF:-1,Eagle Cinema Komodie HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26329
-#EXTINF:-1,Nick Jr. DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/19165
-#EXTINF:-1,Sky Cinema Animation DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/26817
-#EXTINF:-1,RTL UHD 4K DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27220
-#EXTINF:-1,Servus TV HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27566
-#EXTINF:-1,Oberpfalz TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27632
-#EXTINF:-1,Genius Family DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27655
-#EXTINF:-1,EO TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27657
-#EXTINF:-1,HGTV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27656
-#EXTINF:-1,DW Deutsch DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/27791
-#EXTINF:-1,DAZN 1 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/23280
-#EXTINF:-1,DAZN 2 FHD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/23281
-#EXTINF:-1,Health TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28231
-#EXTINF:-1,Allgäu TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28232
-#EXTINF:-1,Baden TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28233
-#EXTINF:-1,Niederbayern TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28234
-#EXTINF:-1,Kabel Journal DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28236
-#EXTINF:-1,L TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28237
-#EXTINF:-1,noa4 Hamburg HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28238
-#EXTINF:-1,noa4 Norderstedt HD DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28239
-#EXTINF:-1,OK Koblenz DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28240
-#EXTINF:-1,OK Trier DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28241
-#EXTINF:-1,Regio TV Schwaben DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28242
-#EXTINF:-1,RFO DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28243
-#EXTINF:-1,Rhein Neckar Fernsehen DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28244
-#EXTINF:-1,RheinMain TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28245
-#EXTINF:-1,TRP 1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28246
-#EXTINF:-1,TV Mainfranken DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28247
-#EXTINF:-1,tv.berlin DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28248
-#EXTINF:-1,Westerwald TV DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28249
-#EXTINF:-1,Sylt1 DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28250
-#EXTINF:-1,Das Erste HD (B) DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28251
-#EXTINF:-1,Sky Cinema Dark Future DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28535
-#EXTINF:-1,Crime + Investigation DE
-http://channels227070.clientportal.link:80/7pKA5aN133/pkAQce549/28577
+#EXTINF:-1,DE: TNT COMEDY HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8545
+#EXTINF:-1,DE: Welt
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8548
+#EXTINF:-1,DE: Sport 1 US HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8549
+#EXTINF:-1,DE: SKY CINEMA + 24 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8544
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8547
+#EXTINF:-1,DE: RTL 2 YOU HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8536
+#EXTINF:-1,DE: PRO 7 MAXX
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8541
+#EXTINF:-1,DE: ORF Sport +
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8550
+#EXTINF:-1,DE: EURO NEWS
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8552
+#EXTINF:-1,DE: Deutsche Welle
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8537
+#EXTINF:-1,DE: AXN HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8546
+#EXTINF:-1,DE: Tnt Film HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5320
+#EXTINF:-1,DE: SPORT1+ HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5327
+#EXTINF:-1,DE: Rtl
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5325
+#EXTINF:-1,DE: Orf 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5330
+#EXTINF:-1,DE: Nat Geo Wild ( Soon off sd )
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5331
+#EXTINF:-1,DE: Deluxe Music
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5332
+#EXTINF:-1,DE: Tagesschau 24
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4973
+#EXTINF:-1,DE: Sport 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4983
+#EXTINF:-1,DE: Sony TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4987
+#EXTINF:-1,DE: Sonnenklar TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4979
+#EXTINF:-1,DE: SKY Sport Austria HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5010
+#EXTINF:-1,DE: Sky Cinema +24
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4994
+#EXTINF:-1,DE: SKY Atlantic +1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5014
+#EXTINF:-1,DE: Silverline Movie Channel
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4988
+#EXTINF:-1,DE: Sat 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4976
+#EXTINF:-1,DE: Nitro HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5017
+#EXTINF:-1,DE: RTL Living HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4990
+#EXTINF:-1,DE: Planet HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4992
+#EXTINF:-1,DE: N-TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4984
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5015
+#EXTINF:-1,DE: DMAX HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4975
+#EXTINF:-1,DE: Disney XD HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5018
+#EXTINF:-1,DE: DISCOVERY HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/5016
+#EXTINF:-1,DE: Deluxe Music HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/4986
+#EXTINF:-1,DE: Sky Select 8
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1892
+#EXTINF:-1,DE: Sky Select 7
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1891
+#EXTINF:-1,DE: VOX HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2784
+#EXTINF:-1,DE: RTL 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2785
+#EXTINF:-1,DE: Prosieben HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2786
+#EXTINF:-1,DE: Sky Select 3
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1887
+#EXTINF:-1,DE: ZDF HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2322
+#EXTINF:-1,DE: WDR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2327
+#EXTINF:-1,DE: Sky AXN HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2324
+#EXTINF:-1,DE: Sky Atlantic HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1702
+#EXTINF:-1,DE: TLC HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1621
+#EXTINF:-1,DE: Sky Krimi
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1625
+#EXTINF:-1,DE: Romance TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1631
+#EXTINF:-1,DE: Nick Junior HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1632
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1633
+#EXTINF:-1,DE: Kinowelt TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1636
+#EXTINF:-1,DE: FOX
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1641
+#EXTINF:-1,DE: Classica
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1648
+#EXTINF:-1,DE: ZDF NEO HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3059
+#EXTINF:-1,DE: ZDF INFO HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3060
+#EXTINF:-1,DE: WR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3018
+#EXTINF:-1,DE: Universal Channel HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3047
+#EXTINF:-1,DE: TNT SERIE HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3020
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3063
+#EXTINF:-1,DE: Sky Sport News
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3082
+#EXTINF:-1,DE: Sky Disney Channel HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3065
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3068
+#EXTINF:-1,DE: Sixx HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3053
+#EXTINF:-1,DE: Servus TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3048
+#EXTINF:-1,DE: ProSieben
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3016
+#EXTINF:-1,DE: ORF 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3017
+#EXTINF:-1,DE: ORF 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3070
+#EXTINF:-1,DE: Ndr HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3050
+#EXTINF:-1,DE: Motorvision TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3074
+#EXTINF:-1,DE: MDR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3055
+#EXTINF:-1,DE: Boomerang
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3064
+#EXTINF:-1,DE: Arte HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3054
+#EXTINF:-1,DE: ARD 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3019
+#EXTINF:-1,DE: ANIXE HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3049
+#EXTINF:-1,DE: 3SAT HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3057
+#EXTINF:-1,DE: 13th Street HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/3067
+#EXTINF:-1,DE: ANIXE
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1650
+#EXTINF:-1,DE: A&E HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1651
+#EXTINF:-1,DE: Syfy HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1335
+#EXTINF:-1,DE: Sky Select 9
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1350
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1344
+#EXTINF:-1,DE: RTL Passion
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1343
+#EXTINF:-1,DE: RTL Crime HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1342
+#EXTINF:-1,DE: History HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1337
+#EXTINF:-1,DE: Disney Junior HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1338
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1339
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/192
+#EXTINF:-1,DE: Sky Cinema Action
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/378
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/473
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/471
+#EXTINF:-1,DE: RTL 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/467
+#EXTINF:-1,DE: Phoenix
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/464
+#EXTINF:-1,DE: DMAX
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/523
+#EXTINF:-1,DE: Sky Select 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/481
+#EXTINF:-1,DE: Sky Select 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/482
+#EXTINF:-1,DE: Sky Select 4
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/531
+#EXTINF:-1,DE: Sky Select 5
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/485
+#EXTINF:-1,DE: Sky Select 6
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/532
+#EXTINF:-1,DE: ZDF
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/758
+#EXTINF:-1,DE: VOX
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/779
+#EXTINF:-1,DE: Super RTL
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/780
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/782
+#EXTINF:-1,DE: SRF 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2263
+#EXTINF:-1,DE: SRF 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2262
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2256
+#EXTINF:-1,DE: SKY CINEMA HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2251
+#EXTINF:-1,DE: N24
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2265
+#EXTINF:-1,DE: MUNCHEN TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2264
+#EXTINF:-1,DE: KIKA HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2266
+#EXTINF:-1,DE: KABEL EINS HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2258
+#EXTINF:-1,DE: FOX HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2261
+#EXTINF:-1,DE: ARD HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/2259
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/759
+#EXTINF:-1,DE: RTL HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/1751
+#EXTINF:-1,DE: Boomerang HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8819
+#EXTINF:-1,DE: Cartoon Network
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8817
+#EXTINF:-1,DE: Cartoon Network HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8818
+#EXTINF:-1,DE: Das Erste HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8805
+#EXTINF:-1,DE: Disney Channel HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8816
+#EXTINF:-1,DE: E! Entertainement HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8842
+#EXTINF:-1,DE: Family TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8830
+#EXTINF:-1,DE: Heimatkanal
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8812
+#EXTINF:-1,DE: Kabel eins Classics HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8840
+#EXTINF:-1,DE: Motorvision
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8843
+#EXTINF:-1,DE: MTV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8820
+#EXTINF:-1,DE: Nat Geo People HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8829
+#EXTINF:-1,DE: Prosieben FUN HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8847
+#EXTINF:-1,DE: Romance TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8815
+#EXTINF:-1,DE: RTL Passion HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8814
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8848
+#EXTINF:-1,DE: SKY Cinema Family HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8825
+#EXTINF:-1,DE: SKY Sport News HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8835
+#EXTINF:-1,DE: Sony Entertainment TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8846
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8844
+#EXTINF:-1,DE: SRF Info HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8834
+#EXTINF:-1,DE: SRF1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8833
+#EXTINF:-1,DE: TOGGO plus
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8822
+#EXTINF:-1,DE: Zee One HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/8823
+#EXTINF:-1,DE: A-E
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/10062
+#EXTINF:-1,DE: TELE 5 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/10061
+#EXTINF:-1,DE: Sky 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/11476
+#EXTINF:-1,DE: 3SAT
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12240
+#EXTINF:-1,DE: Das Erste
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/11490
+#EXTINF:-1,DE: One HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/11492
+#EXTINF:-1,DE: POPCORN SELECT 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12153
+#EXTINF:-1,DE: POPCORN SELECT 6
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12148
+#EXTINF:-1,DE: SELECT POPCORN 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12152
+#EXTINF:-1,DE: SELECT POPCORN 3
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12151
+#EXTINF:-1,DE: SELECT POPCORN 4
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12150
+#EXTINF:-1,DE: SELECT POPCORN 5
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12149
+#EXTINF:-1,DE: Sky 3D
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/11031
+#EXTINF:-1,DE: SWR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/11491
+#EXTINF:-1,DE: FILM CLUB HD 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12242
+#EXTINF:-1,DE: FILM CLUB HD 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12243
+#EXTINF:-1,DE: FILM CLUB HD 3
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12244
+#EXTINF:-1,DE: FILM CLUB HD 4
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12245
+#EXTINF:-1,DE: FILM CLUB HD 5
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12246
+#EXTINF:-1,DE: Nickelodeon
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12484
+#EXTINF:-1,DE: Eurosport 2 XTRA HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12247
+#EXTINF:-1,DE: Junior
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12485
+#EXTINF:-1,DE: PRO7 MAXX HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13114
+#EXTINF:-1,DE: RTL PLUS
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12483
+#EXTINF:-1,DE: RTL Television
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13115
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13113
+#EXTINF:-1,DE: Sky Cinema Family
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/12945
+#EXTINF:-1,DE: 1-2-3 TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13121
+#EXTINF:-1,DE: Fashion TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13120
+#EXTINF:-1,DE: Sky Sport 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13560
+#EXTINF:-1,DE: Sky Sport 1 FULL HD 1080p
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13520
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13441
+#EXTINF:-1,DE: Sky Sport 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13570
+#EXTINF:-1,DE: Sky Sport 2 FULL HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13569
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13559
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/17845
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13286
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FULL HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13285
+#EXTINF:-1,DE: Sky Sport Bundesliga 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13567
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13566
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13565
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13563
+#EXTINF:-1,DE: Sky Sport Bundesliga 5
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13562
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/13561
+#EXTINF:-1,DE VIP: 13th Street HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26080
+#EXTINF:-1,DE VIP: 3Sat HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26081
+#EXTINF:-1,DE VIP: A&E HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26082
+#EXTINF:-1,DE VIP: Animal Planet HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38370
+#EXTINF:-1,DE VIP: Anixe HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26083
+#EXTINF:-1,DE VIP: Arte HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26084
+#EXTINF:-1,DE VIP: ATV 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38404
+#EXTINF:-1,DE VIP: ATV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38386
+#EXTINF:-1,DE VIP: Auto Motor Sport Channel HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38408
+#EXTINF:-1,DE VIP: AXN HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38367
+#EXTINF:-1,DE VIP: Bon Gusto HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38371
+#EXTINF:-1,DE VIP: Boomerang HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26085
+#EXTINF:-1,DE VIP: BR Fernsehen HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38405
+#EXTINF:-1,DE VIP: Cartoon Network HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26086
+#EXTINF:-1,DE VIP: Classica HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26175
+#EXTINF:-1,DE VIP: Comedy Central HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38384
+#EXTINF:-1,DE VIP: Das Erste HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26087
+#EXTINF:-1,DE VIP: Dazn 1 Bar HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26088
+#EXTINF:-1,DE VIP: Dazn 2 Bar HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26089
+#EXTINF:-1,DE VIP: Dazn Sport 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/17490
+#EXTINF:-1,DE VIP: Dazn Sport 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/17489
+#EXTINF:-1,DE VIP: Delux Music HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26090
+#EXTINF:-1,DE VIP: Discovery HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26091
+#EXTINF:-1,DE VIP: Disney Channel HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26092
+#EXTINF:-1,DE VIP: Disney Cinemagic HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26093
+#EXTINF:-1,DE VIP: Disney Junior HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26094
+#EXTINF:-1,DE VIP: DISNEY XD HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26174
+#EXTINF:-1,DE VIP: Dmax HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26095
+#EXTINF:-1,DE VIP: E! Entertainm HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26096
+#EXTINF:-1,DE VIP: Euronews
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38399
+#EXTINF:-1,DE VIP: Eurosport 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26097
+#EXTINF:-1,DE VIP: Eurosport 1 HD Xtra
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26098
+#EXTINF:-1,DE VIP: Eurosport 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26099
+#EXTINF:-1,DE VIP: Eurosport 2 HD Xtra
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38375
+#EXTINF:-1,DE VIP: Fix&Foxi
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38402
+#EXTINF:-1,DE VIP: Fox HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26100
+#EXTINF:-1,DE VIP: GEO TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38373
+#EXTINF:-1,DE VIP: Heimatkanal HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26173
+#EXTINF:-1,DE VIP: History HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26101
+#EXTINF:-1,DE VIP: Jukebox HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26102
+#EXTINF:-1,DE VIP: Junior
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38401
+#EXTINF:-1,DE VIP: Kabel 1 Classic HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38366
+#EXTINF:-1,DE VIP: Kabel 1 Doku
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38406
+#EXTINF:-1,DE VIP: Kabel Eins HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26103
+#EXTINF:-1,DE VIP: Kika HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26104
+#EXTINF:-1,DE VIP: Kinowelt HD TV
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26105
+#EXTINF:-1,DE VIP: MDR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38383
+#EXTINF:-1,DE VIP: Melodie Tv
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/41424
+#EXTINF:-1,DE VIP: Motorvision HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26106
+#EXTINF:-1,DE VIP: MTV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26107
+#EXTINF:-1,DE VIP: N-TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26108
+#EXTINF:-1,DE VIP: N24 Doku
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38365
+#EXTINF:-1,DE VIP: N24 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38382
+#EXTINF:-1,DE VIP: Nat Geo HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26109
+#EXTINF:-1,DE VIP: Nat Geo Wild HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26110
+#EXTINF:-1,DE VIP: NDR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38398
+#EXTINF:-1,DE VIP: Nick Jr. HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38400
+#EXTINF:-1,DE VIP: Nickeloadeon HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26112
+#EXTINF:-1,DE VIP: RTL Nitro HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26168
+#EXTINF:-1,DE VIP: ONE HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38397
+#EXTINF:-1,DE VIP: ORF 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38396
+#EXTINF:-1,DE VIP: ORF 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38395
+#EXTINF:-1,DE VIP: ORF 3 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38385
+#EXTINF:-1,DE VIP: ORF SPORT+ HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38409
+#EXTINF:-1,DE VIP: PHOENIX HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38394
+#EXTINF:-1,DE VIP: Planet HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38372
+#EXTINF:-1,DE VIP: Pro 7 Maxx HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26113
+#EXTINF:-1,DE VIP: Pro Sebien HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26114
+#EXTINF:-1,DE VIP: Prosieben Fun HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38393
+#EXTINF:-1,DE VIP: PULS 4 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38410
+#EXTINF:-1,DE VIP: RBB HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38392
+#EXTINF:-1,DE VIP: Romance TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26172
+#EXTINF:-1,DE VIP: RTL 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26115
+#EXTINF:-1,DE VIP: RTL CRIME HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38380
+#EXTINF:-1,DE VIP: RTL HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26116
+#EXTINF:-1,DE VIP: RTL LIVING HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38379
+#EXTINF:-1,DE VIP: RTL PASSION HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38378
+#EXTINF:-1,DE VIP: RTL PLUS HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38376
+#EXTINF:-1,DE VIP: SAT 1 Emotions HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38391
+#EXTINF:-1,DE VIP: Sat 1 Gold HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26169
+#EXTINF:-1,DE VIP: Sat 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26117
+#EXTINF:-1,DE VIP: Servus TV AT HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38390
+#EXTINF:-1,DE VIP: Servus TV HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38389
+#EXTINF:-1,DE VIP: SFR 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38388
+#EXTINF:-1,DE VIP: SFR 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38387
+#EXTINF:-1,DE VIP: Silverline
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38368
+#EXTINF:-1,DE VIP: Sixx HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26118
+#EXTINF:-1,DE VIP: Sky 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38377
+#EXTINF:-1,DE VIP: Sky Atlantic HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26120
+#EXTINF:-1,DE VIP: Sky Cinema 24 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26122
+#EXTINF:-1,DE VIP: Sky Cinema 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26121
+#EXTINF:-1,DE VIP: Sky Cinema Action HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26123
+#EXTINF:-1,DE VIP: Sky Cinema Comedy
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38369
+#EXTINF:-1,DE VIP: Sky Cinema Emotion HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26124
+#EXTINF:-1,DE VIP: Sky Cinema Family HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26125
+#EXTINF:-1,DE VIP: Sky Cinema HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26126
+#EXTINF:-1,DE VIP: Sky Cinema Hits HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26127
+#EXTINF:-1,DE VIP: Sky Cinema Nostalgie
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26128
+#EXTINF:-1,DE VIP: Sky Krimi
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26129
+#EXTINF:-1,DE VIP: Sky Sport 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26130
+#EXTINF:-1,DE VIP: Sky Sport 10 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26131
+#EXTINF:-1,DE VIP: Sky Sport 11 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26132
+#EXTINF:-1,DE VIP: Sky Sport 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26133
+#EXTINF:-1,DE VIP: Sky Sport 3 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26134
+#EXTINF:-1,DE VIP: Sky Sport 4 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26135
+#EXTINF:-1,DE VIP: Sky Sport 5 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26136
+#EXTINF:-1,DE VIP: Sky Sport 6 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26137
+#EXTINF:-1,DE VIP: Sky Sport 7 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26138
+#EXTINF:-1,DE VIP: Sky Sport 8 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26139
+#EXTINF:-1,DE VIP: Sky Sport 9 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26140
+#EXTINF:-1,DE VIP: Sky Sport Austria HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26141
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26142
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 10 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26143
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 2 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26144
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 3 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26145
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 4 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26146
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 5 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26147
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 6 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26148
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 7 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26149
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 8 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26150
+#EXTINF:-1,DE VIP: Sky Sport Bundesliga 9 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26151
+#EXTINF:-1,DE VIP: Sky Sport News HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26152
+#EXTINF:-1,DE VIP: Spiegel Geschichte HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26153
+#EXTINF:-1,DE VIP: Spiegel TV Wissen HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26171
+#EXTINF:-1,DE VIP: Sport 1 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38411
+#EXTINF:-1,DE VIP: Sportdigital HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38374
+#EXTINF:-1,DE VIP: Super RTL HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26154
+#EXTINF:-1,DE VIP: SWR BW HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26155
+#EXTINF:-1,DE VIP: Syfy HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26156
+#EXTINF:-1,DE VIP: TELE 5 HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26157
+#EXTINF:-1,DE VIP: TLC HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26158
+#EXTINF:-1,DE VIP: TNT Comedy HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26159
+#EXTINF:-1,DE VIP: TNT FILM HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26160
+#EXTINF:-1,DE VIP: TNT Serie HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26161
+#EXTINF:-1,DE VIP: TOGGO
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38403
+#EXTINF:-1,DE VIP: Universal HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26162
+#EXTINF:-1,DE VIP: VOX HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26163
+#EXTINF:-1,DE VIP: WDR HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/38381
+#EXTINF:-1,DE VIP: Welt HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26164
+#EXTINF:-1,DE VIP: ZDF HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26165
+#EXTINF:-1,DE VIP: ZDF Info HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26166
+#EXTINF:-1,DE VIP: ZDF Neo HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26167
+#EXTINF:-1,DE VIP: ZEE ONE HD
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26170
+#EXTINF:-1,DE: Telekom Basketball 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42273
+#EXTINF:-1,DE: Telekom Basketball 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42272
+#EXTINF:-1,DE: Telekom Basketball 3
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42271
+#EXTINF:-1,DE: Telekom Eishockey 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42270
+#EXTINF:-1,DE: Telekom Eishockey 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42269
+#EXTINF:-1,DE: Telekom Eishockey 3
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42268
+#EXTINF:-1,DE: Telekom Eishockey 4
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42267
+#EXTINF:-1,DE: Telekom Eishockey 5
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42266
+#EXTINF:-1,DE: Telekom Eishockey 6
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42265
+#EXTINF:-1,DE: Telekom Eishockey 7
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42264
+#EXTINF:-1,DE: Telekom Fussball 1
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42281
+#EXTINF:-1,DE: Telekom Fussball 2
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42280
+#EXTINF:-1,DE: Telekom Fussball 3
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42279
+#EXTINF:-1,DE: Telekom Fussball 4
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42278
+#EXTINF:-1,DE: Telekom Fussball 5
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42277
+#EXTINF:-1,DE: Telekom Fussball 6
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42276
+#EXTINF:-1,DE: Telekom Fussball 7
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42275
+#EXTINF:-1,DE: Telekom Fussball 8
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/42274
+#EXTINF:-1,DE: SELECT POPCORN 10
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26791
+#EXTINF:-1,DE: SELECT POPCORN 7
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26788
+#EXTINF:-1,DE: SELECT POPCORN 8
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26789
+#EXTINF:-1,DE: SELECT POPCORN 9
+http://1sn.ns1.name:18800/pippoitalia1986SkypeRestreamNew/dgdsg244fgdfhfdhfdh244dfsgsdgsdg/26790
