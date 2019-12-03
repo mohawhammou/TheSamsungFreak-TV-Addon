@@ -29,25 +29,7 @@
 <channels>
 
 <channel> 
-<name>[B]German TV 4[/B]</name> 
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV-4.m3u</externallink> 
-<fanart></fanart> 
-<info></info> 
-</channel>
-<channels>
-
-<channel> 
-<name>[B]German TV 5[/B]</name> 
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV-5.m3u</externallink> 
-<fanart></fanart> 
-<info></info> 
-</channel>
-<channels>
-
-<channel> 
-<name>[B]German TV 6 - 238 Local Channels[/B]</name> 
+<name>[B]German TV 4 - 238 Local Channels[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.pnghttps://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi-tv</externallink> 
 <fanart></fanart> 
@@ -56,7 +38,7 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 7 - 434 Local Channels[/B]</name> 
+<name>[B]German TV 5 - 434 Local Channels[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>http://bit.ly/kn-kodi</externallink> 
 <fanart></fanart> 
