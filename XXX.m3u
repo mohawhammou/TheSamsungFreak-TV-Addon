@@ -1,17 +1,17 @@
 #EXTM3U 
-#EXTINF:-1,tvg-id="" tvg-logo=" " group-title="",Jasmin TV HD 
+#EXTINF:-1,tvg-id="" tvg-logo="https://images.app.goo.gl/6hm7mPDYmwUvyr3C8" group-title="",Jasmin TV HD 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8|User-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A47.0%29+Gecko%2F20100101+Firefox%2F47.0 
 
-#EXTINF:-1,Hustler HD 
+#EXTINF:-1,tvg-id="" tvg-logo="https://images.app.goo.gl/NupGgFmpQy1Q5v6MA" group-title="",Hustler HD 
 https://tv.si/ts/HUSTLERHD/stream_multi.m3u8|User-agent=AppleCoreMedia 
 
-#EXTINF:-1,Hustler 
+#EXTINF:-1,tvg-id="" tvg-logo="https://images.app.goo.gl/QTxwihbiCtptTbwH9" group-title="",Hustler 
 https://tv.si/ts/XDREAM/stream_wifi_1200k.m3u8|User-agent=AppleCoreMedia 
 
-#EXTINF:-1,Sexation 
+#EXTINF:-1,tvg-id="" tvg-logo="https://images.app.goo.gl/zXKjSbHW1XwqWLZk7" group-title="",Sexation 
 https://tv.si/ts/SEXATION/stream_iptv_2000k.m3u8|User-agent=AppleCoreMedia 
 
-#EXTINF:-1,Dusk 
+#EXTINF:-1,tvg-id="" tvg-logo="https://images.app.goo.gl/MRAAKcjuL6TGDFGy9" group-title="",Dusk 
 https://tv.si/ts/Dusk/stream_iptv_2000k.m3u8|User-agent=AppleCoreMedia 
 
 #EXTINF:-1,Dorcel 
