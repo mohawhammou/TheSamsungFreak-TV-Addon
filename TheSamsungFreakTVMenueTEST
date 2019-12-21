@@ -2,9 +2,9 @@
 
 <channels> 
 <channel> 
-<name>[B]France TV - Movies - Series[/B]</name> 
+<name>---------- OFFLINE ----------</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/FranceTV/master/FranceTV-Movies-Series</externallink> 
+<externallink>   </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
@@ -38,9 +38,9 @@
 
 <channels> 
 <channel> 
-<name>[B]Turkey TV[/B]</name> 
+<name>---------- OFFLINE ----------</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/Turkey-TV/master/TurkeyTV</externallink> 
+<externallink>  </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
