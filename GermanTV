@@ -74,9 +74,9 @@
 <channels> 
 
 <channel> 
-<name>[B]--- TEST IPTV ---[/B]</name>
+<name>[B]--- OFFLINE ---[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTVTest.m3u</externallink> 
+<externallink>   </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
