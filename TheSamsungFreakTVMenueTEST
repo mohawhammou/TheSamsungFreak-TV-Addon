@@ -49,7 +49,7 @@
 <channel>
 <name>[B]XXX TV[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
-<externallink>https://thesamsungfreak2019.000webhostapp.com/m3u/XXX.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/XXX.m3u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
