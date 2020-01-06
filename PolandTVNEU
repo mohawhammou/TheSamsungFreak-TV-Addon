@@ -47,6 +47,15 @@
 <channels>
 
 <channel> 
+<name>[B]Poland TV 6[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV-6.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channel> 
 <name>[B]Poland VOD - Movies[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandMoviesVOD</externallink> 
