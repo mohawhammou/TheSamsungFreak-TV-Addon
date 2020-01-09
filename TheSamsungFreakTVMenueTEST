@@ -22,16 +22,16 @@
 <channel>
 <name>[B]Italy TV[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/Italy-TV/master/Italy1...</externallink>
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Italy-TV/master/Italy1.m3u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 
 <channels>
 <channel>
-<name>[B]Poland TV - Movies - Series[/B]</name>
+<name>[B]USA TV[/B]</name>
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV...</externallink>
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/USATV.m3u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
