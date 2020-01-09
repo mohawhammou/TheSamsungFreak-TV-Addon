@@ -2,9 +2,9 @@
 
 <channels> 
 <channel> 
-<name>---------- OFFLINE ----------</name> 
+<name>[B]Turkey TV[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>   </externallink> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/Turkey-TV/master/Turkey3.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
