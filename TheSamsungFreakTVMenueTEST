@@ -2,6 +2,15 @@
 
 <channels> 
 <channel> 
+<name>[B]World IPTV[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/WorldIPTV.m3u</externallink> 
+<fanart> </fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Turkey TV[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/Turkey-TV/master/Turkey3.m3u</externallink> 
