@@ -1,787 +1,439 @@
 #EXTM3U 
-#EXTINF:-1,DE: Das Erste
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4423
-#EXTINF:-1,DE: Das Erste HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3223
-#EXTINF:-1,DE: ZDF HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/2856
-#EXTINF:-1,DE: ZDF FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/12617
-#EXTINF:-1,DE: RTL
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3235
-#EXTINF:-1,DE: RTL HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6390
-#EXTINF:-1,DE: RTL FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13813
-#EXTINF:-1,DE: RTL 4K UHD (Test)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/149972
-#EXTINF:-1,DE: RTL 2
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3229
-#EXTINF:-1,DE: RTL 2 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8058
-#EXTINF:-1,DE: RTL 2 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13814
-#EXTINF:-1,DE: Sat 1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3560
-#EXTINF:-1,DE: Sat 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8049
-#EXTINF:-1,DE: Sat 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13812
-#EXTINF:-1,DE: Sixx HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3565
-#EXTINF:-1,DE: Sixx FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10543
-#EXTINF:-1,DE: Kabel 1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3185
-#EXTINF:-1,DE: Kabel 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6389
-#EXTINF:-1,DE: Pro7
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3103
-#EXTINF:-1,DE: Pro7 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8057
-#EXTINF:-1,DE: Pro7 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31748
-#EXTINF:-1,DE: VOX
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3361
-#EXTINF:-1,DE: VOX HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/9507
-#EXTINF:-1,DE: VOX FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13810
-#EXTINF:-1,DE: Tele 5 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3569
-#EXTINF:-1,DE: RTL Plus
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/12354
-#EXTINF:-1,DE: Zee One HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8052
-#EXTINF:-1,DE: One HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/12342
+#EXTINF:-1,DE: 13TH STREET HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5359
 #EXTINF:-1,DE: 3Sat HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/2221
-#EXTINF:-1,DE: WDR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4419
-#EXTINF:-1,DE: NDR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3558
-#EXTINF:-1,CH: SRF 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5295
-#EXTINF:-1,CH: SRF 2 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5296
-#EXTINF:-1,DE: BR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3557
-#EXTINF:-1,DE: HR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4422
-#EXTINF:-1,DE: MDR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4420
-#EXTINF:-1,DE: SWR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3549
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1355
 #EXTINF:-1,DE: Alex Berlin HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/19724
-#EXTINF:-1,DE: DW
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/2863
-#EXTINF:-1,DE: Servus TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3574
-#EXTINF:-1,DE: Tagesschau 24 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3554
-#EXTINF:-1,DE: N-TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3564
-#EXTINF:-1,DE: N-TV FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13819
-#EXTINF:-1,DE: N24 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3571
-#EXTINF:-1,DE: ZDF Info HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3222
-#EXTINF:-1,DE: Euronews
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138101
-#EXTINF:-1,----GERMANY PREMIUM----
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5055
-#EXTINF:-1,DE: Sky Cinema HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3096
-#EXTINF:-1,DE: Sky Cinema FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10303
-#EXTINF:-1,DE: Sky Cinema +1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3064
-#EXTINF:-1,DE: Sky Cinema +1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10301
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3367
-#EXTINF:-1,DE: Sky Cinema +24 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10300
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3576
-#EXTINF:-1,DE: Sky Cinema Hits FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10302
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8071
-#EXTINF:-1,DE: Sky Cinema Family FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10304
-#EXTINF:-1,DE: Sky Cinema Special HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4436
-#EXTINF:-1,DE: Sky Cinema Special FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13808
-#EXTINF:-1,DE: Sky Action HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3095
-#EXTINF:-1,DE: Sky Action FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10305
-#EXTINF:-1,DE: Sky Atlantic HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3364
-#EXTINF:-1,DE: Sky Atlantic FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10298
-#EXTINF:-1,DE: Sky Comedy
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3362
-#EXTINF:-1,DE: Sky Comedy HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10923
-#EXTINF:-1,DE: Sky Emotion HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3101
-#EXTINF:-1,DE: Sky 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8825
-#EXTINF:-1,DE: SKY 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13824
-#EXTINF:-1,DE: Silverline
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/123604
-#EXTINF:-1,DE: Sky Krimi HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/155330
-#EXTINF:-1,DE: Sky Krimi FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3577
-#EXTINF:-1,DE: Sky Nostalgie
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4428
-#EXTINF:-1,DE: Romance TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4427
-#EXTINF:-1,DE: Romance TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/137926
-#EXTINF:-1,DE: SyFy HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3100
-#EXTINF:-1,DE: Syfy FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10297
-#EXTINF:-1,DE: Universal Channel HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4698
-#EXTINF:-1,DE: Universal Channel FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13822
-#EXTINF:-1,DE: TLC HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3566
-#EXTINF:-1,DE: TLC FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/36750
-#EXTINF:-1,DE: TNT Comedy HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5972
-#EXTINF:-1,DE: TNT Comedy FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/19723
-#EXTINF:-1,DE: TNT Film
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4431
-#EXTINF:-1,DE: TNT Film HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8059
-#EXTINF:-1,DE: TNT Film FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31750
-#EXTINF:-1,DE: TNT Serie HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4430
-#EXTINF:-1,DE: TNT Serie FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13820
-#EXTINF:-1,DE: 13th Street HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5299
-#EXTINF:-1,DE: 13th Street FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/27638
-#EXTINF:-1,DE: Heimatkanal
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5177
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35244
+#EXTINF:-1,DE: Allgau TV FHD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1356
+#EXTINF:-1,DE: ANIMAL PLANET HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5348
+#EXTINF:-1,DE: ANIXE HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7559
+#EXTINF:-1,DE: ARD Alpha HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2565
+#EXTINF:-1,DE: ARD HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/4659
+#EXTINF:-1,DE: ARD Tagesschau 24 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2566
+#EXTINF:-1,DE: Arte HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/134
 #EXTINF:-1,DE: AXN HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4435
-#EXTINF:-1,DE: AXN FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31751
-#EXTINF:-1,DE: Fox HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3363
-#EXTINF:-1,DE: Fox FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13807
-#EXTINF:-1,DE: Kabel 1 Classics HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8069
-#EXTINF:-1,DE: Kinowelt HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5825
-#EXTINF:-1,DE: Kinowelt FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/151701
-#EXTINF:-1,DE: Pro7 Fun FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5180
-#EXTINF:-1,DE: Pro7 Maxx HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5179
-#EXTINF:-1,DE: Pro7 Maxx FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10544
-#EXTINF:-1,DE: RTL Crime HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5176
-#EXTINF:-1,DE: RTL Crime FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13825
-#EXTINF:-1,DE: RTL Living FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5175
-#EXTINF:-1,DE: RTL Nitro HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3563
-#EXTINF:-1,DE: RTL Nitro FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13821
-#EXTINF:-1,DE: RTL Passion FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5174
-#EXTINF:-1,DE: RTL Passion HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/149048
-#EXTINF:-1,DE: Sat 1 Gold
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3572
-#EXTINF:-1,DE: Sony TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4426
-#EXTINF:-1,DE: Comedy Central HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3561
-#EXTINF:-1,DE: Comedy Central FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/151700
-#EXTINF:-1,----GERMANY 24H CHANNELS----
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/94015
-#EXTINF:-1,DE: Sky Select 1 HD - Willkommen im Wunder Park
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146773
-#EXTINF:-1,DE: Sky Select 2 HD - John Wick - Kapitel 3
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146774
-#EXTINF:-1,DE: Sky Select 3 HD - Avengers: Endgame
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146775
-#EXTINF:-1,DE: Sky Select 4 HD - Rocketman
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146776
-#EXTINF:-1,DE: Sky Select 5 HD - Captain Marvel
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146777
-#EXTINF:-1,DE: Sky Select 6 HD - Ostwind 4 - Aris Ankunft
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146778
-#EXTINF:-1,DE: Filmclub 1 HD - Little
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146451
-#EXTINF:-1,DE: Filmclub 2 HD - 6 Underground
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146452
-#EXTINF:-1,DE: Filmclub 3 HD - Stuber - 5 Sterne Undercover
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146453
-#EXTINF:-1,DE: Filmclub 4 HD - In the Shadow of the Moon
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146454
-#EXTINF:-1,DE: Filmclub 5 HD - Le Mans 66 - Gegen jede Chance
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146455
-#EXTINF:-1,DE: Filmclub 6 HD - The Adventurers
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146456
-#EXTINF:-1,DE: Sky Cinema 1 HD - Marvels Infinity War
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126720
-#EXTINF:-1,DE: Sky Cinema 2 HD - Oscars - Best Animated 10 Jahre
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126721
-#EXTINF:-1,DE: Sky Cinema 3 HD - Starwars Collection
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126722
-#EXTINF:-1,DE: Sky Cinema 4 HD - Jim Carrey Collection
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126723
-#EXTINF:-1,DE: Sky Cinema 5 HD - Halloween Collection
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126724
-#EXTINF:-1,DE: Sky Cinema 6 HD - Horror Collection
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126726
-#EXTINF:-1,DE: Sky Cinema 7 HD - Underworld
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126727
-#EXTINF:-1,DE: Sky Cinema 8 HD - Mittelerde
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126728
-#EXTINF:-1,DE: Sky Cinema 9 HD - DC Extended Universe
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126729
-#EXTINF:-1,DE: Sky Cinema 10 HD -True Storys 4
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126730
-#EXTINF:-1,DE: Sky Cinema 11 HD - Box Legende
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/128046
-#EXTINF:-1,DE: Sky Cinema 12 HD - 3 x 3 Trilogie 3
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/129796
-#EXTINF:-1,DE: Sky Cinema 13 HD - Action Pack 3
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126715
-#EXTINF:-1,DE: Sky Cinema 14 HD - Dwayne - der Rocker - Johannson Collection
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126716
-#EXTINF:-1,DE: Sky Cinema 15 HD - X-Men Collection
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126717
-#EXTINF:-1,DE: Sky Cinema 16 HD - Laurel & Hardy
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/153734
-#EXTINF:-1,DE: Sky Cinema 17 HD - Action Pack 4
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/153744
-#EXTINF:-1,DE: Sky Cinema 18 HD -True Story 5
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/153745
-#EXTINF:-1,DE: Sky CineBox 1 - Hustlers
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/136686
-#EXTINF:-1,DE: Sky CineBox 2 - Drunk Parents
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/136687
-#EXTINF:-1,DE: Sky CineBox 3 - Maleficent 2 - Maechte der Finsternis
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/136688
-#EXTINF:-1,DE: Sky CineBox 4 - Die Eiskönigin 2
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/136689
-#EXTINF:-1,DE: Sky CineBox 5 - Star Wars Episode IX - Der Aufstieg Skywalkers
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/136690
-#EXTINF:-1,DE: Sky CineBox 6 - Die Addams Family
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/136691
-#EXTINF:-1,----GERMANY KIDS----
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5050
-#EXTINF:-1,DE: Baby TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8055
-#EXTINF:-1,DE: Boomerang HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6395
-#EXTINF:-1,DE: Cartoon Network HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6394
-#EXTINF:-1,DE: Disney Channel HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3567
-#EXTINF:-1,DE: Disney Channel FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13809
-#EXTINF:-1,DE: Disney Junior HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4437
-#EXTINF:-1,DE: Disney Junior FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13826
-#EXTINF:-1,DE: Disney XD HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4438
-#EXTINF:-1,DE: Disney XD FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/151704
-#EXTINF:-1,DE: Fix & Foxi
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/35000
-#EXTINF:-1,DE: Junior
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7658
-#EXTINF:-1,DE: Kika HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3555
-#EXTINF:-1,DE: Kika FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31749
-#EXTINF:-1,DE: Nick FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/151703
-#EXTINF:-1,DE: Nickelodeon HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6393
-#EXTINF:-1,DE: Super RTL
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5971
-#EXTINF:-1,DE: Super RTL FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13811
-#EXTINF:-1,DE: Toggo Plus
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/26646
-#EXTINF:-1,DE: PJ Masks HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126646
-#EXTINF:-1,DE: Looney Tunes HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/128012
-#EXTINF:-1,DE: KIDS Animated 3x3 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126719
-#EXTINF:-1,DE: KIDS Adventure Time Collection HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/126725
-#EXTINF:-1,DE: Peppa Wutz Collection HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/144305
-#EXTINF:-1,----GERMANY DOCU----
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5051
-#EXTINF:-1,DE: Arte
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3552
-#EXTINF:-1,DE: Crime Investigation HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31855
-#EXTINF:-1,DE: Crime Investigation FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4434
-#EXTINF:-1,DE: Animal Planet HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5169
-#EXTINF:-1,DE: Animal Planet FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13818
-#EXTINF:-1,DE: Discovery HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3099
-#EXTINF:-1,DE: Discovey FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10280
-#EXTINF:-1,DE: Dmax
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3570
-#EXTINF:-1,DE: Dmax FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31753
-#EXTINF:-1,DE: Bon Gusto FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/133990
-#EXTINF:-1,DE: E! Entertainement HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6392
-#EXTINF:-1,DE: E! Entertainement FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/15318
-#EXTINF:-1,DE: Family TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/32414
-#EXTINF:-1,DE: History HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5298
-#EXTINF:-1,DE: History FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13817
-#EXTINF:-1,DE: Kabel 1 Doku
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10542
-#EXTINF:-1,DE: N24 Doku
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/20668
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3098
-#EXTINF:-1,DE: National Geo Wild FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13816
-#EXTINF:-1,DE: National Geographic HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3578
-#EXTINF:-1,DE: National Geographic FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/13815
-#EXTINF:-1,DE: Planet HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/145662
-#EXTINF:-1,DE: Phoenix HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3550
-#EXTINF:-1,DE: Spiegel Geschichte
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5170
-#EXTINF:-1,DE: Spiegel TV Wissen HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/8050
-#EXTINF:-1,DE: ZDF Neo HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3228
-#EXTINF:-1,DE: Welt der Wunder
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5178
-#EXTINF:-1,DE: RBB Berlin
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/114139
-#EXTINF:-1,----GERMANY MUSIC----
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5056
-#EXTINF:-1,DE: Deluxe Music HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/16805
-#EXTINF:-1,DE: Deluxe Muisc FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/31752
-#EXTINF:-1,DE: Jukebox
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3568
-#EXTINF:-1,DE: MTV FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3573
-#EXTINF:-1,DE: Kronehit HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/132598
-#EXTINF:-1,DE: Xite HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/132597
-#EXTINF:-1,DE: Music Top
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138111
-#EXTINF:-1,De: Nice DEF TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138112
-#EXTINF:-1,DE: Nice Mix TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138113
-#EXTINF:-1,DE: Classica
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3556
-#EXTINF:-1,----GERMANY OTHER----
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5054
-#EXTINF:-1,DE: Anixe FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4418
-#EXTINF:-1,DE: Anixe Serie FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/151702
-#EXTINF:-1,DE: Franken
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4424
-#EXTINF:-1,DE: Munchen TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3559
-#EXTINF:-1,DE: Blizz TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/20506
-#EXTINF:-1,DE: Bibel TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/137937
-#EXTINF:-1,DE: QVC
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/34996
-#EXTINF:-1,DE: Sonnenklar TV FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/34995
-#EXTINF:-1,DE: Sparhandy TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/34997
-#EXTINF:-1,DE: TV Aktuelle
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3940
-#EXTINF:-1,DE: Alpha
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138094
-#EXTINF:-1,DE: BLKonline TV Burgenlandkreis HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138096
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1616
+#EXTINF:-1,DE:Baby TV
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12865
+#EXTINF:-1,DE: Bibel TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35245
+#EXTINF:-1,DE: Bibel TV Impuls HD DE
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35246
+#EXTINF:-1,DE: Bibel TV Musik HD DE
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35247
+#EXTINF:-1,DE: Bon Gusto HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35264
+#EXTINF:-1,DE: Boomerang
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7551
+#EXTINF:-1,DE: BR
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2561
 #EXTINF:-1,DE: Bundestag Kanal 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138097
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35248
 #EXTINF:-1,DE: Bundestag Kanal 2 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138098
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35249
+#EXTINF:-1,DE: BW Family TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35250
+#EXTINF:-1,DE: Cartoon Network
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7576
+#EXTINF:-1,DE: Classica
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1325
+#EXTINF:-1,DE: Crime Investigation HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35265
+#EXTINF:-1,DE: Deluxe Music HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7562
+#EXTINF:-1,DE: Deluxe Music HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35252
+#EXTINF:-1,DE: Deutsche Welle TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35253
+#EXTINF:-1,DE: Deutsches Musik Fernsehen
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35255
+#EXTINF:-1,DE: Deutsches Musik HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35254
+#EXTINF:-1,DE: Discovery HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1324
+#EXTINF:-1,DE: Disney Channel HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7575
+#EXTINF:-1,DE: DISNEY CINEMAGIC HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5366
+#EXTINF:-1,DE: DISNEY JUNIOR HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5365
+#EXTINF:-1,DE: Disney XD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1320
+#EXTINF:-1,DE: DMAX HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7557
 #EXTINF:-1,DE: Donau TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138099
-#EXTINF:-1,DE: DRF 1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138100
-#EXTINF:-1,DE: Fashion TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138102
-#EXTINF:-1,DE: Halle TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138103
-#EXTINF:-1,DE: Health TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138104
-#EXTINF:-1,DE: Hit Arena NRW TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138105
-#EXTINF:-1,DE: Isar TV Landshut HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138106
-#EXTINF:-1,DE: Kulturmd TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138108
-#EXTINF:-1,DE: OE24.TV HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138114
-#EXTINF:-1,DE: OK4 Koblenz HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138116
-#EXTINF:-1,DE: OK54 Trier HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138117
-#EXTINF:-1,DE: Ran 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138118
-#EXTINF:-1,DE: SR HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138120
-#EXTINF:-1,DE: Stendal HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138121
-#EXTINF:-1,DE: Sylt 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138122
-#EXTINF:-1,DE: Wettin HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138124
-#EXTINF:-1,DE: Sky Sports News HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3070
-#EXTINF:-1,DE: Sky Sports News FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7811
-#EXTINF:-1,DE: Sky Sport 1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/23139
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3068
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7813
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3067
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7814
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/37305
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3069
-#EXTINF:-1,DE: Sky Bundesliga 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7812
-#EXTINF:-1,DE: DAZN 1 Bar FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/123862
-#EXTINF:-1,DE: DAZN 1 Bar HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/91437
-#EXTINF:-1,DE: DAZN 2 Bar FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/123863
-#EXTINF:-1,DE: DAZN 2 Bar HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/91438
-#EXTINF:-1,DE: Sky Sport Austria 1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146660
-#EXTINF:-1,DE: Sky Sport Austria 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146661
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3356
-#EXTINF:-1,DE: Sky Sport Austria 2 FHD (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146659
-#EXTINF:-1,DE: Sky Sport Austria 3 FHD (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146658
-#EXTINF:-1,DE: Sky Sport Austria 4 FHD (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146657
-#EXTINF:-1,DE: Sport1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5442
-#EXTINF:-1,DE: Sport 1+ HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3065
-#EXTINF:-1,DE: Sport1 US FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3062
-#EXTINF:-1,DE: Auto Motor und Sport HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/11489
-#EXTINF:-1,DE: Motorvision HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/151705
-#EXTINF:-1,DE: Motorvision
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4697
-#EXTINF:-1,DE: Bayern FC TV
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/21037
-#EXTINF:-1,DE: Bayern FC TV FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/21036
-#EXTINF:-1,DE: Sportdigital FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3579
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35256
+#EXTINF:-1,DE: DRF1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35257
+#EXTINF:-1,DE: DW TV
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7563
+#EXTINF:-1,DE: E Entertainm HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7564
+#EXTINF:-1,DE: EBS  Kanal 2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35258
+#EXTINF:-1,DE: EBS Kanal 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35259
+#EXTINF:-1,DE: erzTV Erzgebirge HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35260
+#EXTINF:-1,DE: ESport 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7584
+#EXTINF:-1,DE: EuroNews Deutsch HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35261
 #EXTINF:-1,DE: Eurosport 1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3066
-#EXTINF:-1,DE: Eurosport 1 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7817
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7580
 #EXTINF:-1,DE: Eurosport 2 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/6391
-#EXTINF:-1,DE: Eurosport 2 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/7816
-#EXTINF:-1,DE: Eurosport 2 Xtra FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/37306
-#EXTINF:-1,DE: Eurosport 2 Xtra HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/15679
-#EXTINF:-1,AT: ORF Sport+ HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/134739
-#EXTINF:-1,AT: ORF Sport+
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3917
-#EXTINF:-1,DE: eSports1 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/138095
-#EXTINF:-1,DE: Sky Sport 3
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4699
-#EXTINF:-1,DE: Sky Sport 3 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10296
-#EXTINF:-1,DE: Sky Sport HD 4
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4700
-#EXTINF:-1,DE: Sky Sport 4 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10295
-#EXTINF:-1,DE: Sky Sport 5
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4701
-#EXTINF:-1,DE: Sky Sport 5 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10294
-#EXTINF:-1,DE: Sky Sport 6 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22160
-#EXTINF:-1,DE: Sky Sport 6 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22159
-#EXTINF:-1,DE: Sky Sport 7 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22158
-#EXTINF:-1,DE: Sky Sport 7 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22157
-#EXTINF:-1,DE: Sky Sport 8 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22156
-#EXTINF:-1,DE: Sky Sport 8 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22155
-#EXTINF:-1,DE: Sky Sport 9 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22154
-#EXTINF:-1,DE: Sky Sport 9 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22153
-#EXTINF:-1,DE: Sky Sport 10 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22152
-#EXTINF:-1,DE: Sky Sport 11 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/22151
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4694
-#EXTINF:-1,DE: Sky Bundesliga 2 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10293
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4695
-#EXTINF:-1,DE: Sky Bundesliga 3 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10292
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/4696
-#EXTINF:-1,DE: Sky Bundesliga 4 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10291
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/3525
-#EXTINF:-1,DE: Sky Bundesliga 5 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/10290
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5965
-#EXTINF:-1,DE: Sky Bundesliga 6 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/96679
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/5966
-#EXTINF:-1,DE: Sky Bundesliga 7 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/96680
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/2974
-#EXTINF:-1,DE: Sky Bundesliga 8 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/96681
-#EXTINF:-1,DE: Sky Bundesliga 9 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/96682
-#EXTINF:-1,DE: Sky Bundesliga 10 FHD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112813
-#EXTINF:-1,--- DEUTSCHE TELEKOM -VIP- EXCLUSIVE ---
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/50344
-#EXTINF:-1,DE: BBL Sport 1 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146695
-#EXTINF:-1,DE: BBL Sport 2 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146694
-#EXTINF:-1,DE: BBL Sport 3 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146693
-#EXTINF:-1,DE: BBL Sport 4 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146692
-#EXTINF:-1,DE: Telekom Basketball 1 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146681
-#EXTINF:-1,DE: Telekom Basketball 2 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146680
-#EXTINF:-1,DE: Telekom Basketball 3 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146679
-#EXTINF:-1,DE: Telekom Eishockey 1 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146678
-#EXTINF:-1,DE: Telekom Eishockey 1 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146676
-#EXTINF:-1,DE: Telekom Eishockey 2 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146677
-#EXTINF:-1,DE: Telekom Eishockey 2 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146675
-#EXTINF:-1,DE: Telekom Eishockey 3 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146674
-#EXTINF:-1,DE: Telekom Eishockey 4 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146673
-#EXTINF:-1,DE: Telekom Eishockey 5 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146672
-#EXTINF:-1,DE: Telekom Eishockey 6 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146671
-#EXTINF:-1,DE: Telekom Eishockey 7 FHD [Nur an Spieltagen]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146670
-#EXTINF:-1,DE: Telekom Basketball 1 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112803
-#EXTINF:-1,DE: Telekom Basketball 2 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112802
-#EXTINF:-1,DE: Telekom Basketball 3 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112801
-#EXTINF:-1,DE: Telekom Basketball 4 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112800
-#EXTINF:-1,DE: Telekom Basketball 5 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112799
-#EXTINF:-1,DE: Telekom Basketball 6 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112798
-#EXTINF:-1,DE: Telekom Basketball 7 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112797
-#EXTINF:-1,DE: Telekom Basketball 8 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112796
-#EXTINF:-1,DE: Telekom Basketball 9 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112795
-#EXTINF:-1,DE: Telekom Eishockey 1 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112810
-#EXTINF:-1,DE: Telekom Eishockey 2 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112809
-#EXTINF:-1,DE: Telekom Eishockey 3 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112808
-#EXTINF:-1,DE: Telekom Eishockey 4 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112807
-#EXTINF:-1,DE: Telekom Eishockey 5 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112806
-#EXTINF:-1,DE: Telekom Eishockey 6 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112805
-#EXTINF:-1,DE: Telekom Eishockey 7 FHD [Live During Events Only]
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/112804
-#EXTINF:-1,DE: Sport Olympic HD
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/50321
-#EXTINF:-1,DE: DEL Sport 1 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146684
-#EXTINF:-1,DE: DEL Sport 2 (ONLY ON MATCHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146683
-#EXTINF:-1,DE: Sport Fight (ONLY ON FIGHDAY)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/146682
-#EXTINF:-1,DE: 1Live
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89236
-#EXTINF:-1,DE: AngelsFox-Radio
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89908
-#EXTINF:-1,DE: Antenne Bayern - Chillout
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89238
-#EXTINF:-1,DE: Antenne Tirol
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89239
-#EXTINF:-1,DE: Bayern 3
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89242
-#EXTINF:-1,DE: Berliner Rundfunk 91.4
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89240
-#EXTINF:-1,DE: bigFM Saarland
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89233
-#EXTINF:-1,DE: BlackBeats FM
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92277
-#EXTINF:-1,DE: DiscoFox
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110463
-#EXTINF:-1,DE: Energy Metal
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/91945
-#EXTINF:-1,DE: fresh80s
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89912
-#EXTINF:-1,DE: Hardbase Fm
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/93613
-#EXTINF:-1,DE: Kiss FM
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92273
-#EXTINF:-1,DE: Kiss FM pure Rap
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92274
-#EXTINF:-1,DE: MDR JUMP
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92243
-#EXTINF:-1,DE: Mera Luna FM
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89907
-#EXTINF:-1,DE: My Rock 105
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/121818
-#EXTINF:-1,DE: Radio 7
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92275
-#EXTINF:-1,DE: Radio BCS
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89862
-#EXTINF:-1,DE: Radio BOB
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89959
-#EXTINF:-1,DE: Radio Clodia
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89245
-#EXTINF:-1,DE: Radio Paloma – 100% Deutscher Schlager
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89910
-#EXTINF:-1,DE: Radio RSH
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89911
-#EXTINF:-1,DE: Radio Russkij Berlin 97,2
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92276
-#EXTINF:-1,DE: Radio Sunshine-Live
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89909
-#EXTINF:-1,DE: Radio TEDDY (KinderRadio)
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89906
-#EXTINF:-1,DE: RadioMonster.FM - Dance
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110461
-#EXTINF:-1,DE: RadioMonster.FM - Evergreens
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110460
-#EXTINF:-1,DE: RadioMonster.FM - Schlager
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110459
-#EXTINF:-1,DE: RadioMonster.FM - Tophits
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110458
-#EXTINF:-1,DE: Rock Antenne Deutschrock
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/91944
-#EXTINF:-1,DE: RPR1
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89243
-#EXTINF:-1,DE: RSA Sachsen
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/92241
-#EXTINF:-1,DE: Schlagertempel
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110457
-#EXTINF:-1,DE: SinglesTreff
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110453
-#EXTINF:-1,DE: SinglesTreff 80
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110456
-#EXTINF:-1,DE: SinglesTreff 90
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110455
-#EXTINF:-1,DE: SinglesTreff Oldies
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110454
-#EXTINF:-1,DE: Star FM Berlin
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89241
-#EXTINF:-1,DE: Sunshine Live
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89235
-#EXTINF:-1,DE: SWR 1 RP Live
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89244
-#EXTINF:-1,DE: TechnobaseFM
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/89234
-#EXTINF:-1,DE: Österreichische Vorarlberg
-http://clientbox.tv:80/eT9kTP2UwY/igkqSRBsZj/110462
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7581
+#EXTINF:-1,DE: Eurosport 2 Xtra
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/13663
+#EXTINF:-1,DE: FAMILY TV
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5347
+#EXTINF:-1,DE: Folx TV
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35262
+#EXTINF:-1,DE: Folx TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35263
+#EXTINF:-1,DE: FOX HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1618
+#EXTINF:-1,DE: Fox Serie HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7550
+#EXTINF:-1,DE: Geo TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35266
+#EXTINF:-1,DE: Hanover 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35267
+#EXTINF:-1,DE: Health TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12590
+#EXTINF:-1,DE: HEIMATKANAL
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5350
+#EXTINF:-1,DE: HISTORY HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5362
+#EXTINF:-1,DE: HitArena NRW TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35268
+#EXTINF:-1,DE: HR
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2567
+#EXTINF:-1,DE: Isar-TV Landshut HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35269
+#EXTINF:-1,DE: JUKEBOX
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5364
+#EXTINF:-1,DE: JUNIOR
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5367
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/21660
+#EXTINF:-1,DE: Kabel 1 Docu HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7556
+#EXTINF:-1,DE: Kabel 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/131
+#EXTINF:-1,DE: KIKA HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5355
+#EXTINF:-1,DE: KINOWELT HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5361
+#EXTINF:-1,DE: Kronehit TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35270
+#EXTINF:-1,DE: Leipzig TV FHD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35271
+#EXTINF:-1,DE: Light Channel HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35272
+#EXTINF:-1,DE: MDR HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7570
+#EXTINF:-1,DE: Motorvision TV
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7582
+#EXTINF:-1,DE: MTV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7561
+#EXTINF:-1,DE: Munchen TV
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12589
+#EXTINF:-1,DE: MusicTop HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35273
+#EXTINF:-1,DE: Musik One 2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35274
+#EXTINF:-1,DE: Musik One HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35275
+#EXTINF:-1,DE: N-TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5356
+#EXTINF:-1,DE: N24 Doku
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26991
+#EXTINF:-1,DE: naheTV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35276
+#EXTINF:-1,DE: Nat GEO HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1314
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1313
+#EXTINF:-1,DE: NDR Hamburg HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35277
+#EXTINF:-1,DE: Ndr HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1348
+#EXTINF:-1,DE: NDR Mecklenburg-Vorpommern HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35278
+#EXTINF:-1,DE: NDR Niedersachsen HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35279
+#EXTINF:-1,DE: NDR Schleswig-Holstein HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35280
+#EXTINF:-1,DE: Nice DEF TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35281
+#EXTINF:-1,DE: Nice Mix TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35282
+#EXTINF:-1,DE: Nick/Comedy Central
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7578
+#EXTINF:-1,DE: Nickelodeon HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7577
+#EXTINF:-1,DE: noa4 Hamburg HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35283
+#EXTINF:-1,DE: noa4 Norderstedt HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35284
+#EXTINF:-1,DE: Nrwision HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35285
+#EXTINF:-1,DE: Oberpfalz TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35286
+#EXTINF:-1,DE: Ócko HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35287
+#EXTINF:-1,DE: Ócko Star HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35288
+#EXTINF:-1,DE: OE24.TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35289
+#EXTINF:-1,DE: OK4 Koblenz HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35290
+#EXTINF:-1,DE: OK54 Trier HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35291
+#EXTINF:-1,DE: ONE HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12587
+#EXTINF:-1,DE: ORF 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1622
+#EXTINF:-1,DE: ORF 2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1346
+#EXTINF:-1,DE: Phoenix HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7558
+#EXTINF:-1,DE: Pilatus Beatz TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35292
+#EXTINF:-1,DE: Planet HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2564
+#EXTINF:-1,DE: PRO 7 FUN HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/6094
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1621
+#EXTINF:-1,DE: ProSieben HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/127
+#EXTINF:-1,DE: Radio Contact HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35293
+#EXTINF:-1,DE: Radio Studio Brussell HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35294
+#EXTINF:-1,DE: RBB
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2562
+#EXTINF:-1,DE: Regio TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35295
+#EXTINF:-1,DE: Retro Music TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35296
+#EXTINF:-1,DE: RFO HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35297
+#EXTINF:-1,DE: RNF HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35298
+#EXTINF:-1,DE: Romance TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1311
+#EXTINF:-1,DE: RTL Crime HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5349
+#EXTINF:-1,DE: RTL HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/125
+#EXTINF:-1,DE: RTL Living HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1309
+#EXTINF:-1,DE: RTL Nitro HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/119
+#EXTINF:-1,DE: Rtl Passion HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/117
+#EXTINF:-1,DE: RTL Plus
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7554
+#EXTINF:-1,DE: RTL2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/126
+#EXTINF:-1,DE: SAT 1 Emotions
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7566
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5353
+#EXTINF:-1,DE: SAT 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/128
+#EXTINF:-1,DE: Servus TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2563
+#EXTINF:-1,DE: Sixx HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/132
+#EXTINF:-1,DE: SKY 1HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7870
+#EXTINF:-1,DE: Sky Action HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/107
+#EXTINF:-1,DE: Sky Atlantic +1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7547
+#EXTINF:-1,DE: Sky Atlantic HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/112
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/539
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1344
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1343
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1342
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1341
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1340
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1339
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1338
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1337
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1345
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7546
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7545
+#EXTINF:-1,DE: Sky Cinema HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/106
+#EXTINF:-1,DE: Sky Comedy HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/108
+#EXTINF:-1,DE: Sky Emotion
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/109
+#EXTINF:-1,DE: Sky Family HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12864
+#EXTINF:-1,DE: Sky Hits HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/111
+#EXTINF:-1,DE: Sky Krimi
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/114
+#EXTINF:-1,DE: Sky Nostalgie
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/110
+#EXTINF:-1,DE: Sky Popcorn Select 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26952
+#EXTINF:-1,DE: Sky Popcorn Select 2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26951
+#EXTINF:-1,DE: Sky Popcorn Select 3 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26950
+#EXTINF:-1,DE: Sky Popcorn Select 4 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26949
+#EXTINF:-1,DE: Sky Popcorn Select 5 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26948
+#EXTINF:-1,DE: Sky Popcorn Select 6 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/26947
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7210
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/446
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/447
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/448
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/475
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/474
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2568
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2569
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/121
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/540
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7487
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1333
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1332
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1331
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1330
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1329
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1328
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1335
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1334
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/122
+#EXTINF:-1,DE: Sky Sports News HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/120
+#EXTINF:-1,DE: Sonnenklar TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12867
+#EXTINF:-1,DE: Sonus FM TV HD DE (visual Radio) HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35299
+#EXTINF:-1,DE: Sony HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/115
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7552
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5363
+#EXTINF:-1,DE: Sport1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7583
+#EXTINF:-1,DE: Sportdigital HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/123
+#EXTINF:-1,DE: SR HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7569
+#EXTINF:-1,DE: Super RTL HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/130
+#EXTINF:-1,DE: SWR HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7568
+#EXTINF:-1,DE: Südwestpfalz HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35300
+#EXTINF:-1,DE: Syfy HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/116
+#EXTINF:-1,DE: Sylt 1 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35301
+#EXTINF:-1,DE: Tagesschau 24
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12591
+#EXTINF:-1,DE: Tele 5 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7567
+#EXTINF:-1,DE: Tele Regional Passau HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35302
+#EXTINF:-1,DE: TLC HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7565
+#EXTINF:-1,DE: TNT Comedy HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1617
+#EXTINF:-1,DE: TNT Film
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7549
+#EXTINF:-1,DE: TNT SERIE HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5360
+#EXTINF:-1,DE: TOGGO Plus
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35251
+#EXTINF:-1,DE: Toggo Plus HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5354
+#EXTINF:-1,DE: Travel Ch. HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12866
+#EXTINF:-1,DE: TV HD DE Würzburg HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35304
+#EXTINF:-1,DE: TV HD DEA  für Ostbayern HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35305
+#EXTINF:-1,DE: TV HD DEM3 HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35306
+#EXTINF:-1,DE: TV HD Mainfranken Würzburg
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35307
+#EXTINF:-1,DE: TV HD Oberfranken
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35308
+#EXTINF:-1,DE: U TV HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35309
+#EXTINF:-1,DE: U1 Tirol/ Tiroler Heimat HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/35310
+#EXTINF:-1,DE: Universal HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7553
+#EXTINF:-1,DE: VOX HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/129
+#EXTINF:-1,DE: WDR
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/2390
+#EXTINF:-1,DE: Welt der Wunder
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/12592
+#EXTINF:-1,DE: WELT HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/133
+#EXTINF:-1,DE: ZDF HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/655
+#EXTINF:-1,DE: ZDF Info HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1327
+#EXTINF:-1,DE: ZDF neo
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/1326
+#EXTINF:-1,DE: ZDF NEO HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/7572
+#EXTINF:-1,DE: Zee One HD
+http://livegopanel.club:8080/2DNUGYYwnh/amh5YCsheS/5357
