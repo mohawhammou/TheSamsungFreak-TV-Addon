@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,DE:DAS ERSTE FHD/HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68354
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68354
 #EXTINF:-1,DE:ONE HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68367
 #EXTINF:-1,DE:ARTE FHD/HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68376
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68376
 #EXTINF:-1,DE:ZDF FHD/HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68357
 #EXTINF:-1,DE:ZDF INFO HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68359
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68359
 #EXTINF:-1,DE:ZDF NEO HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68360
 #EXTINF:-1,DE:RTL FHD/HD
-http://wuuws.com:8080/kulaksiz11/KUha61bh83/68362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wuuws.com:8080/kulaksiz11/KUha61bh83/68362
 #EXTINF:-1,DE:RTL CRIME FHD/HD
 http://wuuws.com:8080/kulaksiz11/KUha61bh83/68371
 #EXTINF:-1,DE:RTL NITRO FHD/HD
