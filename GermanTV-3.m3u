@@ -1,165 +1,285 @@
 #EXTM3U 
-#EXTINF:-1,DE: ZDF NEO HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17512
-#EXTINF:-1,DE: ZDF INFO HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17513
-#EXTINF:-1,DE: ZDF
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/426
-#EXTINF:-1,DE: WDR HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/379
-#EXTINF:-1,DE: VOX
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/427
-#EXTINF:-1,DE: VH1 SHUFFLE
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/23850
-#EXTINF:-1,DE: TVA
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/381
-#EXTINF:-1,DE: TOGGO PLUS
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/303
-#EXTINF:-1,DE: TLC
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/710
-#EXTINF:-1,DE: SYFY
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/288
-#EXTINF:-1,DE: SUPER RTL
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/289
-#EXTINF:-1,DE: SRF 1 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/290
-#EXTINF:-1,DE: SPORT DIGITAL HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/708
-#EXTINF:-1,DE: TNT SERIE HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/440
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/348
-#EXTINF:-1,DE: SKY SELECT HD 5
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/321
-#EXTINF:-1,DE: SKY SELECT HD 4
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/320
-#EXTINF:-1,DE: SKY SELECT HD 3
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/319
-#EXTINF:-1,DE: SKY SELECT HD 2
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/318
-#EXTINF:-1,DE: SKY SELECT HD 1
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/317
-#EXTINF:-1,DE: SKY SELECT 7
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/707
-#EXTINF:-1,DE: SKY SELECT 6
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/706
-#EXTINF:-1,DE: SKY NATONAL WILD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/86
-#EXTINF:-1,DE: SKY KRIMI
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/429
-#EXTINF:-1,DE: SKY FOX
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/285
-#EXTINF:-1,DE: SKY DISCOVERY HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/296
-#EXTINF:-1,DE: SKY COMEDY
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/430
-#EXTINF:-1,DE: SKY CINEMA 24
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/93
-#EXTINF:-1,DE: SKY CINEMA
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/287
-#EXTINF:-1,DE: SKY ATLANTIC HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/101
-#EXTINF:-1,DE: SKY 13 STREET HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/359
-#EXTINF:-1,DE: SKY 1
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/92
-#EXTINF:-1,DE: SKY SPORT AUSTRIA 1
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/351
-#EXTINF:-1,DE: SIXX
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/264
-#EXTINF:-1,DE: SAT 1 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/265
-#EXTINF:-1,DE: SAT 1 GOLD HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/709
-#EXTINF:-1,DE: RTL PASSION
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/297
-#EXTINF:-1,DE: RTL CRIME HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/267
-#EXTINF:-1,DE: RTL CRiME
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/444
-#EXTINF:-1,DE: RTL 2 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/292
+#EXTINF:-1,DE: DAS ERSTE (ARD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22546
+#EXTINF:-1,DE: DAS ERSTE HD (ARD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22545
+#EXTINF:-1,DE: ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22544
+#EXTINF:-1,DE: ZDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22543
+#EXTINF:-1,DE: ZDF NEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22542
+#EXTINF:-1,DE: 3 SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22541
 #EXTINF:-1,DE: RTL
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/268
-#EXTINF:-1,DE: PRO 7 MAXX
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/435
-#EXTINF:-1,DE: PRO 7
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/428
-#EXTINF:-1,DE: ORF SPORT
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/410
-#EXTINF:-1,DE: ORF 2
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/375
-#EXTINF:-1,DE: ORF 1
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/384
-#EXTINF:-1,DE: NATGEODE
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/437
-#EXTINF:-1,DE: N TV
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/286
-#EXTINF:-1,DE: N24
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/345
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22540
+#EXTINF:-1,DE: RTL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22539
+#EXTINF:-1,DE: RTL PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22538
+#EXTINF:-1,DE: RTL CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22537
+#EXTINF:-1,DE: RTL PASSION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22536
+#EXTINF:-1,DE: RTL NITRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22535
+#EXTINF:-1,DE: SUPER RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22534
+#EXTINF:-1,DE: VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22533
+#EXTINF:-1,DE: EOTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22532
+#EXTINF:-1,DE: ZEE ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22531
+#EXTINF:-1,DE: SWR FERNSEHEN BW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22530
+#EXTINF:-1,DE: NITRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22529
+#EXTINF:-1,===== DE: HD  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22528
+#EXTINF:-1,DE: RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22527
+#EXTINF:-1,DE: RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22526
+#EXTINF:-1,DE: SAT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22525
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22524
+#EXTINF:-1,DE: SIXX HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22523
+#EXTINF:-1,DE: VOX HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22522
+#EXTINF:-1,DE: KABEL 1 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22521
+#EXTINF:-1,DE: PROSIEBEN HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22520
+#EXTINF:-1,DE: PROSIEBEN MAXX HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22519
 #EXTINF:-1,DE: DMAX HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17575
-#EXTINF:-1,DE: KiNOBOX 2 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17576
-#EXTINF:-1,DE: KiNOBOX 1 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17577
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22518
+#EXTINF:-1,DE: TELE 5 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22517
+#EXTINF:-1,DE: ZEE ONE HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22516
+#EXTINF:-1,===== DE: KINO =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22515
+#EXTINF:-1,DE: SKY 1 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22514
+#EXTINF:-1,DE: SKY CINEMA HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22513
+#EXTINF:-1,DE: SKY CINEMA  1 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22512
+#EXTINF:-1,DE: SKY CINEMA  24 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22511
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22510
+#EXTINF:-1,DE: SKY CINEMA ACTION HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22509
+#EXTINF:-1,DE: SKY CINEMA EMOTION
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22508
+#EXTINF:-1,DE: SKY CINEMA NOSTALGIE
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22507
+#EXTINF:-1,DE: SKY CINEMA HITS HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22506
+#EXTINF:-1,DE: TNT COMEDY HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22505
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22504
+#EXTINF:-1,DE: MOVIESINEMA GERMAN 1 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22503
+#EXTINF:-1,DE: MOVIESINEMA GERMAN 2 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22502
+#EXTINF:-1,DE: MOVIESINEMA GERMAN 3 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22501
+#EXTINF:-1,DE: MOVIESINEMA GERMAN 4 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22500
+#EXTINF:-1,DE: MOVIESINEMA GERMAN 5 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22499
+#EXTINF:-1,===== DE: SKY SELECT =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22498
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22497
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22496
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22495
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22494
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22493
+#EXTINF:-1,DE: SKY ATLANTIC
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22492
+#EXTINF:-1,DE: KINOWELT TV
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22491
+#EXTINF:-1,DE: TNT FILM
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22490
+#EXTINF:-1,===== DE: UNTERHALTUNG =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22489
+#EXTINF:-1,DE: FOX HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22488
+#EXTINF:-1,DE: 13TH STREET HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22487
+#EXTINF:-1,DE: SYFY HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22486
+#EXTINF:-1,DE: TNT SERIE HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22485
+#EXTINF:-1,DE: SKY TNT SERIE HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22484
+#EXTINF:-1,DE: ROMANCE TV
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22483
+#EXTINF:-1,DE: FOX SERIE
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22482
+#EXTINF:-1,DE: SKY KRIMI
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22481
+#EXTINF:-1,DE: 13TH STREET
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22480
+#EXTINF:-1,DE: E! ENTERTAINMENT HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22479
+#EXTINF:-1,DE: MTV HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22478
+#EXTINF:-1,DE: NICK /MTV HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22477
+#EXTINF:-1,DE: DELUXE MUSIC HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22476
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22475
+#EXTINF:-1,DE: VH1
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22474
+#EXTINF:-1,DE: JUKEBOX
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22473
+#EXTINF:-1,===== DE: DOKUMENTARFILME =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22472
+#EXTINF:-1,DE: DISCOVERY HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22471
+#EXTINF:-1,DE: NGC HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22470
+#EXTINF:-1,DE: NGC WILD HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22469
+#EXTINF:-1,DE: HISTORY HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22468
+#EXTINF:-1,DE: TLC HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22467
+#EXTINF:-1,DE: SKY ARTS HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22466
+#EXTINF:-1,DE: NGC
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22465
+#EXTINF:-1,DE: NGC WILD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22464
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22463
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22462
+#EXTINF:-1,DE: A&E
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22461
+#EXTINF:-1,===== DE: JUGEND =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22460
+#EXTINF:-1,DE: DISNEY CHANNEL HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22459
+#EXTINF:-1,DE: DISNEY JUNIOR HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22458
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22457
+#EXTINF:-1,DE: NICK /MTV
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22456
 #EXTINF:-1,DE: KIKA
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/295
-#EXTINF:-1,DE: KABEL EINS DOKU
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17517
-#EXTINF:-1,DE: KABEL EINS CLASSIC HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/17515
-#EXTINF:-1,DE: KABEL 1
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/438
-#EXTINF:-1,DE: EUROSPORT 2 HD XTRA
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/1298
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22455
+#EXTINF:-1,DE: CARTOON NETWORK
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22454
+#EXTINF:-1,DE: BOOMERANG
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22453
+#EXTINF:-1,===== DE: NACHRICHTEN =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22452
 #EXTINF:-1,DE: EURONEWS
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/352
-#EXTINF:-1,DE: DISNEY
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/300
-#EXTINF:-1,DE: DAZN SPORT HD 2
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/10281
-#EXTINF:-1,DE: DAZN SPORT HD 1
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/10280
-#EXTINF:-1,DE: BUNDESLIGA 9 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/454
-#EXTINF:-1,DE: BUNDESLIGA 8 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/453
-#EXTINF:-1,DE: BUNDESLIGA 7 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/452
-#EXTINF:-1,DE: BUNDESLIGA 6 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/451
-#EXTINF:-1,DE: BUNDESLIGA 5 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/450
-#EXTINF:-1,DE: BUNDESLIGA 4 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/449
-#EXTINF:-1,DE: BUNDESLIGA 3 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/448
-#EXTINF:-1,DE: BUNDESLIGA 3 8 LOCAL NUR SPIEL TAG
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15817
-#EXTINF:-1,DE: BUNDESLIGA 2 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/447
-#EXTINF:-1,DE: BUNDESLIGA 1 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/446
-#EXTINF:-1,DE: BUNDESLIGA 10 HD VIP
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/455
-#EXTINF:-1,DE: AXN
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/95
-#EXTINF:-1,DE: ARTE
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/433
-#EXTINF:-1,DE: ARD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/445
-#EXTINF:-1,DE: SKY SPORT 7 HD Only On Live Match Day
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15816
-#EXTINF:-1,DE: SKY SPORT 6 HD Only On Live Match Day
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15814
-#EXTINF:-1,DE: SKY SPORT 5 HD Only On Live Match Day
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15813
-#EXTINF:-1,DE: SKY SPORT 4 HD Only On Live Match Day
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15812
-#EXTINF:-1,DE: SKY SPORT 3 HD Only On Live Match Day
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15811
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15810
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22451
+#EXTINF:-1,DE: N TV
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22450
+#EXTINF:-1,===== DE: ANDERE =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22449
+#EXTINF:-1,DE: JUWELO HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22448
+#EXTINF:-1,DE: PEARL TV HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22447
+#EXTINF:-1,DE: 123TV HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22446
+#EXTINF:-1,DE: ANIXE HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22445
+#EXTINF:-1,DE: QVC HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22444
+#EXTINF:-1,DE: QVC2 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22443
+#EXTINF:-1,DE: HSE 24 HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22442
+#EXTINF:-1,DE: HSE 24 EXTRA HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22441
+#EXTINF:-1,DE: MDR CRINGEN HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22440
+#EXTINF:-1,DE: MDR S-ANHALT HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22439
+#EXTINF:-1,DE: MDR SACHSEN HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22438
+#EXTINF:-1,DE: WDR AACHEN HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22437
+#EXTINF:-1,DE: WDR BONN HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22436
+#EXTINF:-1,DE: WDR DUISBURG HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22435
+#EXTINF:-1,DE: RBB BERLIN HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22434
+#EXTINF:-1,DE: RBB BRANDEN BURG
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22433
+#EXTINF:-1,DE: SONNENKLAR HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22432
+#EXTINF:-1,DE: WDR WUPPERTAL HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22431
+#EXTINF:-1,DE: WELT HD
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22430
+#EXTINF:-1,DE: HEIMAT KANAL
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22429
+#EXTINF:-1,DE: CLASSICA
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22428
+#EXTINF:-1,===== DE: SPORT =====
+http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22427
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22426
+#EXTINF:-1,DE: SPORT 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22425
+#EXTINF:-1,DE: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22424
+#EXTINF:-1,DE: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22423
+#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22422
+#EXTINF:-1,DE: MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22421
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22420
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22419
 #EXTINF:-1,DE: SKY SPORT 1 HD
-http://dynamicipfree.com:8000/TurboIPTV/04112019hiremco/15809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22418
+#EXTINF:-1,DE: SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22417
+#EXTINF:-1,DE: SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22416
+#EXTINF:-1,DE: SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22415
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22414
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22413
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22412
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22411
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22410
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22409
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22408
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22407
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22406
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/MCNOWUlHuD/4F41HtU80G/22405
