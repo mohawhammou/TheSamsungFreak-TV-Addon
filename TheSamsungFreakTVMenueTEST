@@ -36,6 +36,15 @@
 <info></info>
 </channel>
 
+<channels> 
+<channel> 
+<name>[B]Poland TV[/B]</name> 
+<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<externallink>   </externallink> 
+<fanart> </fanart> 
+<info></info> 
+</channel>
+
 <channels>
 <channel>
 <name>[B]Italy TV[/B]</name>
