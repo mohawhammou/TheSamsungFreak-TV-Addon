@@ -1,171 +1,776 @@
 #EXTM3U
-#EXTINF:-1 ,106acht Alsterradio
-http://butze.merlinsteuer.de:9981/stream/channelid/561244058?ticket=6C057E464F855A9E2BDD83110EC1877532BB0DFD&profile=matroska
-#EXTINF:-1 ,1LIVE
-http://butze.merlinsteuer.de:9981/stream/channelid/1672519382?ticket=75D79DB42F0DB87E2D0F8EC8F3EEB50A1CE6B37F&profile=matroska
-#EXTINF:-1 ,1LIVE diGGi
-http://butze.merlinsteuer.de:9981/stream/channelid/606318038?ticket=9BF48ED4B6D5A67285732087FDA4A59F18A07113&profile=matroska
-#EXTINF:-1 ,3sat
-http://butze.merlinsteuer.de:9981/stream/channelid/246209601?ticket=B5A811767208FFB1712FC4AE645375F5156A2356&profile=matroska
-#EXTINF:-1 ,3sat HD
-http://butze.merlinsteuer.de:9981/stream/channelid/2103943271?ticket=1218D3F1A0D0FD0578EB462F395F7BCEB1C17835&profile=matroska
-#EXTINF:-1 ,Antenne Brandenburg
-http://butze.merlinsteuer.de:9981/stream/channelid/1008780066?ticket=5D860573D1398B41521FE894AD62DAD19510951E&profile=matroska
-#EXTINF:-1 ,Antenne Mecklenburg - Vorp.
-http://butze.merlinsteuer.de:9981/stream/channelid/1291195000?ticket=1CDDEB02CD35BD4C8DF39213810FC50F6F2C37A5&profile=matroska
-#EXTINF:-1 ,Antenne Niedersachsen HH/LG
-http://butze.merlinsteuer.de:9981/stream/channelid/382004516?ticket=0DC4A91C827E40C7A014D7B7E9FE9574D024E145&profile=matroska
-#EXTINF:-1 ,ARD-alpha
-http://butze.merlinsteuer.de:9981/stream/channelid/1065326058?ticket=FE01CF9D8D009B6739CD4CD99403544F02A39185&profile=matroska
-#EXTINF:-1 ,arte
-http://butze.merlinsteuer.de:9981/stream/channelid/597037082?ticket=D4E33EA249413C68CFBAECEE69765E6F8571F95E&profile=matroska
-#EXTINF:-1 ,arte HD
-http://butze.merlinsteuer.de:9981/stream/channelid/583046227?ticket=21A018BFF1C9124E14A9ED61958252C7BDC85C20&profile=matroska
-#EXTINF:-1 ,BAYERN 3
-http://butze.merlinsteuer.de:9981/stream/channelid/1189814715?ticket=FCC98188BD541AC5A21EAC26C126BBC5B1834CD6&profile=matroska
-#EXTINF:-1 ,BBC World News (eng)
-http://butze.merlinsteuer.de:9981/stream/channelid/474032667?ticket=992ABDE70E88F2ED7D44E068C0E937814A1382EB&profile=matroska
-#EXTINF:-1 ,BR Fernsehen Süd
-http://butze.merlinsteuer.de:9981/stream/channelid/1780859941?ticket=E82DFEB8B5EAC24ACCA21365F1F6C6CDF39571AD&profile=matroska
-#EXTINF:-1 ,BR Fernsehen Süd HD
-http://butze.merlinsteuer.de:9981/stream/channelid/973652301?ticket=6B8BBE20D70B8AE8187810146DCCADBF37452CFF&profile=matroska
-#EXTINF:-1 ,BR-KLASSIK
-http://butze.merlinsteuer.de:9981/stream/channelid/684021265?ticket=5C60A8FCA6E5EE7F37BAFBC926D06D3A6ECF7DC4&profile=matroska
-#EXTINF:-1 ,CNN (eng)
-http://butze.merlinsteuer.de:9981/stream/channelid/1734436271?ticket=51DB16464B44F5FA0486E81026BBD61EFF91EEEB&profile=matroska
-#EXTINF:-1 ,Das Erste
-http://butze.merlinsteuer.de:9981/stream/channelid/1492222531?ticket=E805D077CA996882F82524894E8F080E57B90F2E&profile=matroska
-#EXTINF:-1 ,Das Erste HD
-http://butze.merlinsteuer.de:9981/stream/channelid/778573655?ticket=512681D209FD53696E70D6745F49388563309571&profile=matroska
-#EXTINF:-1 ,Delta Radio
-http://butze.merlinsteuer.de:9981/stream/channelid/76217781?ticket=880EAF55BD3D9F966FF233314EC301E66F73FC41&profile=matroska
-#EXTINF:-1 ,Dlf
-http://butze.merlinsteuer.de:9981/stream/channelid/1343721494?ticket=E9BE7A4D6FB39B29CAE7467AC2391DB1A98C49F5&profile=matroska
-#EXTINF:-1 ,Dlf Kultur
-http://butze.merlinsteuer.de:9981/stream/channelid/1201336167?ticket=A1650753C1430712CAF019303CD00E9C273ECBF8&profile=matroska
-#EXTINF:-1 ,Dlf Nova
-http://butze.merlinsteuer.de:9981/stream/channelid/348353713?ticket=7447727646AC3D8474071E758A856465774CF78A&profile=matroska
-#EXTINF:-1 ,DMAX
-http://butze.merlinsteuer.de:9981/stream/channelid/2138670539?ticket=2838B68BB303046384B72F044749FB50591C4ADC&profile=matroska
-#EXTINF:-1 ,Eurosport 1
-http://butze.merlinsteuer.de:9981/stream/channelid/1223149416?ticket=233F47171C55984CDCAB9844F7E9F211328F979B&profile=matroska
-#EXTINF:-1 ,hr-fernsehen
-http://butze.merlinsteuer.de:9981/stream/channelid/1584474730?ticket=A4AD2F8737ECC9132A20E8C64BB4413121D33F3B&profile=matroska
-#EXTINF:-1 ,hr-fernsehen HD
-http://butze.merlinsteuer.de:9981/stream/channelid/999067191?ticket=D047F884235E783A139C16BECD1F7D3FAAF9CFBA&profile=matroska
-#EXTINF:-1 ,Inforadio
-http://butze.merlinsteuer.de:9981/stream/channelid/1820433682?ticket=6CE9994D205A195A4920E4077441EC1B1C07E867&profile=matroska
-#EXTINF:-1 ,kabel eins
-http://butze.merlinsteuer.de:9981/stream/channelid/1918047075?ticket=5F2B552F07668F64BAB69799A0F39B253080C4D9&profile=matroska
-#EXTINF:-1 ,kabel eins Doku
-http://butze.merlinsteuer.de:9981/stream/channelid/929279803?ticket=5F5D4383251D689C128C0F937FB20503AE5A424B&profile=matroska
-#EXTINF:-1 ,KiKA
-http://butze.merlinsteuer.de:9981/stream/channelid/342378299?ticket=86E8BF4DFDD19F47FD51FF5ABC2176AAA7254321&profile=matroska
-#EXTINF:-1 ,KiKA HD
-http://butze.merlinsteuer.de:9981/stream/channelid/1066662654?ticket=65109FB0780A17321EAE7A34231153C9B85216E9&profile=matroska
-#EXTINF:-1 ,MDR KLASSIK
-http://butze.merlinsteuer.de:9981/stream/channelid/1794139043?ticket=E1D772836DFC183917C7E4BF0951602040E9F142&profile=matroska
-#EXTINF:-1 ,MDR KULTUR
-http://butze.merlinsteuer.de:9981/stream/channelid/477285417?ticket=F6477E8FFB40FAB779A1ED6149FA0AA12AEE4826&profile=matroska
-#EXTINF:-1 ,MDR S-Anhalt
-http://butze.merlinsteuer.de:9981/stream/channelid/961594056?ticket=57F1EAC816FA79629910490626E0A374030C8408&profile=matroska
-#EXTINF:-1 ,MDR S-ANHALT MD
-http://butze.merlinsteuer.de:9981/stream/channelid/945451143?ticket=E816B5C645F9B49B40509A704974450A370B5184&profile=matroska
-#EXTINF:-1 ,N-JOY
-http://butze.merlinsteuer.de:9981/stream/channelid/47088794?ticket=B3BDDC1900A7B986CE43691B47DD6022AB720F4F&profile=matroska
-#EXTINF:-1 ,n-tv
-http://butze.merlinsteuer.de:9981/stream/channelid/1506239090?ticket=B0B55477F7CBB1CA91815788682DE7C6AEA311CE&profile=matroska
-#EXTINF:-1 ,N24 Doku
-http://butze.merlinsteuer.de:9981/stream/channelid/1462917579?ticket=E3444A18038F73EEF339825DF1EC4C7731671697&profile=matroska
-#EXTINF:-1 ,NDR 1 Welle Nord -Ost
-http://butze.merlinsteuer.de:9981/stream/channelid/103509961?ticket=43A7F0854DBFA4EC05FA433DCA7AA7530134AC87&profile=matroska
-#EXTINF:-1 ,NDR 2
-http://butze.merlinsteuer.de:9981/stream/channelid/1803050334?ticket=27A0EC8AC18C75C0D44E0E2F22FA48E7FB33FE86&profile=matroska
-#EXTINF:-1 ,3
-http://butze.merlinsteuer.de:9981/stream/channelid/1941771461?ticket=15F7C7EC83018FE3135B2792CF381CD60EA334B8&profile=matroska
-#EXTINF:-1 ,NDR Blue
-http://butze.merlinsteuer.de:9981/stream/channelid/634117450?ticket=D7C74B426828AC4C8FF48E763232253B0429E79F&profile=matroska
-#EXTINF:-1 ,NDR FS SH
-http://butze.merlinsteuer.de:9981/stream/channelid/78511534?ticket=872E2B00A17904CB7CB36EF853D4FB3AEE000BCC&profile=matroska
-#EXTINF:-1 ,NDR FS SH HD
-http://butze.merlinsteuer.de:9981/stream/channelid/1354007317?ticket=14A3D29F927AB2FF96EDBCCAB9E46ED52B2A540B&profile=matroska
-#EXTINF:-1 ,NDR Info
-http://butze.merlinsteuer.de:9981/stream/channelid/1288526794?ticket=759928307048E9B9F8D2BEBF4AAA90550305B727&profile=matroska
-#EXTINF:-1 ,NDR Kultur
-http://butze.merlinsteuer.de:9981/stream/channelid/1403674852?ticket=A71430845F51EE9CF935BD745E9E70448746B8E0&profile=matroska
-#EXTINF:-1 ,ONE
-http://butze.merlinsteuer.de:9981/stream/channelid/400218919?ticket=CDCA29815B310828562FAFE9412B33A4D164F033&profile=matroska
-#EXTINF:-1 ,ONE HD
-http://butze.merlinsteuer.de:9981/stream/channelid/1670341647?ticket=67CA2510821FF9459C02D4A84C101B12C9789D93&profile=matroska
-#EXTINF:-1 ,phoenix
-http://butze.merlinsteuer.de:9981/stream/channelid/1388974227?ticket=155C10C8B1566C1A3204F7C6B945A8A506857DF2&profile=matroska
-#EXTINF:-1 ,PHOENIX HD
-http://butze.merlinsteuer.de:9981/stream/channelid/2083138451?ticket=D8ABE0DF1CDA373FDFC0730C35F209C0C8048BF3&profile=matroska
-#EXTINF:-1 ,ProSieben
-http://butze.merlinsteuer.de:9981/stream/channelid/687173886?ticket=0CE8A83581FC366166E729C2D2D221DCE3D4CC25&profile=matroska
-#EXTINF:-1 ,ProSieben MAXX
-http://butze.merlinsteuer.de:9981/stream/channelid/129969916?ticket=AC421DAC46D7812CB1DA7C812AA3F5C7911DB5ED&profile=matroska
-#EXTINF:-1 ,Radio Bob
-http://butze.merlinsteuer.de:9981/stream/channelid/1647398262?ticket=29309697D89C95BE4FB5A95B859A031B80BD733E&profile=matroska
-#EXTINF:-1 ,Radio Hamburg
-http://butze.merlinsteuer.de:9981/stream/channelid/695196798?ticket=FEE47D6768C3860509661835A503A0CB8A0F6357&profile=matroska
-#EXTINF:-1 ,Radio Luebeck
-http://butze.merlinsteuer.de:9981/stream/channelid/1973475164?ticket=DCD33E7024DE4DE5B00E8DE881E8C7F49ABC9BFD&profile=matroska
-#EXTINF:-1 ,rbbKultur
-http://butze.merlinsteuer.de:9981/stream/channelid/81722195?ticket=98FFCF0BEB3912A1B0487EC1695775A186CCE08A&profile=matroska
-#EXTINF:-1 ,RTL
-http://butze.merlinsteuer.de:9981/stream/channelid/898335094?ticket=F4C095BE1304D31BA99CFEAB370565B312CC5A7B&profile=matroska
-#EXTINF:-1 ,RTL II
-http://butze.merlinsteuer.de:9981/stream/channelid/50872924?ticket=CFA2F8BCC78328D7471152B3AEDE89DAE958F282&profile=matroska
-#EXTINF:-1 ,RTL Radio
-http://butze.merlinsteuer.de:9981/stream/channelid/47875388?ticket=5A12AEDA4C187C61116B1E5F68CA89D05E553B94&profile=matroska
-#EXTINF:-1 ,RTLplus
-http://butze.merlinsteuer.de:9981/stream/channelid/439837415?ticket=53BB1615BC8AE864BE5141CAB70D079A8AF62E9E&profile=matroska
-#EXTINF:-1 ,SAT.1
-http://butze.merlinsteuer.de:9981/stream/channelid/1532804674?ticket=4A5710122EEF9BC926B89085AF961F4528D62EFA&profile=matroska
-#EXTINF:-1 ,SAT.1 Gold
-http://butze.merlinsteuer.de:9981/stream/channelid/380933411?ticket=F7432B1914AB97A700BCF65478D0E45B7D4B0D79&profile=matroska
-#EXTINF:-1 ,ServusTV
-http://butze.merlinsteuer.de:9981/stream/channelid/1840998851?ticket=B96FB23C444F792A6BB7F8E637DB0FA7804247B3&profile=matroska
-#EXTINF:-1 ,sixx
-http://butze.merlinsteuer.de:9981/stream/channelid/804742992?ticket=D696F2B34BB6E7FAE1C6ED9462A3C8737E49B214&profile=matroska
-#EXTINF:-1 ,SPORT1
-http://butze.merlinsteuer.de:9981/stream/channelid/2140501140?ticket=29CF178F1932D02B3DE32718B06D1B97360B7287&profile=matroska
-#EXTINF:-1 ,SR Fernsehen
-http://butze.merlinsteuer.de:9981/stream/channelid/1796349608?ticket=00475EBA010BB68F3580A8231875095124E98526&profile=matroska
-#EXTINF:-1 ,SUPER RTL
-http://butze.merlinsteuer.de:9981/stream/channelid/1621472488?ticket=90F20D85A84B83E45B6FC85D4B58D74BE7870265&profile=matroska
-#EXTINF:-1 ,SWR Aktuell
-http://butze.merlinsteuer.de:9981/stream/channelid/1455185611?ticket=9785AB5B411BF57BAB530943AE937591CA979609&profile=matroska
-#EXTINF:-1 ,SWR Fernsehen RP
-http://butze.merlinsteuer.de:9981/stream/channelid/1704019436?ticket=81669F60F307650009006BCB54DA950755CCFC88&profile=matroska
-#EXTINF:-1 ,SYLT1
-http://butze.merlinsteuer.de:9981/stream/channelid/1513798225?ticket=4F84D544E47F438D321785737AE661F0D7B82A2A&profile=matroska
-#EXTINF:-1 ,tagesschau24
-http://butze.merlinsteuer.de:9981/stream/channelid/509738358?ticket=307FD217814E6A738670F529AE32B9408FE06C8F&profile=matroska
-#EXTINF:-1 ,tagesschau24 HD
-http://butze.merlinsteuer.de:9981/stream/channelid/1703627537?ticket=976BA5FF3809C9989F41ABDFB9E6BF92E1771E10&profile=matroska
-#EXTINF:-1 ,TELE 5
-http://butze.merlinsteuer.de:9981/stream/channelid/1713342777?ticket=7832A2449C916E66C55126C79D72F0F8DF2E771E&profile=matroska
-#EXTINF:-1 ,TLC
-http://butze.merlinsteuer.de:9981/stream/channelid/1613956475?ticket=5188BD70BBEF211567D4D2241E4BDF5CB116C821&profile=matroska
-#EXTINF:-1 ,VOX
-http://butze.merlinsteuer.de:9981/stream/channelid/202829513?ticket=5B87C0B5F45830FA82B075FF427140818B76D53F&profile=matroska
-#EXTINF:-1 ,WDR HD Köln
-http://butze.merlinsteuer.de:9981/stream/channelid/1885742901?ticket=461604143C7CA380494315C4225A73BDEAB0A5EE&profile=matroska
-#EXTINF:-1 ,WDR Köln
-http://butze.merlinsteuer.de:9981/stream/channelid/1792593959?ticket=8D035160977490096B22BFFF7C0BBAD41377B245&profile=matroska
-#EXTINF:-1 ,WELT
-http://butze.merlinsteuer.de:9981/stream/channelid/1851732165?ticket=C4B3D676144F31BA9B70CA5A58FA0A32A4D65BEF&profile=matroska
-#EXTINF:-1 ,ZDF
-http://butze.merlinsteuer.de:9981/stream/channelid/324061244?ticket=74A777AF1E86294C42A646B7D5F3350AB05B7737&profile=matroska
-#EXTINF:-1 ,ZDF HD
-http://butze.merlinsteuer.de:9981/stream/channelid/447475074?ticket=EE3B4EEF68D4DB0FFD2878BABBF00945455721F9&profile=matroska
-#EXTINF:-1 ,zdf_neo
-http://butze.merlinsteuer.de:9981/stream/channelid/1243437012?ticket=941E4042FD058843336E5B15D3D01D07E3ABA215&profile=matroska
-#EXTINF:-1 ,zdf_neo HD
-http://butze.merlinsteuer.de:9981/stream/channelid/1416881197?ticket=C5D024377808FE0A5A531EF03E40EA225DAD6C80&profile=matroska
-#EXTINF:-1 ,ZDFinfo
-http://butze.merlinsteuer.de:9981/stream/channelid/30762946?ticket=3AB8BD9DB86EE05A54629D6EC514DCB4F57FC7B4&profile=matroska
-#EXTINF:-1 ,ZDFinfo HD
-http://butze.merlinsteuer.de:9981/stream/channelid/356511761?ticket=1607C75BF9268D7FFF17DD3DBE7C4A00AF19BBE4&profile=matroska
+#EXTINF:-1,13th Street HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/80
+#EXTINF:-1,3sat HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2565
+#EXTINF:-1,Crime Investigation+ DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12394
+#EXTINF:-1,ARD Alpha DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/107
+#EXTINF:-1,AXN HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/105
+#EXTINF:-1,ANIXE FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2563
+#EXTINF:-1,Animal Planet HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2564
+#EXTINF:-1,arte DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/106
+#EXTINF:-1,Astro TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5432
+#EXTINF:-1,Augsburg TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/103
+#EXTINF:-1,BR DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5431
+#EXTINF:-1,Baby TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/104
+#EXTINF:-1,Boomerang DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13783
+#EXTINF:-1,Boomerang SD+ DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3185
+#EXTINF:-1,Sky Movies BoxOffice 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12464
+#EXTINF:-1,Sky Movies BoxOffice 2 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12463
+#EXTINF:-1,Sky Movies BoxOffice 3 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12462
+#EXTINF:-1,Sky Movies BoxOffice 4 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12461
+#EXTINF:-1,CINE FILM CLUB 5 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12460
+#EXTINF:-1,DMAX HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/101
+#EXTINF:-1,Das Erste DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2562
+#EXTINF:-1,Deluxe Music DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3184
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5430
+#EXTINF:-1,Discovery Channel HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/59
+#EXTINF:-1,Cartoon Network DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16366
+#EXTINF:-1,Disney Channel DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/99
+#EXTINF:-1,Disney Cinemagic HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3183
+#EXTINF:-1,Disney Junior FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/58
+#EXTINF:-1,Disney XD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/98
+#EXTINF:-1,Nick Jr. HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16367
+#EXTINF:-1,TOGGO plus DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3851
+#EXTINF:-1,TOGGO plus von Super RTL DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2549
+#EXTINF:-1,E! DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5429
+#EXTINF:-1,Eurosport 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1316
+#EXTINF:-1,Eurosport 2 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/97
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/7430
+#EXTINF:-1,FC Bayern TV HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6491
+#EXTINF:-1,FOX HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2556
+#EXTINF:-1,MediaShop DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5426
+#EXTINF:-1,FOX DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5425
+#EXTINF:-1,HR DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5422
+#EXTINF:-1,Heimatikanal DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3182
+#EXTINF:-1,History HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/95
+#EXTINF:-1,Jukebox DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3854
+#EXTINF:-1,Junior DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3850
+#EXTINF:-1,kabel eins HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/92
+#EXTINF:-1,kabel eins CLASSICS FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/94
+#EXTINF:-1,kabel eins Doku DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/93
+#EXTINF:-1,KiKa DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/91
+#EXTINF:-1,KinoweltTV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/90
+#EXTINF:-1,MDR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/89
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12475
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12474
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12473
+#EXTINF:-1,MOVIESINEMA GERMAN 4 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12472
+#EXTINF:-1,MOVIESINEMA GERMAN 5 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12471
+#EXTINF:-1,MTV Dance DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3853
+#EXTINF:-1,Motorvision TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3181
+#EXTINF:-1,Welt HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/88
+#EXTINF:-1,N24 Doku DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5415
+#EXTINF:-1,NDR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/86
+#EXTINF:-1,National Geographic DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5414
+#EXTINF:-1,National Geographic HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/87
+#EXTINF:-1,Nat Geo Wild DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2561
+#EXTINF:-1,Nickelodeon HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3852
+#EXTINF:-1,n-tv HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/85
+#EXTINF:-1,ORF eins HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2559
+#EXTINF:-1,ORF 2 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2558
+#EXTINF:-1,Phoenix HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3186
+#EXTINF:-1,ProSieben DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3180
+#EXTINF:-1,ProSieben HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/83
+#EXTINF:-1,ProSieben MAXX HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/82
+#EXTINF:-1,QVC DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5412
+#EXTINF:-1,QVC Beauty & Style DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5411
+#EXTINF:-1,rbb DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5410
+#EXTINF:-1,rbb HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5409
+#EXTINF:-1,RTL DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/81
+#EXTINF:-1,RTL II DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9348
+#EXTINF:-1,RTL II HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/79
+#EXTINF:-1,RTL Crime DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/77
+#EXTINF:-1,RTL Living HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/76
+#EXTINF:-1,RTL Nitro HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75
+#EXTINF:-1,RTL Passion HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74
+#EXTINF:-1,RTL plus DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13971
+#EXTINF:-1,Romance TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3177
+#EXTINF:-1,SAT.1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/72
+#EXTINF:-1,SAT.1 GOLD HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/71
+#EXTINF:-1,SAT.1 emotions DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73
+#EXTINF:-1,Servus TV HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/70
+#EXTINF:-1,Silverline Movie Channel HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5490
+#EXTINF:-1,SIXX HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/69
+#EXTINF:-1,Sky Atlantic HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/66
+#EXTINF:-1,Sky Cinema HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/62
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/65
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/64
+#EXTINF:-1,Sky Cinema Action HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/67
+#EXTINF:-1,Sky Cinema Comedy HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/60
+#EXTINF:-1,Sky Cinema Emotion DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2557
+#EXTINF:-1,Sky Cinema Emotion HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3849
+#EXTINF:-1,Sky Cinema Family HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/63
+#EXTINF:-1,Sky Cinema Hits HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2555
+#EXTINF:-1,Sky Cinema Nostalgie DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3178
+#EXTINF:-1,Sky Krimi DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3179
+#EXTINF:-1,Sky Popcorn Select 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8530
+#EXTINF:-1,Sky Popcorn Select 2 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8529
+#EXTINF:-1,Sky Popcorn Select 3 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8528
+#EXTINF:-1,Sky Popcorn Select 4 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8527
+#EXTINF:-1,Sky Popcorn Select 5 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8526
+#EXTINF:-1,Sky Popcorn Select 6 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8525
+#EXTINF:-1,SKY SELECT 1 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12470
+#EXTINF:-1,Sky Select 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1339
+#EXTINF:-1,SKY SELECT 1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12491
+#EXTINF:-1,SKY SELECT 2 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12469
+#EXTINF:-1,Sky Select 2 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1338
+#EXTINF:-1,SKY SELECT 2 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12490
+#EXTINF:-1,SKY SELECT 3 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12468
+#EXTINF:-1,Sky Select 3 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1337
+#EXTINF:-1,SKY SELECT 3 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12489
+#EXTINF:-1,SKY SELECT 4 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12467
+#EXTINF:-1,Sky Select 4 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1336
+#EXTINF:-1,SKY SELECT 4 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12488
+#EXTINF:-1,SKY SELECT 5 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12466
+#EXTINF:-1,Sky Select 5 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1335
+#EXTINF:-1,SKY SELECT 5 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12487
+#EXTINF:-1,SKY SELECT 6 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12465
+#EXTINF:-1,Sky Select 6 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1334
+#EXTINF:-1,Sky Select 7 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1333
+#EXTINF:-1,Sky Select 8 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1332
+#EXTINF:-1,Sky Sport 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12697
+#EXTINF:-1,Sky Sport 2 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12696
+#EXTINF:-1,Sky Sport 3 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1323
+#EXTINF:-1,Sky Sport 4 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1322
+#EXTINF:-1,Sky Sport 5 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12695
+#EXTINF:-1,Sky Sport 6 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1320
+#EXTINF:-1,Sky Sport 7 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1319
+#EXTINF:-1,Sky Sport 8 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12694
+#EXTINF:-1,Sky Sport 9 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8693
+#EXTINF:-1,Sky Sport Austria HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3176
+#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12700
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1330
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12699
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1328
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12698
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event) DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1326
+#EXTINF:-1,Sky Sport News DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/24381
+#EXTINF:-1,Sky Sport News HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1315
+#EXTINF:-1,Sony TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5433
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3174
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8789
+#EXTINF:-1,Sport1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9271
+#EXTINF:-1,SportDigital HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3187
+#EXTINF:-1,SWR DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5403
+#EXTINF:-1,SWR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5402
+#EXTINF:-1,Syfy DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3173
+#EXTINF:-1,Tele 5 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3172
+#EXTINF:-1,TLC DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3171
+#EXTINF:-1,TNT Comedy HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3848
+#EXTINF:-1,TNT Film HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4388
+#EXTINF:-1,TNT Serie HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3175
+#EXTINF:-1,Tom and Jerry HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/10557
+#EXTINF:-1,Tagesschau 24 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5401
+#EXTINF:-1,Universal Channel HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3170
+#EXTINF:-1,VIVA / Comedy Central DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3169
+#EXTINF:-1,VOX DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/100
+#EXTINF:-1,WDR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2551
+#EXTINF:-1,WWE DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/7795
+#EXTINF:-1,Welt der Wunder DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5399
+#EXTINF:-1,ZDF FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2550
+#EXTINF:-1,ZDFinfo DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3856
+#EXTINF:-1,ZDFneo DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3855
+#EXTINF:-1,Zee One HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/96
+#EXTINF:-1,RTL Zwei HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75471
+#EXTINF:-1,RTL Zwei FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75472
+#EXTINF:-1,ZDFneo HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4172
+#EXTINF:-1,BR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16002
+#EXTINF:-1,HR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5421
+#EXTINF:-1,MDR Cringen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73303
+#EXTINF:-1,MDR S-Anhalt FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73301
+#EXTINF:-1,MDR Sachsen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73302
+#EXTINF:-1,MDR Thuringen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73304
+#EXTINF:-1,SR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9307
+#EXTINF:-1,WDR Aachen HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73305
+#EXTINF:-1,WDR Bonn HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73306
+#EXTINF:-1,WDR Duisburg HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73307
+#EXTINF:-1,WDR Wuppertal HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73308
+#EXTINF:-1,Tagesschau 24 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9303
+#EXTINF:-1,Bibel TV HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9341
+#EXTINF:-1,Noa4 Norderstedt FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9330
+#EXTINF:-1,Sonnenklar.TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9332
+#EXTINF:-1,ALEX Berlin DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9301
+#EXTINF:-1,a.tv FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9295
+#EXTINF:-1,Oberpfalz TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9287
+#EXTINF:-1,TV Aktuelle DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9276
+#EXTINF:-1,TV Touring DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9274
+#EXTINF:-1,Pearl TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73309
+#EXTINF:-1,Juwelo FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73300
+#EXTINF:-1,RTL FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4184
+#EXTINF:-1,CINE BOX VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75505
+#EXTINF:-1,CINE 1 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75506
+#EXTINF:-1,CINE 2 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75507
+#EXTINF:-1,CINE 3 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75508
+#EXTINF:-1,CINE 4 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75509
+#EXTINF:-1,CINE 5 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75510
+
+#EXTINF:-1,Das Erste FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4177
+#EXTINF:-1,ZDF HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4178
+#EXTINF:-1,RTL II FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3932
+#EXTINF:-1,NITRO FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9334
+#EXTINF:-1,SAT.1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3929
+#EXTINF:-1,kabel eins FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4175
+#EXTINF:-1,VOX FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3920
+#EXTINF:-1,SIXX FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3928
+#EXTINF:-1,arte HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4173
+#EXTINF:-1,RTL Crime FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/38327
+#EXTINF:-1,RTL Nitro FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3930
+#EXTINF:-1,RTL Passion FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73819
+#EXTINF:-1,ProSieben Fun HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74141
+#EXTINF:-1,ProSieben Fun FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6420
+#EXTINF:-1,ProSieben MAXX FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3933
+#EXTINF:-1,DW DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9309
+#EXTINF:-1,Euronews DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9305
+#EXTINF:-1,n-tv FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3938
+#EXTINF:-1,Puls 8 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9335
+#EXTINF:-1,One TV HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9306
+#EXTINF:-1,One TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/22362
+#EXTINF:-1,Zee One FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5397
+#EXTINF:-1,========== DE Kinder ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14013
+#EXTINF:-1,Disney Channel FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3943
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3942
+#EXTINF:-1,Super RTL FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3923
+#EXTINF:-1,Nickelodeon FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4176
+#EXTINF:-1,KiKa HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4174
+#EXTINF:-1,Fix und Foxi DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9324
+#EXTINF:-1,========== DE Dokumentarfilm ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14014
+#EXTINF:-1,Crime Investigation+ FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3947
+#EXTINF:-1,A+E DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9329
+#EXTINF:-1,Animal Planet DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3946
+#EXTINF:-1,Animal Planet FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/30026
+#EXTINF:-1,Discovery Channel FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3944
+#EXTINF:-1,History FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3940
+#EXTINF:-1,National Geographic FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3935
+#EXTINF:-1,Nat Geo Wild FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3937
+#EXTINF:-1,Spiegel TV Wissen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5398
+#EXTINF:-1,Travel Channel HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9326
+#EXTINF:-1,========== DE Musik ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14015
+#EXTINF:-1,CLASSICA HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/102
+#EXTINF:-1,MTV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9338
+#EXTINF:-1,MTV Brand New DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9321
+#EXTINF:-1,MTV Hits DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9320
+#EXTINF:-1,MTV ROCKS DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9318
+#EXTINF:-1,XITE DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9312
+#EXTINF:-1,NRJ Hits DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9314
+#EXTINF:-1,NRJ TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9315
+#EXTINF:-1,Deluxe Music FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9333
+#EXTINF:-1,Kronehit TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9313
+#EXTINF:-1,VH1 DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9317
+#EXTINF:-1,VH1 Classic DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9316
+#EXTINF:-1,========== DE Cinema ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14016
+#EXTINF:-1,Sky 1 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/68
+#EXTINF:-1,Sky Atlantic FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3926
+#EXTINF:-1,Sky Atlantic +1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4390
+#EXTINF:-1,Sky Cinema FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3925
+#EXTINF:-1,Sky Cinema +1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4183
+#EXTINF:-1,Sky Cinema +24 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4391
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3927
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4181
+#EXTINF:-1,Sky Cinema Hits FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3924
+#EXTINF:-1,13th Street FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3948
+#EXTINF:-1,AXN FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3945
+#EXTINF:-1,FOX FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3941
+#EXTINF:-1,Syfy FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3922
+#EXTINF:-1,TNT Comedy FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4180
+#EXTINF:-1,TNT Film FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2554
+#EXTINF:-1,TNT Serie FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3921
+#EXTINF:-1,========== DE Select ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14017
+#EXTINF:-1,Film Club 1 HD DE VIP
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12597
+#EXTINF:-1,Film Club 2 HD DE VIP
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12596
+#EXTINF:-1,Film Club 3 HD DE VIP
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12595
+#EXTINF:-1,Film Club 4 HD DE VIP
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12594
+#EXTINF:-1,Film Club 5 HD DE VIP
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12593
+#EXTINF:-1,Movies World 1 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12605
+#EXTINF:-1,Movies World 2 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12604
+#EXTINF:-1,Movies World 3 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12603
+#EXTINF:-1,Movies World 4 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12602
+#EXTINF:-1,Movies World Action HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12601
+#EXTINF:-1,Elit Select HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12614
+#EXTINF:-1,Elit Select 1 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12613
+#EXTINF:-1,Elit Select 2 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12612
+#EXTINF:-1,Elit Select 3 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12611
+#EXTINF:-1,Elit Select 4 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12610
+#EXTINF:-1,Elit Select 5 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12609
+#EXTINF:-1,Elit Select 6 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12608
+#EXTINF:-1,Elit Select 7 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12607
+#EXTINF:-1,Elit Select 8 HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12606
+#EXTINF:-1,Eagle Cinema Abenteuer HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31959
+#EXTINF:-1,Eagle Cinema Action HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31963
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31961
+#EXTINF:-1,Eagle Cinema Drama HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31960
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31955
+#EXTINF:-1,Eagle Cinema Horror HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31958
+#EXTINF:-1,Eagle Cinema KINOSAAL HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31952
+#EXTINF:-1,Eagle Cinema Komodie HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31957
+#EXTINF:-1,Eagle Cinema Lacheln HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31956
+#EXTINF:-1,Eagle Cinema Premiere HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31964
+#EXTINF:-1,Eagle Cinema Romantisch HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31954
+#EXTINF:-1,Eagle Cinema Sci-Fi HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31962
+#EXTINF:-1,Eagle Cinema Thriller HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31953
+#EXTINF:-1,Orca Movies Kids HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75420
+#EXTINF:-1,Orca Movies Drama HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75421
+#EXTINF:-1,Orca Movies Comedy HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75422
+#EXTINF:-1,Orca Movies Horror HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75423
+#EXTINF:-1,Orca Movies Action HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75424
+#EXTINF:-1,========== DE Sport ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14018
+#EXTINF:-1,DAZN 1 Bar FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16044
+#EXTINF:-1,DAZN 1 Bar HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/18392
+#EXTINF:-1,DAZN 2 Bar FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/18393
+#EXTINF:-1,DAZN 2 Bar HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16045
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6506
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4387
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4386
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4385
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4384
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4383
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4382
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4381
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4380
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4379
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4378
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4377
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4376
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4375
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4374
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4373
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4372
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4371
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4369
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4368
+#EXTINF:-1,Sky Sport 11 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4367
+#EXTINF:-1,Sky Sport Austria FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5584
+#EXTINF:-1,Eurosport 1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9345
+#EXTINF:-1,Eurosport 2 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9344
+#EXTINF:-1,Sport1 FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3847
+#EXTINF:-1,Sport1+ FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9342
+#EXTINF:-1,Sport1+ HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74999
+#EXTINF:-1,eSport1 US HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9336
+#EXTINF:-1,Sportdigital FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9343
+#EXTINF:-1,Telekom Fussball 1 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15996
+#EXTINF:-1,Telekom Fussball 2 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15995
+#EXTINF:-1,Telekom Fussball 3 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15994
+#EXTINF:-1,Telekom Fussball 4 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15993
+#EXTINF:-1,Telekom Fussball 5 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15992
+#EXTINF:-1,Telekom Fussball 6 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15991
+#EXTINF:-1,Telekom Fussball 7 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15990
+#EXTINF:-1,Telekom Fussball 8 FHD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15989
+#EXTINF:-1,FC Bayern TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6492
+#EXTINF:-1,Auto Motor und Sport FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9340
+#EXTINF:-1,Olympic Channel HD VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13797
+#EXTINF:-1,========== DE Andere ==========
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14019
+#EXTINF:-1,ZDFneo HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4172
+#EXTINF:-1,BR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16002
+#EXTINF:-1,HR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5421
+#EXTINF:-1,MDR Cringen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73303
+#EXTINF:-1,MDR S-Anhalt FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73301
+#EXTINF:-1,MDR Sachsen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73302
+#EXTINF:-1,MDR Thuringen FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73304
+#EXTINF:-1,SR HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9307
+#EXTINF:-1,WDR Aachen HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73305
+#EXTINF:-1,WDR Bonn HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73306
+#EXTINF:-1,WDR Duisburg HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73307
+#EXTINF:-1,WDR Wuppertal HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73308
+#EXTINF:-1,Tagesschau 24 HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9303
+#EXTINF:-1,Bibel TV HD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9341
+#EXTINF:-1,Noa4 Norderstedt FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9330
+#EXTINF:-1,Sonnenklar.TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9332
+#EXTINF:-1,ALEX Berlin DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9301
+#EXTINF:-1,a.tv FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9295
+#EXTINF:-1,Oberpfalz TV DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9287
+#EXTINF:-1,TV Aktuelle DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9276
+#EXTINF:-1,TV Touring DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9274
+#EXTINF:-1,Pearl TV FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73309
+#EXTINF:-1,Juwelo FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73300
+#EXTINF:-1,RTL FHD DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4184
+#EXTINF:-1,CINE BOX VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75505
+#EXTINF:-1,CINE 1 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75506
+#EXTINF:-1,CINE 2 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75507
+#EXTINF:-1,CINE 3 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75508
+#EXTINF:-1,CINE 4 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75509
+#EXTINF:-1,CINE 5 VIP DE
+http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75510
