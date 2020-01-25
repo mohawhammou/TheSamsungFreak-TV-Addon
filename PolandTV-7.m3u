@@ -1,501 +1,553 @@
 #EXTM3U 
-#EXTINF:0,TVP 1 HD
-http://31.178.15.82:8001/1:0:1:3ABD:514:13E:820000:0:0:0:
-#EXTINF:0,TVP 2 HD
-http://31.178.15.82:8001/1:0:1:C22:1E78:71:820000:0:0:0:
-#EXTINF:0,TVP HD
-http://31.178.15.82:8001/1:0:1:1138:2AF8:13E:820000:0:0:0:
-#EXTINF:0,TVP Polonia
-http://31.178.15.82:8001/1:0:1:132B:33F4:13E:820000:0:0:0:
-#EXTINF:0,TVP 3
-http://31.178.15.82:8001/1:0:1:113B:2AF8:13E:820000:0:0:0:
-#EXTINF:-1 ,TVP Białystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 ,TVP Bydgoszcz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:-1 ,TVP Gdańsk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1 ,TVP Gorzów Wlkp.
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:-1 ,TVP Katowice
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 ,TVP Kielce
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:-1 ,TVP Kraków
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1 ,TVP Lublin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:-1 ,TVP Łódź
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 ,TVP Olsztyn
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-#EXTINF:-1 ,TVP Opole
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:-1 ,TVP Poznań
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:-1 ,TVP Rzeszów
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-#EXTINF:-1 ,TVP Szczecin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:0,TVP Seriale
-http://31.178.15.82:8001/1:0:1:3D5C:2C88:13E:820000:0:0:0:
-#EXTINF:0,TVP Sport HD
-http://31.178.15.82:8001/1:0:19:DB1:2D50:13E:820000:0:0:0:
-#EXTINF:0,TVP Historia 
-http://31.178.15.82:8001/1:0:1:3D67:2C88:13E:820000:0:0:0
-#EXTINF:0,TVP Kultura
-http://31.178.15.82:8001/1:0:1:3D59:2C88:13E:820000:0:0:0:
-#EXTINF:0,TVP Rozrywka
-http://31.178.15.82:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:
-#EXTINF:0,TVP Info HD
-http://31.178.15.82:8001/1:0:1:1139:2AF8:13E:820000:0:0:0:
-#EXTINF:0,TVP ABC
-http://31.178.15.82:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0
-#EXTINF:0,TVP 4K ??
-http://31.178.15.82:8001/1:0:1F:12C7:2E7C:13E:820000:0:0:0
-#EXTINF:0,Polsat HD
-http://31.178.15.82:8001/1:0:1:3391:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat 2 HD
-http://31.178.15.82:8001/1:0:1:339A:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat
-http://31.178.15.82:8001/1:0:1:332D:3390:71:820000:0:0:0:
-#EXTINF:0,Super Polsat HD
-http://31.178.15.82:8001/1:0:1:339B:3390:71:820000:0:0:0
-#EXTINF:0,Polsat Film HD
-http://31.178.15.82:8001/1:0:1:3398:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat Film 
-http://31.178.15.82:8001/1:0:1:3334:3390:71:820000:0:0:0
-#EXTINF:0,Polsat Play HD
-http://31.178.15.82:8001/1:0:1:3392:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat Romans
-http://31.178.15.82:8001/1:0:1:1C85:1CE8:71:820000:0:0:0:
-#EXTINF:0,Polsat Sport Premium 1 HD
-http://31.178.15.82:8001/1:0:1:709:32C8:13E:820000:0:0:0
-#EXTINF:0,Polsat Sport Premium 2 HD
-http://31.178.15.82:8001/1:0:1:70A:32C8:13E:820000:0:0:0
-#EXTINF:0,Polsat Sport HD 
-http://31.178.15.82:8001/1:0:1:C1E:1E78:71:820000:0:0:0:
-#EXTINF:0,Polsat Sport
-http://31.178.15.82:8001/1:0:16:3330:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat Sport Extra HD
-http://31.178.15.82:8001/1:0:1:C24:1E78:71:820000:0:0:0:
-#EXTINF:0,Polsat Sport Extra
-http://31.178.15.82:8001/1:0:16:3331:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat Sport Fight HD
-http://31.178.15.82:8001/1:0:16:2911:1EDC:71:820000:0:0:0:
-#EXTINF:0,Polsat Sport News HD
-http://31.178.15.82:8001/1:0:1:2913:1EDC:71:820000:0:0:0
-#EXTINF:0,Polsat Viasat Nature
-http://31.178.15.82:8001/1:0:16:1CCD:1CE8:71:820000:0:0:0:
-#EXTINF:0,Polsat Viasat Explore HD
-http://31.178.15.82:8001/1:0:19:1CCA:1CE8:71:820000:0:0:0:
-#EXTINF:0,Polsat Viasat History HD
-http://31.178.15.82:8001/1:0:1:C20:1E78:71:820000:0:0:0:
-#EXTINF:0,Polsat Doku HD
-http://31.178.15.82:8001/1:0:1:C23:1E78:71:820000:0:0:0
-#EXTINF:0,Polsat Cafe HD
-http://31.178.15.82:8001/1:0:1:3396:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat News HD
-http://31.178.15.82:8001/1:0:1:3399:3390:71:820000:0:0:0:
-#EXTINF:0,Polsat News 2
-http://31.178.15.82:8001/1:0:16:3333:3390:71:820000:0:0:0:
-#EXTINF:0,TVN HD
-http://31.178.15.82:8001/1:0:1:3DCD:640:13E:820000:0:0:0:
-#EXTINF:0,TVN
-http://31.178.15.82:8001/1:0:1:12DF:2E7C:13E:820000:0:0:0
-#EXTINF:0,TVN Turbo
-http://31.178.15.82:8001/1:0:1:12E3:2E7C:13E:820000:0:0:0
-#EXTINF:0,TVN Turbo HD
-http://31.178.15.82:8001/1:0:1:3DD0:640:13E:820000:0:0:0:
-#EXTINF:0,TVN 7 HD
-http://31.178.15.82:8001/1:0:1:3DD3:640:13E:820000:0:0:0:
-#EXTINF:0,TVN 7
-http://31.178.15.82:8001/1:0:1:12E1:2E7C:13E:820000:0:0:0
-#EXTINF:0,TVN Fabuła HD
-http://31.178.15.82:8001/1:0:1:3DD6:640:13E:820000:0:0:0:
-#EXTINF:0,TVN 24 Biznes i Swiat HD
-http://31.178.15.82:8001/1:0:19:10EA:3E8:13E:820000:0:0:0:
-#EXTINF:0,TVN Style
-http://31.178.15.82:8001/1:0:1:12E4:2E7C:13E:820000:0:0:0
-#EXTINF:0,TVN Style HD
-http://31.178.15.82:8001/1:0:1:3DCE:640:13E:820000:0:0:0:
-#EXTINF:0,TVN 24 HD
-http://31.178.15.82:8001/1:0:1:3DD2:640:13E:820000:0:0:0
-#EXTINF:0,TVN 24
-http://31.178.15.82:8001/1:0:1:12E0:2E7C:13E:820000:0:0:0
-#EXTINF:0,TV 4 HD
-http://31.178.15.82:8001/1:0:1:3393:3390:71:820000:0:0:0:
-#EXTINF:0,TV 4
-http://31.178.15.82:8001/1:0:1:332F:3390:71:820000:0:0:0:
-#EXTINF:0,TV 6 HD
-http://31.178.15.82:8001/1:0:1:4292:2BC0:13E:820000:0:0:0
-#EXTINF:0,TTV HD
-http://31.178.15.82:8001/1:0:1:3DD7:640:13E:820000:0:0:0:
-#EXTINF:0,TV Puls HD
-http://31.178.15.82:8001/1:0:1:3D66:2C88:13E:820000:0:0:0:
-#EXTINF:0,Puls 2
-http://31.178.15.82:8001/1:0:16:10E3:3E8:13E:820000:0:0:0:
-#EXTINF:0,Nowa TV
-http://31.178.15.82:8001/1:0:1:429E:2BC0:13E:820000:0:0:0
-#EXTINF:-1 ,Kujawy (PL)
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 ,CW 24 TV ( 720p)
-http://cdn4.stream360.pl/CW24/transmisja_live/playlist.m3u8
-#EXTINF:-1,Fokus tv
-rtmp://stream.smcdn.pl:1935/fokustv-p/stream1
-#EXTINF:-1 ,STELLA
-rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
-#EXTINF:-1 ,TVT ( Zgorzelec)
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 ,Dobre Media (720p)
-http://nss.abikus.pl:1935/dobremedialive/sched/chunks.m3u8
-#EXTINF:-1 ,Małopolska TV Zvami (720p)
-https://stream-01.dc3.dailymotion.com/dm/3/x683ieg/live.m3u8
-#EXTINF:-1, Imperium TV Gliwice (720p)
-http://stream.tvimperium.pl/ram/hls_adaptive/tvimperium_hi/index.m3u8
-#EXTINF:-1, Czwolka webcam radio ( 1080p)
-http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
-#EXTINF:-1, Hope Channel (720p)
-http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1  , Polskie Radio 24 ( 1080p)
-http://stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8
-#EXTINF:0,Twoja TV 720p
-http://94.246.169.19/ttv_hls/live_720p/index.m3u8
-#EXTINF:-1  , TV Wielkopolska (720p)
-http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1  , Dla Ciebie Tv (720p)
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1  , TVT Rybnik
-http://176.107.129.219/media/tvt/index.m3u8
-#EXTINF:-1  , Telewizja Republika (720p)
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1  , TV Pogranicze ( Glupczyce) (720p)
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1  , Telewizja Express TV 
-http://95.160.28.218:1935/PILSKA/myStream_aac/chunks.m3u8
-#EXTINF:0, TRUSO.TV ( Elbląg)
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1  , Telewizja Narew (720p)
-http://95.160.28.218:1935/lomza/myStream/chunks.m3u8
-#EXTINF:0, Telewizja Torun ( 720p)
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:-1  , Sfera TV 
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-#EXTINF:-1  , TV TRWAM
-http://trwamtv.live.e55-po.insyscd.net/trwamtv2.smil/playlist.m3u8
-#EXTINF:-1  , Stars Tv
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunks.m3u8
-#EXTINF:-1  , Opoka TV
-http://94.130.255.149:8080/hls/opoka_tv_live.m3u8
-#EXTINF:0,WP
-http://31.178.15.82:8001/1:0:1:3D5A:2C88:13E:820000:0:0:0
-#EXTINF:0,Metro
-http://31.178.15.82:8001/1:0:1:4287:2BC0:13E:820000:0:0:0
-#EXTINF:0,Zoom TV
-http://31.178.15.82:8001/1:0:1:4291:2BC0:13E:820000:0:0:0
-#EXTINF:0,Tele 5
-http://31.178.15.82:8001/1:0:1:423B:3DB8:13E:820000:0:0:0:
-#EXTINF:0,Polonia 1
-http://31.178.15.82:8001/1:0:1:423C:3DB8:13E:820000:0:0:0:
-#EXTINF:0,NTL
-http://31.178.15.82:8001/1:0:16:10E4:3E8:13E:820000:0:0:0:
-#EXTINF:0,TVS
-http://31.178.15.82:8001/1:0:1:3D58:2C88:13E:820000:0:0:0:
-#EXTINF:0,ATM Rozrywka
-http://31.178.15.82:8001/1:0:1:1CBA:1CE8:71:820000:0:0:0:
-#EXTINF:0,Fashion TV
-http://31.178.15.82:8001/1:0:1:DFA:1AF4:FBFF:820000:0:0:0
-#EXTINF:0,Fashion
-http://31.178.15.82:8001/1:0:1:43A3:2CEC:13E:820000:0:0:0
-#EXTINF:0,Canal+ HD
-http://31.178.15.82:8001/1:0:1:32DC:190:13E:820000:0:0:0:
-#EXTINF:0,Canal+1 HD
-http://31.178.15.82:8001/1:0:1:13ED:5DC:13E:820000:0:0:0:
-#EXTINF:0,Canal+ Film HD
-http://31.178.15.82:8001/1:0:1:3779:44C:13E:820000:0:0:0:
-#EXTINF:0,Canal+ Family HD
-http://31.178.15.82:8001/1:0:19:377B:44C:13E:820000:0:0:0:
-#EXTINF:0,Canal+ Seriale HD
-http://31.178.15.82:8001/1:0:19:3782:44C:13E:820000:0:0:0:
-#EXTINF:0,CANAL+ 4K ULTRA HD ??
-http://31.178.15.82:8001/1:0:1F:116F:2AF8:13E:820000:0:0:0
-#EXTINF:0,Canal+ NOW
-http://31.178.15.82:8001/1:0:1:32CD:190:13E:820000:0:0:0
-#EXTINF:0,HBO HD
-http://31.178.15.82:8001/1:0:19:290E:1EDC:71:820000:0:0:0:
-#EXTINF:0,HBO2 HD
-http://31.178.15.82:8001/1:0:1:E09:2D50:13E:820000:0:0:0:
-#EXTINF:0,HBO3 HD
-http://31.178.15.82:8001/1:0:1:E0A:2D50:13E:820000:0:0:0:
-#EXTINF:0,Cinemax HD
-http://31.178.15.82:8001/1:0:19:1136:2AF8:13E:820000:0:0:0:
-#EXTINF:0,Cinemax 2 HD
-http://31.178.15.82:8001/1:0:1:C26:1E78:71:820000:0:0:0:
-#EXTINF:0,Kino TV
-http://31.178.15.82:8001/1:0:1:3D61:2C88:13E:820000:0:0:0:
-#EXTINF:0,Filmbox Extra 
-http://31.178.15.82:8001/1:0:1:3D68:2C88:13E:820000:0:0:0
-#EXTINF:0,Filmbox Family
-http://31.178.15.82:8001/1:0:1:3D62:2C88:13E:820000:0:0:0:
-#EXTINF:0,Filmbox Premium HD
-http://31.178.15.82:8001/1:0:1:3D60:2C88:13E:820000:0:0:0:
-#EXTINF:0,Filmbox Action
-http://31.178.15.82:8001/1:0:1:3D65:2C88:13E:820000:0:0:0:
-#EXTINF:0,Filmbox Arthouse
-http://31.178.15.82:8001/1:0:1:428A:2BC0:13E:820000:0:0:0:
-#EXTINF:0,Fox HD
-http://31.178.15.82:8001/1:0:1:C27:1E78:71:820000:0:0:0:
-#EXTINF:0,Fox
-http://31.178.15.82:8001/1:0:1:13F4:5DC:13E:820000:0:0:0:
-#EXTINF:0,Fox Comedy 
-http://31.178.15.82:8001/1:0:1:1CCF:1CE8:71:820000:0:0:0
-#EXTINF:0,Fox Comedy HD
-http://31.178.15.82:8001/1:0:1:C1F:1E78:71:820000:0:0:0:
-#EXTINF:0,AXN
-http://31.178.15.82:8001/1:0:1:1C96:1CE8:71:820000:0:0:0:
-#EXTINF:0,AXN HD
-http://31.178.15.82:8001/1:0:1:C25:1E78:71:820000:0:0:0:
-#EXTINF:0,AXN Spin HD
-http://31.178.15.82:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
-#EXTINF:0,AXN White
-http://31.178.15.82:8001/1:0:1:1C86:1CE8:71:820000:0:0:0:
-#EXTINF:0,AXN Black
-http://31.178.15.82:8001/1:0:1:1C87:1CE8:71:820000:0:0:0:
-#EXTINF:0,Scifi Universal
-http://31.178.15.82:8001/1:0:1:3E2E:2EE0:13E:820000:0:0:0:
-#EXTINF:0,SciFi HD
-http://31.178.15.82:8001/1:0:1:3E20:2EE0:13E:820000:0:0:0
-#EXTINF:0,Ale kino+ HD
-http://31.178.15.82:8001/1:0:19:3781:44C:13E:820000:0:0:0:
-#EXTINF:0,AMC HD
-http://31.178.15.82:8001/1:0:1:3AB7:514:13E:820000:0:0:0:
-#EXTINF:0,TNT HD
-http://31.178.15.82:8001/1:0:1:2905:1EDC:71:820000:0:0:0:
-#EXTINF:0,TNT
-http://31.178.15.82:8001/1:0:1:1CBF:1CE8:71:820000:0:0:0:
-#EXTINF:0,Paramount Channel HD
-http://31.178.15.82:8001/1:0:1:D:1964:13E:820000:0:0:0
-#EXTINF:0,CBS Europa HD
-http://31.178.15.82:8001/1:0:1:290B:1EDC:71:820000:0:0:0:
-#EXTINF:0,CBS Action
-http://31.178.15.82:8001/1:0:1:4282:2BC0:13E:820000:0:0:0
-#EXTINF:0,Epic Drama HD
-http://31.178.15.82:8001/1:0:1:4290:2BC0:13E:820000:0:0:0
-#EXTINF:0,Comedy Central HD 
-http://31.178.15.82:8001/1:0:1:C:1964:13E:820000:0:0:0
-#EXTINF:0,Comedy Central Family HD
-http://31.178.15.82:8001/1:0:1:10:1964:13E:820000:0:0:0
-#EXTINF:0,Kino Polska
-http://31.178.15.82:8001/1:0:1:1135:2AF8:13E:820000:0:0:0:
-#EXTINF:0,Food Network HD
-http://31.178.15.82:8001/1:0:1:3DD9:640:13E:820000:0:0:0
-#EXTINF:0,Stopklatka TV
-http://31.178.15.82:8001/1:0:1:427B:2BC0:13E:820000:0:0:0:
-#EXTINF:0,13 Ulica HD
-http://31.178.15.82:8001/1:0:1:3E26:2EE0:13E:820000:0:0:0:
-#EXTINF:0,Sundance HD 
-http://31.178.15.82:8001/1:0:1:3E1D:2EE0:13E:820000:0:0:0:
-#EXTINF:0,Romance TV HD 
-http://31.178.15.82:8001/1:0:1:3ABE:514:13E:820000:0:0:0
-#EXTINF:0,Novela TV 
-http://31.178.15.82:8001/1:0:1:4240:3DB8:13E:820000:0:0:0:
-#EXTINF:0,Canal+ Sport HD
-http://31.178.15.82:8001/1:0:1:32DE:190:13E:820000:0:0:0:
-#EXTINF:0,Canal+ Sport 2 HD
-http://31.178.15.82:8001/1:0:1:13EE:5DC:13E:820000:0:0:0:
-#EXTINF:0,nSport HD
-http://31.178.15.82:8001/1:0:1:3AB9:514:13E:820000:0:0:0:
-#EXTINF:0,Eleven Sports 1 HD
-http://31.178.15.82:8001/1:0:1:13F3:5DC:13E:820000:0:0:0:
-#EXTINF:0,Eleven Sports 2 HD
-http://31.178.15.82:8001/1:0:1:13F5:5DC:13E:820000:0:0:0:
-#EXTINF:0,Eleven Sports 3 HD
-http://31.178.15.82:8001/1:0:1:13F8:5DC:13E:820000:0:0:0:
-#EXTINF:0,Eleven Sports 4 HD
-http://31.178.15.82:8001/1:0:1:32CE:190:13E:820000:0:0:0
-#EXTINF:0,Eurosport 1 HD
-http://31.178.15.82:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0
-#EXTINF:0,Eurosport 1
-http://31.178.15.82:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0
-#EXTINF:0,Eurosport 2 HD
-http://31.178.15.82:8001/1:0:1:290C:1EDC:71:820000:0:0:0
-#EXTINF:0,Sport Klub HD
-http://31.178.15.82:8001/1:0:1:DAF:2D50:13E:820000:0:0:0
-#EXTINF:0,Fight Klub HD
-http://31.178.15.82:8001/1:0:1:13F1:5DC:13E:820000:0:0:0:
-#EXTINF:0,Extreme Sports HD
-http://31.178.15.82:8001/1:0:19:290A:1EDC:71:820000:0:0:0:
-#EXTINF:0,Fightbox HD
-http://31.178.15.82:8001/1:0:1:3E24:2EE0:13E:820000:0:0:0:
-#EXTINF:0,Golf Channel HD
-http://31.178.15.82:8001/1:0:1:3E23:2EE0:13E:820000:0:0:0
-#EXTINF:0,PPV KSW
-http://31.178.15.82:8001/1:0:1:3E30:2EE0:13E:820000:0:0:0
-#EXTINF:0,Canal+ Discovery HD
-http://31.178.15.82:8001/1:0:1:3A99:514:13E:820000:0:0:0:
-#EXTINF:0,Discovery  Channel HD
-http://31.178.15.82:8001/1:0:19:3AB8:514:13E:820000:0:0:0:
-#EXTINF:0,Discovery Historia
-http://31.178.15.82:8001/1:0:16:DB2:2D50:13E:820000:0:0:0:
-#EXTINF:0,Discovery Life HD
-http://31.178.15.82:8001/1:0:16:3D56:2C88:13E:820000:0:0:0:
-#EXTINF:0,Discovery Science HD
-http://31.178.15.82:8001/1:0:19:290D:1EDC:71:820000:0:0:0:
-#EXTINF:0,Discovery Turbo Xtra HD
-http://31.178.15.82:8001/1:0:19:3A9C:514:13E:820000:0:0:0:
-#EXTINF:0,ID HD
-http://31.178.15.82:8001/1:0:19:3A9B:514:13E:820000:0:0:0:
-#EXTINF:0,National Geographic Channel HD
-http://31.178.15.82:8001/1:0:19:32DF:190:13E:820000:0:0:0:
-#EXTINF:0,National Geographic Channel
-http://31.178.15.82:8001/1:0:1:3D5E:2C88:13E:820000:0:0:0:
-#EXTINF:0,National Geographic People HD
-http://31.178.15.82:8001/1:0:19:2907:1EDC:71:820000:0:0:0:
-#EXTINF:0,National Geographic Wild HD
-http://31.178.15.82:8001/1:0:1:1137:2AF8:13E:820000:0:0:0
-#EXTINF:0,National Geographic Wild
-http://31.178.15.82:8001/1:0:1:1C8B:1CE8:71:820000:0:0:0:
-#EXTINF:0,History HD
-http://31.178.15.82:8001/1:0:1:C2F:1E78:71:820000:0:0:0:
-#EXTINF:0,H2 HD
-http://31.178.15.82:8001/1:0:19:3E22:2EE0:13E:820000:0:0:0:
-#EXTINF:0,History
-http://31.178.15.82:8001/1:0:1:4284:2BC0:13E:820000:0:0:0
-#EXTINF:0,Adventure HD
-http://31.178.15.82:8001/1:0:19:10E9:3E8:13E:820000:0:0:0:
-#EXTINF:0,Animal Planet HD
-http://31.178.15.82:8001/1:0:1:12C6:2E7C:13E:820000:0:0:0
-#EXTINF:0,Animal Planet HD
-http://31.178.15.82:8001/1:0:1:DB0:2D50:13E:820000:0:0:0
-#EXTINF:0,Crime and Investigation Polsat 
-http://31.178.15.82:8001/1:0:1:1C9D:332C:13E:820000:0:0:0
-#EXTINF:0,Crime and Investigation 
-http://31.178.15.82:8001/1:0:1:1C9C:332C:13E:820000:0:0:0
-#EXTINF:0,Planete+ HD
-http://31.178.15.82:8001/1:0:19:377E:44C:13E:820000:0:0:0:
-#EXTINF:0,Lifetime HD
-http://31.178.15.82:8001/1:0:1:3E27:2EE0:13E:820000:0:0:0:
-#EXTINF:0,Kuchnia+ HD 
-http://31.178.15.82:8001/1:0:1:37B1:44C:13E:820000:0:0:0
-#EXTINF:0,Domo+ HD
-http://31.178.15.82:8001/1:0:1:13EF:5DC:13E:820000:0:0:0
-#EXTINF:0,TLC HD
-http://31.178.15.82:8001/1:0:1:3E21:2EE0:13E:820000:0:0:0:
-#EXTINF:0,BBC Earth HD
-http://31.178.15.82:8001/1:0:19:E08:2D50:13E:820000:0:0:0:
-#EXTINF:0,BBC Lifestyle
-http://31.178.15.82:8001/1:0:1:7DB:22C4:13E:820000:0:0:0:
-#EXTINF:0,BBC HD??
-http://31.178.15.82:8001/1:0:1:E06:2D50:13E:820000:0:0:0
-#EXTINF:0,BBC Brit HD
-http://31.178.15.82:8001/1:0:19:7D6:22C4:13E:820000:0:0:0:
-#EXTINF:0,Water Planet
-http://31.178.15.82:8001/1:0:16:423E:3DB8:13E:820000:0:0:0:
-#EXTINF:0,Motowizja HD
-http://31.178.15.82:8001/1:0:1:12C3:2E7C:13E:820000:0:0:0
-#EXTINF:0,Wellbeing Network HD
-http://31.178.15.82:8001/1:0:1:4277:2BC0:13E:820000:0:0:0:
-#EXTINF:0,Fokus TV
-http://31.178.15.82:8001/1:0:1:10E1:3E8:13E:820000:0:0:0
-#EXTINF:0,Travel Channel HD 
-http://31.178.15.82:8001/1:0:19:3DD8:640:13E:820000:0:0:0
-#EXTINF:0,HGTV
-http://31.178.15.82:8001/1:0:1:12E2:2E7C:13E:820000:0:0:0
-#EXTINF:0,HGTV HD
-http://31.178.15.82:8001/1:0:19:10EB:3E8:13E:820000:0:0:0
-#EXTINF:0,E!
-http://31.178.15.82:8001/1:0:1:3E1E:2EE0:13E:820000:0:0:0
-#EXTINF:0,Active Family
-http://31.178.15.82:8001/1:0:1:DB7:2D50:13E:820000:0:0:0
-#EXTINF:0,TBN Polska
-http://31.178.15.82:8001/1:0:1:35EF:1388:13E:820000:0:0:0:
-#EXTINF:0,DTX HD
-http://31.178.15.82:8001/1:0:1:3A9C:514:13E:820000:0:0:0
-#EXTINF:0,Da Vini Learning
-http://31.178.15.82:8001/1:0:1:4280:2BC0:13E:820000:0:0:0
-#EXTINF:0,Superstacja
-http://31.178.15.82:8001/1:0:16:1CBE:1CE8:71:820000:0:0:0:
-#EXTINF:0,TV Republika
-http://31.178.15.82:8001/1:0:1:4289:2BC0:13E:820000:0:0:0
-#EXTINF:0,TV Okazje
-http://31.178.15.82:8001/1:0:1:1C8D:1CE8:71:820000:0:0:0
-#EXTINF:0,MANGO 24
-http://31.178.15.82:8001/1:0:1:10FC:3E8:13E:820000:0:0:0
-#EXTINF:0,wPolsce.pl
-http://31.178.15.82:8001/1:0:1:4279:2BC0:13E:820000:0:0:0
-#EXTINF:0,Cartoon Network HD
-http://31.178.15.82:8001/1:0:1:2906:1EDC:71:820000:0:0:0:
-#EXTINF:0,Boomerang HD
-http://31.178.15.82:8001/1:0:1:4295:2BC0:13E:820000:0:0:0
-#EXTINF:0,Disney Channel HD
-http://31.178.15.82:8001/1:0:1:1CB6:1CE8:71:820000:0:0:0
-#EXTINF:0,Disney Junior
-http://31.178.15.82:8001/1:0:1:2938:1EDC:71:820000:0:0:0
-#EXTINF:0,Disney XD
-http://31.178.15.82:8001/1:0:16:1CB5:1CE8:71:820000:0:0:0:
-#EXTINF:0,MiniMini+ HD
-http://31.178.15.82:8001/1:0:1:32E0:190:13E:820000:0:0:0
-#EXTINF:0,Nick Jr
-http://31.178.15.82:8001/1:0:1:3:1964:13E:820000:0:0:0
-#EXTINF:0,Nickelodeon
-http://31.178.15.82:8001/1:0:1:9:1964:13E:820000:0:0:0
-#EXTINF:0,Nicktoons HD
-http://31.178.15.82:8001/1:0:1:E:1964:13E:820000:0:0:0
-#EXTINF:0,Teletoon+ HD
-http://31.178.15.82:8001/1:0:19:377D:44C:13E:820000:0:0:0
-#EXTINF:0,JimJam Polsat
-http://31.178.15.82:8001/1:0:1:1CB7:1CE8:71:820000:0:0:0:
-#EXTINF:0,BBC CBeebies
-http://31.178.15.82:8001/1:0:1:7D9:22C4:13E:820000:0:0:0:
-#EXTINF:0,Test B
-http://31.178.15.82:8001/1:0:1:1CB8:1CE8:71:820000:0:0:0
-#EXTINF:0,MTV Polska HD
-http://31.178.15.82:8001/1:0:1:F:1964:13E:820000:0:0:0
-#EXTINF:0,MTV Live HD
-http://31.178.15.82:8001/1:0:19:1:1964:13E:820000:0:0:0
-#EXTINF:0,MTV Rocks
-http://31.178.15.82:8001/1:0:1:1CB9:1CE8:71:820000:0:0:0:
-#EXTINF:0,4Fun TV
-http://31.178.15.82:8001/1:0:1:428D:2BC0:13E:820000:0:0:0:
-#EXTINF:0,4Fun Fit and Dance
-http://31.178.15.82:8001/1:0:1:428F:2BC0:13E:820000:0:0:0:
-#EXTINF:0,4Fun Hits
-http://31.178.15.82:8001/1:0:1:428E:2BC0:13E:820000:0:0:0:
-#EXTINF:0,ESKA TV
-http://31.178.15.82:8001/1:0:1:429C:2BC0:13E:820000:0:0:0
-#EXTINF:0,Kino Polska Muzyka
-http://31.178.15.82:8001/1:0:1:DAE:2D50:13E:820000:0:0:0:
-#EXTINF:0,Polo TV
-http://31.178.15.82:8001/1:0:1:429A:2BC0:13E:820000:0:0:0
-#EXTINF:0,Stars TV
-http://31.178.15.82:8001/1:0:1:427F:2BC0:13E:820000:0:0:0
-#EXTINF:0,POWER TV
-http://31.178.15.82:8001/1:0:16:10E7:3E8:13E:820000:0:0:0:
-#EXTINF:0,VOX Music TV
-http://31.178.15.82:8001/1:0:1:3D57:2C88:13E:820000:0:0:0:
-#EXTINF:0,Disco Polo Music
-http://31.178.15.82:8001/1:0:1:1C8C:1CE8:71:820000:0:0:0:
-#EXTINF:0,TRACE TV
-http://31.178.15.82:8001/1:0:1:DB6:2D50:13E:820000:0:0:0:
-#EXTINF:0,VH1
-http://31.178.15.82:8001/1:0:1:8:1964:13E:820000:0:0:0
-#EXTINF:0,MEZZO
-http://31.178.15.82:8001/1:0:1:29E5:3CF0:13E:820000:0:0:0
-#EXTINF:0,ESKA TV Ekstra
-http://31.178.15.82:8001/1:0:1:429B:2BC0:13E:820000:0:0:0
-#EXTINF:0,Polsat Music HD
-http://31.178.15.82:8001/1:0:1:4293:2BC0:13E:820000:0:0:0
-#EXTINF:0,Eska Rock TV
-http://31.178.15.82:8001/1:0:1:3D63:2C88:13E:820000:0:0:0
-#EXTINF:0,NUTA TV
-http://31.178.15.82:8001/1:0:1:10DD:3E8:13E:820000:0:0:0
-#EXTINF:0,TO!TV/EZOTV
-http://31.178.15.82:8001/1:0:16:10E8:3E8:13E:820000:0:0:0
-#EXTINF:0,VOD 205
-http://31.178.15.82:8001/1:0:1:3F:1964:13E:820000:0:0:0
-#EXTINF:0,VOD 206
-http://31.178.15.82:8001/1:0:1:40:1964:13E:820000:0:0:0
-#EXTINF:0,VOD 207
-http://31.178.15.82:8001/1:0:1:41:1964:13E:820000:0:0:0
-#EXTINF:0,VOD 208
-http://31.178.15.82:8001/1:0:1:42:1964:13E:820000:0:0:0
+#EXTINF:-1,TVN FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/839
+#EXTINF:-1,TVN PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10429
+#EXTINF:-1,TVN 7 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/890
+#EXTINF:-1,TVN 7 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6881
+#EXTINF:-1,Polsat FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10448
+#EXTINF:-1,Polsat HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/911
+#EXTINF:-1,Polsat 2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6430
+#EXTINF:-1,Polsat 2 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/910
+#EXTINF:-1,Polsat 2 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6429
+#EXTINF:-1,TV4 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/894
+#EXTINF:-1,TV 4 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/869
+#EXTINF:-1,TV 4 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10430
+#EXTINF:-1,TVP 1 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/868
+#EXTINF:-1,TVP 1 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6431
+#EXTINF:-1,TVP 2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/867
+#EXTINF:-1,TVP 2 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10426
+#EXTINF:-1,HBO 1 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/11099
+#EXTINF:-1,HBO 1 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/856
+#EXTINF:-1,HBO 2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/922
+#EXTINF:-1,HBO 2 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6889
+#EXTINF:-1,HBO 3 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/921
+#EXTINF:-1,Canal+ FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/947
+#EXTINF:-1,Canal+ HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/948
+#EXTINF:-1,Canal+ PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/8429
+#EXTINF:-1,Canal+ UHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/66881
+#EXTINF:-1,Canal+ +1 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/949
+#EXTINF:-1,Canal+ Film HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/952
+#EXTINF:-1,CANAL+ FAMILY FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/953
+#EXTINF:-1,CANAL+ FAMILY HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/12321
+#EXTINF:-1,Canal+ Seriale FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/951
+#EXTINF:-1,Canal+ Seriale HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/12322
+#EXTINF:-1,Polsat Film FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/870
+#EXTINF:-1,Polsat Film HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6879
+#EXTINF:-1,Polsat Film PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/908
+#EXTINF:-1,AXN FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10482
+#EXTINF:-1,AXN HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/957
+#EXTINF:-1,AXN Black PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/956
+#EXTINF:-1,AXN White PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/954
+#EXTINF:-1,AXN Spin FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/955
+#EXTINF:-1,AXN Spin PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6875
+#EXTINF:-1,FOX FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10462
+#EXTINF:-1,FOX HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10464
+#EXTINF:-1,FOX Comedy FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10463
+#EXTINF:-1,Fox Comedy PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4551
+#EXTINF:-1,Filmbox Action HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/927
+#EXTINF:-1,Filmbox Action PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/926
+#EXTINF:-1,FilmBox Arthouse PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/925
+#EXTINF:-1,Filmbox Extra HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/871
+#EXTINF:-1,Filmbox Extra PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10466
+#EXTINF:-1,Filmbox Family PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/924
+#EXTINF:-1,Filmbox Premium HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/923
+#EXTINF:-1,CineMax 1 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/941
+#EXTINF:-1,CineMax 1 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6872
+#EXTINF:-1,Cinemax 2 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4557
+#EXTINF:-1,CBS Action PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/943
+#EXTINF:-1,CBS Europa FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/863
+#EXTINF:-1,CBS Reality PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/942
+#EXTINF:-1,13 Ulica FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/865
+#EXTINF:-1,13 Ulica PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6878
+#EXTINF:-1,Ale Kino+ FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/960
+#EXTINF:-1,Ale Kino+ HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6873
+#EXTINF:-1,Comedy Central FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10481
+#EXTINF:-1,Comedy Central PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4556
+#EXTINF:-1,Comedy Central Family PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4555
+#EXTINF:-1,Kino Polska PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4548
+#EXTINF:-1,Kino TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10457
+#EXTINF:-1,Paramount Channel FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4542
+#EXTINF:-1,SciFi Universal PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/849
+#EXTINF:-1,TNT FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/845
+#EXTINF:-1,TNT HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6427
+#EXTINF:-1,TNT PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/897
+#EXTINF:-1,AMC FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21328
+#EXTINF:-1,AMC PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10483
+#EXTINF:-1,Active Family PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/962
+#EXTINF:-1,TVN Fabula FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/840
+#EXTINF:-1,Polsat Romans PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10446
+#EXTINF:-1,Romance FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4540
+#EXTINF:-1,TVP Seriale PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/882
+#EXTINF:-1,EuroSport 1 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/861
+#EXTINF:-1,EuroSport 1 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/928
+#EXTINF:-1,Eurosport 1 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10468
+#EXTINF:-1,EuroSport 2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/860
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/932
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/931
+#EXTINF:-1,Eleven Sports 3 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/930
+#EXTINF:-1,Eleven Sports 4 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/929
+#EXTINF:-1,Eurosport 3 - Eleven Sport 3 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10437
+#EXTINF:-1,Eurosport 4 - Eleven Sport 4 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10436
+#EXTINF:-1,Canal+ Sport FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/944
+#EXTINF:-1,Canal+ Sport HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/945
+#EXTINF:-1,Canal+ Sport PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/946
+#EXTINF:-1,Canal+ Sport 2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6871
+#EXTINF:-1,Canal+ Sport 2 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/950
+#EXTINF:-1,Extreme Sports FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/859
+#EXTINF:-1,Extreme Sports HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/12323
+#EXTINF:-1,Polsat Sport News HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/850
+#EXTINF:-1,Polsat Sport FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10443
+#EXTINF:-1,Polsat Sport HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/905
+#EXTINF:-1,Polsat Sport PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10445
+#EXTINF:-1,Polsat Sport Extra FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6435
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/904
+#EXTINF:-1,Polsat Sport Extra PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/75258
+#EXTINF:-1,Polsat Sport Premium 1 FHD VIP PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16059
+#EXTINF:-1,Polsat Sport Premium 2 FHD VIP PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16060
+#EXTINF:-1,POLSAT Sport Fight FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6434
+#EXTINF:-1,Polsat Sport Fight HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/851
+#EXTINF:-1,Polsat Sport Fight PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10444
+#EXTINF:-1,Fight Channel World HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6433
+#EXTINF:-1,Fight Network FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/901
+#EXTINF:-1,Fightbox FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/858
+#EXTINF:-1,Fightbox PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6877
+#EXTINF:-1,nSport HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/54963
+#EXTINF:-1,nSport FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/842
+#EXTINF:-1,Sport Klub FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4539
+#EXTINF:-1,TVP Sport FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10421
+#EXTINF:-1,TVP Sport HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/866
+#EXTINF:-1,Golf Channel FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10461
+#EXTINF:-1,Adventure FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/961
+#EXTINF:-1,Animal Planet FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/959
+#EXTINF:-1,BBC Brit FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21327
+#EXTINF:-1,BBC Earth HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4560
+#EXTINF:-1,BBC HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4559
+#EXTINF:-1,Canal+ Discovery FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/939
+#EXTINF:-1,Canal+ Discovery HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6425
+#EXTINF:-1,Crime Investigation Polsat FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/18821
+#EXTINF:-1,DTX FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/934
+#EXTINF:-1,DTX HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10476
+#EXTINF:-1,Da Vinci Learning PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/940
+#EXTINF:-1,Discovery Channel FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10478
+#EXTINF:-1,Discovery Channel HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10479
+#EXTINF:-1,Discovery Historia PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/938
+#EXTINF:-1,Discovery Life FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/937
+#EXTINF:-1,Discovery Life PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6874
+#EXTINF:-1,Discovery Science HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/936
+#EXTINF:-1,Fokus TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4552
+#EXTINF:-1,History FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10460
+#EXTINF:-1,History PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/919
+#EXTINF:-1,H2 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/857
+#EXTINF:-1,Investigation Discovery FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10458
+#EXTINF:-1,Investigation Discovery PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10459
+#EXTINF:-1,Nat Geo FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/852
+#EXTINF:-1,Nat Geo PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/914
+#EXTINF:-1,Nat Geo People FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/853
+#EXTINF:-1,Nat Geo Wild FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10453
+#EXTINF:-1,Nat Geo Wild PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/915
+#EXTINF:-1,Motorwizja PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/916
+#EXTINF:-1,Planete+ FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/913
+#EXTINF:-1,Planete+ PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6887
+#EXTINF:-1,Polsat Doku FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10449
+#EXTINF:-1,Polsat Viasat History FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10442
+#EXTINF:-1,POLSAT Viasat Explore FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/903
+#EXTINF:-1,POLSAT Viasat Nature PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6109
+#EXTINF:-1,TVN Turbo FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/888
+#EXTINF:-1,TVN Turbo PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6880
+#EXTINF:-1,TVP Historia PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4536
+#EXTINF:-1,TheBlaze TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4046
+#EXTINF:-1,Travel HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4538
+#EXTINF:-1,4Fun Dance PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10486
+#EXTINF:-1,4Fun Gold Hits PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10485
+#EXTINF:-1,4Fun TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4562
+#EXTINF:-1,ATM Rozrywka TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/958
+#EXTINF:-1,Disco Polo Music HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10488
+#EXTINF:-1,Disco Polo Music PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4554
+#EXTINF:-1,Eska TV Extra PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10471
+#EXTINF:-1,Eska TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10472
+#EXTINF:-1,HIP HOP TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4550
+#EXTINF:-1,Kino Polska Muzyka PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/918
+#EXTINF:-1,MTV Dance HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4534
+#EXTINF:-1,MTV Live FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10455
+#EXTINF:-1,MTV Polska FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10454
+#EXTINF:-1,MTV Polska PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4545
+#EXTINF:-1,Nuta.TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10451
+#EXTINF:-1,Polo TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/912
+#EXTINF:-1,Polsat Music FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10447
+#EXTINF:-1,Power TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10441
+#EXTINF:-1,TO!TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10435
+#EXTINF:-1,TVP Rozrywka PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/883
+#EXTINF:-1,VOX Music TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/873
+#EXTINF:-1,VH1 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10417
+#EXTINF:-1,Stars TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/848
+#EXTINF:-1,Trace Urban Muzik HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10434
+#EXTINF:-1,TVN 24 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/891
+#EXTINF:-1,TVN 24 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/837
+#EXTINF:-1,TVN 24 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6882
+#EXTINF:-1,TVN 24 BiS HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/887
+#EXTINF:-1,Polsat News FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/907
+#EXTINF:-1,Polsat News PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6886
+#EXTINF:-1,Polsat News 2 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4541
+#EXTINF:-1,TVP Info FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10424
+#EXTINF:-1,TVP Info PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4535
+#EXTINF:-1,Baby TV HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/24160
+#EXTINF:-1,Boomerang PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/843
+#EXTINF:-1,Cartoon Network HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/864
+#EXTINF:-1,Cbeebies PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4558
+#EXTINF:-1,Disney Channel FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/963
+#EXTINF:-1,Disney Junior PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/862
+#EXTINF:-1,Disney XD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/935
+#EXTINF:-1,MiniMini+ FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6436
+#EXTINF:-1,MiniMini+ HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/854
+#EXTINF:-1,Nick JR. PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4544
+#EXTINF:-1,Nickelodeon PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4543
+#EXTINF:-1,POLSAT JimJam PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4549
+#EXTINF:-1,TVP ABC PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/886
+#EXTINF:-1,TeleToon+ FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/898
+#EXTINF:-1,TeleToon+ PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6883
+#EXTINF:-1,Kuchnia+ FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10456
+#EXTINF:-1,Kuchnia+ HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/917
+#EXTINF:-1,HGTV FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6888
+#EXTINF:-1,HGTV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/920
+#EXTINF:-1,Food Network FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/19522
+#EXTINF:-1,TLC FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/846
+#EXTINF:-1,TLC PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6876
+#EXTINF:-1,TTV FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10433
+#EXTINF:-1,Domo+ HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/7798
+#EXTINF:-1,E! FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/933
+#EXTINF:-1,Epic Drama FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10418
+#EXTINF:-1,Lifetime FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/855
+#EXTINF:-1,Lifetime HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10487
+#EXTINF:-1,Polsat Cafe HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/909
+#EXTINF:-1,Polsat Games FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21792
+#EXTINF:-1,Polsat Play FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6428
+#EXTINF:-1,Polsat Play HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/841
+#EXTINF:-1,Polsat Play PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/906
+#EXTINF:-1,Polsat Rodzina FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21793
+#EXTINF:-1,TVN Style FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10428
+#EXTINF:-1,TVN Style PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/889
+#EXTINF:-1,METRO PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4546
+#EXTINF:-1,TVP Kultura PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/884
+#EXTINF:-1,TV Puls FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10431
+#EXTINF:-1,TV Puls HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/896
+#EXTINF:-1,Puls 2 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/902
+#EXTINF:-1,TV6 FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6437
+#EXTINF:-1,TV6 HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/893
+#EXTINF:-1,Nowa TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10452
+#EXTINF:-1,Stopklatka TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/900
+#EXTINF:-1,Sundance FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/847
+#EXTINF:-1,Super Polsat FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/899
+#EXTINF:-1,Superstacja PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10439
+#EXTINF:-1,TV Republika HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16004
+#EXTINF:-1,TV Republika PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/895
+#EXTINF:-1,TVP FHD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6426
+#EXTINF:-1,TVP HD PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6419
+#EXTINF:-1,TVP Polonia PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10422
+#EXTINF:-1,TVS PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/881
+#EXTINF:-1,WP PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10413
+#EXTINF:-1,Zest TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10412
+#EXTINF:-1,Zoom TV PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10411
+#EXTINF:-1,TV Trwam PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4537
+#EXTINF:-1,TVP 3 Białystok PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16053
+#EXTINF:-1,TVP 3 Bydgoszcz PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16054
+#EXTINF:-1,TVP 3 Gdańsk PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15876
+#EXTINF:-1,TVP 3 Katowice PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15877
+#EXTINF:-1,TVP 3 Kielce PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16052
+#EXTINF:-1,TVP 3 Kraków PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16048
+#EXTINF:-1,TVP 3 Lublin PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16055
+#EXTINF:-1,TVP 3 Olsztyn PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16056
+#EXTINF:-1,TVP 3 Opole PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16049
+#EXTINF:-1,TVP 3 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/838
+#EXTINF:-1,TVP 3 Poznań PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15878
+#EXTINF:-1,TVP 3 Rzeszów PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16057
+#EXTINF:-1,TVP 3 Szczecin PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15875
+#EXTINF:-1,TVP 3 Warszawa PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10425
+#EXTINF:-1,TVP 3 Wrocław PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16050
+#EXTINF:-1,TVP 3 Łódź PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16051
+#EXTINF:-1,Imperium TV Gliwice PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16007
+#EXTINF:-1,TV Kujawy PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16006
+#EXTINF:-1,TV Toruń PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21151
+#EXTINF:-1,TVT Zgorzelec PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15318
+#EXTINF:-1,VOD 202 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/880
+#EXTINF:-1,VOD 204 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/874
+#EXTINF:-1,VOD 205 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/879
+#EXTINF:-1,VOD 206 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/878
+#EXTINF:-1,VOD 207 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/877
+#EXTINF:-1,VOD 208 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/876
+#EXTINF:-1,VOD 212 PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/875
+#EXTINF:-1,KSW PPV (Match Time) PL
+http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/43690
