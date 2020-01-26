@@ -38,9 +38,9 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 5 - 434 Local Channels[/B]</name> 
+<name>[B]German TV 5[/B]</name> 
 <thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>http://bit.ly/kn-kodi</externallink> 
+<externallink>https://raw.githubusercontent.com/kilirushi/m3u/master/de.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
