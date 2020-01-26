@@ -12,7 +12,7 @@
 <channels> 
 <channel> 
 <name>[B]Turkey TV[/B]</name> 
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<thumbnail>https://ia801403.us.archive.org/29/items/turkey_202001/Turkey.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/Turkey-TV/master/TurkeyTV</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -30,7 +30,7 @@
 <channels>
 <channel>
 <name>[B]German TV[/B]</name>
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
+<thumbnail>https://ia801504.us.archive.org/21/items/deflagge/DE_Flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/GermanTV</externallink>
 <fanart></fanart>
 <info></info>
@@ -39,7 +39,7 @@
 <channels> 
 <channel> 
 <name>[B]Poland TV[/B]</name> 
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
+<thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV-7.m3u</externallink> 
 <fanart> </fanart> 
 <info></info> 
