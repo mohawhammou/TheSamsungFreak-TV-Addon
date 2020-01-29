@@ -1,32 +1,5 @@
 <layouttype>thumbnail</layouttype>
 
-<channels> 
-<channel> 
-<name>[B]World IPTV[/B]</name> 
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>http://vip55.org/get.php?username=PDtUZmXdY9&password=cQiXrcbeRF&type=m3u</externallink> 
-<fanart> </fanart> 
-<info></info> 
-</channel>
-
-<channels> 
-<channel> 
-<name>[B]Turkey TV[/B]</name> 
-<thumbnail>https://ia801403.us.archive.org/29/items/turkey_202001/Turkey.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/Turkey-TV/master/TurkeyTV</externallink> 
-<fanart></fanart> 
-<info></info> 
-</channel>
-
-<channels>
-<channel>
-<name>[B]France TV[/B]</name>
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/FranceTV/master/FranceTV.m3u</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
 <channels>
 <channel>
 <name>[B]German TV[/B]</name>
@@ -42,33 +15,6 @@
 <thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV-7.m3u</externallink> 
 <fanart> </fanart> 
-<info></info> 
-</channel>
-
-<channels>
-<channel>
-<name>[B]Italy TV[/B]</name>
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/Italy-TV/master/Italy1.m3u</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channels>
-<channel>
-<name>[B]USA TV[/B]</name>
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/USATV.m3u</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channels> 
-<channel> 
-<name>[B]Spain TV[/B]</name> 
-<thumbnail>https://archive.org/download/icon_20190922/icon.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/Spain-TV/master/SpanienTV</externallink> 
-<fanart></fanart> 
 <info></info> 
 </channel>
 
