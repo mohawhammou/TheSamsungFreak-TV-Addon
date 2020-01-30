@@ -1,553 +1,389 @@
 #EXTM3U 
-#EXTINF:-1,TVN FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/839
-#EXTINF:-1,TVN PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10429
-#EXTINF:-1,TVN 7 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/890
-#EXTINF:-1,TVN 7 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6881
-#EXTINF:-1,Polsat FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10448
-#EXTINF:-1,Polsat HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/911
-#EXTINF:-1,Polsat 2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6430
-#EXTINF:-1,Polsat 2 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/910
-#EXTINF:-1,Polsat 2 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6429
-#EXTINF:-1,TV4 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/894
-#EXTINF:-1,TV 4 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/869
-#EXTINF:-1,TV 4 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10430
-#EXTINF:-1,TVP 1 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/868
-#EXTINF:-1,TVP 1 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6431
-#EXTINF:-1,TVP 2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/867
-#EXTINF:-1,TVP 2 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10426
-#EXTINF:-1,HBO 1 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/11099
-#EXTINF:-1,HBO 1 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/856
-#EXTINF:-1,HBO 2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/922
-#EXTINF:-1,HBO 2 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6889
-#EXTINF:-1,HBO 3 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/921
-#EXTINF:-1,Canal+ FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/947
-#EXTINF:-1,Canal+ HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/948
-#EXTINF:-1,Canal+ PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/8429
-#EXTINF:-1,Canal+ UHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/66881
-#EXTINF:-1,Canal+ +1 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/949
-#EXTINF:-1,Canal+ Film HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/952
-#EXTINF:-1,CANAL+ FAMILY FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/953
-#EXTINF:-1,CANAL+ FAMILY HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/12321
-#EXTINF:-1,Canal+ Seriale FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/951
-#EXTINF:-1,Canal+ Seriale HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/12322
-#EXTINF:-1,Polsat Film FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/870
-#EXTINF:-1,Polsat Film HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6879
-#EXTINF:-1,Polsat Film PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/908
-#EXTINF:-1,AXN FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10482
-#EXTINF:-1,AXN HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/957
-#EXTINF:-1,AXN Black PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/956
-#EXTINF:-1,AXN White PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/954
-#EXTINF:-1,AXN Spin FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/955
-#EXTINF:-1,AXN Spin PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6875
-#EXTINF:-1,FOX FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10462
-#EXTINF:-1,FOX HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10464
-#EXTINF:-1,FOX Comedy FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10463
-#EXTINF:-1,Fox Comedy PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4551
-#EXTINF:-1,Filmbox Action HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/927
-#EXTINF:-1,Filmbox Action PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/926
-#EXTINF:-1,FilmBox Arthouse PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/925
-#EXTINF:-1,Filmbox Extra HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/871
-#EXTINF:-1,Filmbox Extra PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10466
-#EXTINF:-1,Filmbox Family PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/924
-#EXTINF:-1,Filmbox Premium HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/923
-#EXTINF:-1,CineMax 1 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/941
-#EXTINF:-1,CineMax 1 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6872
-#EXTINF:-1,Cinemax 2 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4557
-#EXTINF:-1,CBS Action PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/943
-#EXTINF:-1,CBS Europa FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/863
-#EXTINF:-1,CBS Reality PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/942
-#EXTINF:-1,13 Ulica FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/865
-#EXTINF:-1,13 Ulica PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6878
-#EXTINF:-1,Ale Kino+ FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/960
-#EXTINF:-1,Ale Kino+ HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6873
-#EXTINF:-1,Comedy Central FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10481
-#EXTINF:-1,Comedy Central PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4556
-#EXTINF:-1,Comedy Central Family PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4555
-#EXTINF:-1,Kino Polska PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4548
-#EXTINF:-1,Kino TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10457
-#EXTINF:-1,Paramount Channel FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4542
-#EXTINF:-1,SciFi Universal PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/849
-#EXTINF:-1,TNT FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/845
-#EXTINF:-1,TNT HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6427
-#EXTINF:-1,TNT PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/897
-#EXTINF:-1,AMC FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21328
-#EXTINF:-1,AMC PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10483
-#EXTINF:-1,Active Family PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/962
-#EXTINF:-1,TVN Fabula FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/840
-#EXTINF:-1,Polsat Romans PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10446
-#EXTINF:-1,Romance FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4540
-#EXTINF:-1,TVP Seriale PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/882
-#EXTINF:-1,EuroSport 1 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/861
-#EXTINF:-1,EuroSport 1 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/928
-#EXTINF:-1,Eurosport 1 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10468
-#EXTINF:-1,EuroSport 2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/860
-#EXTINF:-1,Eleven Sports 1 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/932
-#EXTINF:-1,Eleven Sports 2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/931
-#EXTINF:-1,Eleven Sports 3 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/930
-#EXTINF:-1,Eleven Sports 4 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/929
-#EXTINF:-1,Eurosport 3 - Eleven Sport 3 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10437
-#EXTINF:-1,Eurosport 4 - Eleven Sport 4 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10436
-#EXTINF:-1,Canal+ Sport FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/944
-#EXTINF:-1,Canal+ Sport HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/945
-#EXTINF:-1,Canal+ Sport PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/946
-#EXTINF:-1,Canal+ Sport 2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6871
-#EXTINF:-1,Canal+ Sport 2 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/950
-#EXTINF:-1,Extreme Sports FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/859
-#EXTINF:-1,Extreme Sports HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/12323
-#EXTINF:-1,Polsat Sport News HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/850
-#EXTINF:-1,Polsat Sport FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10443
-#EXTINF:-1,Polsat Sport HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/905
-#EXTINF:-1,Polsat Sport PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10445
-#EXTINF:-1,Polsat Sport Extra FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6435
-#EXTINF:-1,Polsat Sport Extra HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/904
-#EXTINF:-1,Polsat Sport Extra PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/75258
-#EXTINF:-1,Polsat Sport Premium 1 FHD VIP PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16059
-#EXTINF:-1,Polsat Sport Premium 2 FHD VIP PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16060
-#EXTINF:-1,POLSAT Sport Fight FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6434
-#EXTINF:-1,Polsat Sport Fight HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/851
-#EXTINF:-1,Polsat Sport Fight PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10444
-#EXTINF:-1,Fight Channel World HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6433
-#EXTINF:-1,Fight Network FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/901
-#EXTINF:-1,Fightbox FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/858
-#EXTINF:-1,Fightbox PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6877
-#EXTINF:-1,nSport HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/54963
-#EXTINF:-1,nSport FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/842
-#EXTINF:-1,Sport Klub FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4539
-#EXTINF:-1,TVP Sport FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10421
-#EXTINF:-1,TVP Sport HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/866
-#EXTINF:-1,Golf Channel FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10461
-#EXTINF:-1,Adventure FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/961
-#EXTINF:-1,Animal Planet FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/959
-#EXTINF:-1,BBC Brit FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21327
-#EXTINF:-1,BBC Earth HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4560
-#EXTINF:-1,BBC HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4559
-#EXTINF:-1,Canal+ Discovery FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/939
-#EXTINF:-1,Canal+ Discovery HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6425
-#EXTINF:-1,Crime Investigation Polsat FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/18821
-#EXTINF:-1,DTX FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/934
-#EXTINF:-1,DTX HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10476
-#EXTINF:-1,Da Vinci Learning PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/940
-#EXTINF:-1,Discovery Channel FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10478
-#EXTINF:-1,Discovery Channel HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10479
-#EXTINF:-1,Discovery Historia PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/938
-#EXTINF:-1,Discovery Life FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/937
-#EXTINF:-1,Discovery Life PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6874
-#EXTINF:-1,Discovery Science HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/936
-#EXTINF:-1,Fokus TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4552
-#EXTINF:-1,History FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10460
-#EXTINF:-1,History PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/919
-#EXTINF:-1,H2 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/857
-#EXTINF:-1,Investigation Discovery FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10458
-#EXTINF:-1,Investigation Discovery PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10459
-#EXTINF:-1,Nat Geo FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/852
-#EXTINF:-1,Nat Geo PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/914
-#EXTINF:-1,Nat Geo People FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/853
-#EXTINF:-1,Nat Geo Wild FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10453
-#EXTINF:-1,Nat Geo Wild PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/915
-#EXTINF:-1,Motorwizja PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/916
-#EXTINF:-1,Planete+ FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/913
-#EXTINF:-1,Planete+ PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6887
-#EXTINF:-1,Polsat Doku FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10449
-#EXTINF:-1,Polsat Viasat History FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10442
-#EXTINF:-1,POLSAT Viasat Explore FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/903
-#EXTINF:-1,POLSAT Viasat Nature PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6109
-#EXTINF:-1,TVN Turbo FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/888
-#EXTINF:-1,TVN Turbo PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6880
-#EXTINF:-1,TVP Historia PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4536
-#EXTINF:-1,TheBlaze TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4046
-#EXTINF:-1,Travel HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4538
-#EXTINF:-1,4Fun Dance PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10486
-#EXTINF:-1,4Fun Gold Hits PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10485
-#EXTINF:-1,4Fun TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4562
-#EXTINF:-1,ATM Rozrywka TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/958
-#EXTINF:-1,Disco Polo Music HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10488
-#EXTINF:-1,Disco Polo Music PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4554
-#EXTINF:-1,Eska TV Extra PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10471
-#EXTINF:-1,Eska TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10472
-#EXTINF:-1,HIP HOP TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4550
-#EXTINF:-1,Kino Polska Muzyka PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/918
-#EXTINF:-1,MTV Dance HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4534
-#EXTINF:-1,MTV Live FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10455
-#EXTINF:-1,MTV Polska FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10454
-#EXTINF:-1,MTV Polska PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4545
-#EXTINF:-1,Nuta.TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10451
-#EXTINF:-1,Polo TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/912
-#EXTINF:-1,Polsat Music FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10447
-#EXTINF:-1,Power TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10441
-#EXTINF:-1,TO!TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10435
-#EXTINF:-1,TVP Rozrywka PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/883
-#EXTINF:-1,VOX Music TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/873
-#EXTINF:-1,VH1 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10417
-#EXTINF:-1,Stars TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/848
-#EXTINF:-1,Trace Urban Muzik HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10434
-#EXTINF:-1,TVN 24 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/891
-#EXTINF:-1,TVN 24 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/837
-#EXTINF:-1,TVN 24 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6882
-#EXTINF:-1,TVN 24 BiS HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/887
-#EXTINF:-1,Polsat News FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/907
-#EXTINF:-1,Polsat News PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6886
-#EXTINF:-1,Polsat News 2 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4541
-#EXTINF:-1,TVP Info FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10424
-#EXTINF:-1,TVP Info PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4535
-#EXTINF:-1,Baby TV HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/24160
-#EXTINF:-1,Boomerang PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/843
-#EXTINF:-1,Cartoon Network HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/864
-#EXTINF:-1,Cbeebies PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4558
-#EXTINF:-1,Disney Channel FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/963
-#EXTINF:-1,Disney Junior PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/862
-#EXTINF:-1,Disney XD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/935
-#EXTINF:-1,MiniMini+ FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6436
-#EXTINF:-1,MiniMini+ HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/854
-#EXTINF:-1,Nick JR. PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4544
-#EXTINF:-1,Nickelodeon PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4543
-#EXTINF:-1,POLSAT JimJam PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4549
-#EXTINF:-1,TVP ABC PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/886
-#EXTINF:-1,TeleToon+ FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/898
-#EXTINF:-1,TeleToon+ PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6883
-#EXTINF:-1,Kuchnia+ FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10456
-#EXTINF:-1,Kuchnia+ HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/917
-#EXTINF:-1,HGTV FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6888
-#EXTINF:-1,HGTV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/920
-#EXTINF:-1,Food Network FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/19522
-#EXTINF:-1,TLC FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/846
-#EXTINF:-1,TLC PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6876
-#EXTINF:-1,TTV FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10433
-#EXTINF:-1,Domo+ HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/7798
-#EXTINF:-1,E! FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/933
-#EXTINF:-1,Epic Drama FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10418
-#EXTINF:-1,Lifetime FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/855
-#EXTINF:-1,Lifetime HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10487
-#EXTINF:-1,Polsat Cafe HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/909
-#EXTINF:-1,Polsat Games FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21792
-#EXTINF:-1,Polsat Play FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6428
-#EXTINF:-1,Polsat Play HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/841
-#EXTINF:-1,Polsat Play PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/906
-#EXTINF:-1,Polsat Rodzina FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21793
-#EXTINF:-1,TVN Style FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10428
-#EXTINF:-1,TVN Style PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/889
-#EXTINF:-1,METRO PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4546
-#EXTINF:-1,TVP Kultura PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/884
-#EXTINF:-1,TV Puls FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10431
-#EXTINF:-1,TV Puls HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/896
-#EXTINF:-1,Puls 2 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/902
-#EXTINF:-1,TV6 FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6437
-#EXTINF:-1,TV6 HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/893
-#EXTINF:-1,Nowa TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10452
-#EXTINF:-1,Stopklatka TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/900
-#EXTINF:-1,Sundance FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/847
-#EXTINF:-1,Super Polsat FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/899
-#EXTINF:-1,Superstacja PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10439
-#EXTINF:-1,TV Republika HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16004
-#EXTINF:-1,TV Republika PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/895
-#EXTINF:-1,TVP FHD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6426
-#EXTINF:-1,TVP HD PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/6419
-#EXTINF:-1,TVP Polonia PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10422
-#EXTINF:-1,TVS PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/881
-#EXTINF:-1,WP PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10413
-#EXTINF:-1,Zest TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10412
-#EXTINF:-1,Zoom TV PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10411
-#EXTINF:-1,TV Trwam PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/4537
-#EXTINF:-1,TVP 3 Białystok PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16053
-#EXTINF:-1,TVP 3 Bydgoszcz PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16054
-#EXTINF:-1,TVP 3 Gdańsk PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15876
-#EXTINF:-1,TVP 3 Katowice PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15877
-#EXTINF:-1,TVP 3 Kielce PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16052
-#EXTINF:-1,TVP 3 Kraków PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16048
-#EXTINF:-1,TVP 3 Lublin PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16055
-#EXTINF:-1,TVP 3 Olsztyn PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16056
-#EXTINF:-1,TVP 3 Opole PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16049
-#EXTINF:-1,TVP 3 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/838
-#EXTINF:-1,TVP 3 Poznań PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15878
-#EXTINF:-1,TVP 3 Rzeszów PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16057
-#EXTINF:-1,TVP 3 Szczecin PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15875
-#EXTINF:-1,TVP 3 Warszawa PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/10425
-#EXTINF:-1,TVP 3 Wrocław PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16050
-#EXTINF:-1,TVP 3 Łódź PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16051
-#EXTINF:-1,Imperium TV Gliwice PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16007
-#EXTINF:-1,TV Kujawy PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/16006
-#EXTINF:-1,TV Toruń PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/21151
-#EXTINF:-1,TVT Zgorzelec PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/15318
-#EXTINF:-1,VOD 202 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/880
-#EXTINF:-1,VOD 204 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/874
-#EXTINF:-1,VOD 205 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/879
-#EXTINF:-1,VOD 206 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/878
-#EXTINF:-1,VOD 207 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/877
-#EXTINF:-1,VOD 208 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/876
-#EXTINF:-1,VOD 212 PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/875
-#EXTINF:-1,KSW PPV (Match Time) PL
-http://restream.geniptv.com:8080/gKpnXeWft6/r847GRFXaz/43690
+#EXTINF:-1,PL: 13 Ulica HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70312
+#EXTINF:-1,PL: 4Fun Dance
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70402
+#EXTINF:-1,PL: 4Fun Gold Hits
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70403
+#EXTINF:-1,PL: 4Fun TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70404
+#EXTINF:-1,PL: ADVENTURE HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70341
+#EXTINF:-1,PL: ALE KINO
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70284
+#EXTINF:-1,PL: AMC
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70313
+#EXTINF:-1,PL: Animal Planet HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70342
+#EXTINF:-1,PL: ATM Rozrywka
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70314
+#EXTINF:-1,PL: AXN Black
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70287
+#EXTINF:-1,PL: AXN HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70315
+#EXTINF:-1,PL: AXN SPIN HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70316
+#EXTINF:-1,PL: AXN White Poland
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70288
+#EXTINF:-1,PL: Baby Tv
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70393
+#EXTINF:-1,PL: BBC BRIT
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70317
+#EXTINF:-1,PL: BBC CBeebies
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70318
+#EXTINF:-1,PL: BBC Earth HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70343
+#EXTINF:-1,PL: BBC HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70319
+#EXTINF:-1,PL: BBC LIFESTYLE HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70320
+#EXTINF:-1,PL: Boomerang
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70289
+#EXTINF:-1,PL: CANAL   FAMILY HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70321
+#EXTINF:-1,PL: CANAL   FILM HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70322
+#EXTINF:-1,PL: CANAL   SERIALE HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70323
+#EXTINF:-1,PL: CANAL  1 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70324
+#EXTINF:-1,PL: CANAL  DISCOVERY HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70336
+#EXTINF:-1,PL: CANAL  FAMILY
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70283
+#EXTINF:-1,PL: CANAL  FILM
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70282
+#EXTINF:-1,PL: CANAL  HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70281
+#EXTINF:-1,PL: CANAL  SERIALE
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70280
+#EXTINF:-1,PL: CANAL  SPORT
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70417
+#EXTINF:-1,PL: CANAL  SPORT 2
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70416
+#EXTINF:-1,PL: CANAL  SPORT 2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70425
+#EXTINF:-1,PL: CANAL  SPORT HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70426
+#EXTINF:-1,PL: Cartoon Network HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70394
+#EXTINF:-1,PL: CBS Action
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70325
+#EXTINF:-1,PL: CBS Europa HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70326
+#EXTINF:-1,PL: CBS Reality
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70285
+#EXTINF:-1,PL: Cinemax 2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70327
+#EXTINF:-1,PL: Cinemax HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70328
+#EXTINF:-1,PL: COMEDY CENTRAL
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70279
+#EXTINF:-1,PL: Comedy Central Family
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70329
+#EXTINF:-1,PL: Crime and Investigation hd
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70345
+#EXTINF:-1,PL: Da Vinci Learning
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70346
+#EXTINF:-1,PL: Disco Polo Music
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70436
+#EXTINF:-1,PL: Discovery HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70334
+#EXTINF:-1,PL: Discovery Historia
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70347
+#EXTINF:-1,PL: Discovery Life
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70333
+#EXTINF:-1,PL: Discovery Life  Poland HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70335
+#EXTINF:-1,PL: DISCOVERY SCIENCE
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70332
+#EXTINF:-1,PL: Discovery Science HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70348
+#EXTINF:-1,PL: Disney Channel HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70344
+#EXTINF:-1,PL: Disney Junior
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70358
+#EXTINF:-1,PL: Disney XD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70391
+#EXTINF:-1,PL: DOMO  HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70359
+#EXTINF:-1,PL: DTX
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70349
+#EXTINF:-1,PL: E! Entertainment
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70293
+#EXTINF:-1,PL: ELEVEN Sport HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70415
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70427
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70428
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70429
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70430
+#EXTINF:-1,PL: Epic Drama HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70360
+#EXTINF:-1,PL: ESKA TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70294
+#EXTINF:-1,PL: ESKA TV Extra
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70361
+#EXTINF:-1,PL: Eurosport 1 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70418
+#EXTINF:-1,PL: Eurosport 2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70419
+#EXTINF:-1,PL: Extreme Sports HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70420
+#EXTINF:-1,PL: Fightbox HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70295
+#EXTINF:-1,PL: Filmbox
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70278
+#EXTINF:-1,PL: Filmbox Action
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70277
+#EXTINF:-1,PL: Filmbox Arthouse
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70362
+#EXTINF:-1,PL: FilmBox Extra
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70296
+#EXTINF:-1,PL: FILMBOX EXTRA HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70275
+#EXTINF:-1,PL: Filmbox Family
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70276
+#EXTINF:-1,PL: FilmBox Premium HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70297
+#EXTINF:-1,PL: FOKUS TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70298
+#EXTINF:-1,PL: Food Network HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70299
+#EXTINF:-1,PL: Fox Comedy HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70274
+#EXTINF:-1,PL: FOX HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70273
+#EXTINF:-1,PL: H2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70337
+#EXTINF:-1,PL: HBO 2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70272
+#EXTINF:-1,PL: HBO 3 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70363
+#EXTINF:-1,PL: HBO HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70271
+#EXTINF:-1,PL: HGTV HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70364
+#EXTINF:-1,PL: Hip Hop TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70400
+#EXTINF:-1,PL: History HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70338
+#EXTINF:-1,PL: ID HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70350
+#EXTINF:-1,PL: JimJam Polska
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70437
+#EXTINF:-1,PL: KINO POLSKA
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70270
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70410
+#EXTINF:-1,PL: Kuchnia   HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70365
+#EXTINF:-1,PL: Lifetime HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70300
+#EXTINF:-1,PL: Metro
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70366
+#EXTINF:-1,PL: MINIMINI  HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70390
+#EXTINF:-1,PL: MOTOWIZJA
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70367
+#EXTINF:-1,PL: MTV Live HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70408
+#EXTINF:-1,PL: MTV POLSKA
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70399
+#EXTINF:-1,PL: MTV Polska HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70409
+#EXTINF:-1,PL: Nat Geo People HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70339
+#EXTINF:-1,PL: Nat Geo Wild
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70331
+#EXTINF:-1,PL: NATIONAL GEO
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70340
+#EXTINF:-1,PL: NATIONAL GEO HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70330
+#EXTINF:-1,PL: NATIONAL GEOGRAPHIC HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70352
+#EXTINF:-1,PL: Nick Jr Polska
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70395
+#EXTINF:-1,PL: Nickelodeon
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70396
+#EXTINF:-1,PL: NOWA TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70368
+#EXTINF:-1,PL: nSport
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70414
+#EXTINF:-1,PL: nsport  HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70432
+#EXTINF:-1,PL: NUTA TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70301
+#EXTINF:-1,PL: Paramount Channel HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70369
+#EXTINF:-1,PL: Planete  HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70351
+#EXTINF:-1,PL: Polo TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70401
+#EXTINF:-1,PL: Polonia
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70370
+#EXTINF:-1,PL: Polsat
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70260
+#EXTINF:-1,PL: Polsat 2
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70269
+#EXTINF:-1,PL: Polsat Cafe HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70371
+#EXTINF:-1,PL: Polsat Doku HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70353
+#EXTINF:-1,PL: Polsat Film
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70268
+#EXTINF:-1,PL: Polsat Games HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70372
+#EXTINF:-1,PL: Polsat HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70267
+#EXTINF:-1,PL: Polsat Jim Jam
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70392
+#EXTINF:-1,PL: Polsat Music HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70405
+#EXTINF:-1,PL: Polsat News 2
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70373
+#EXTINF:-1,PL: Polsat News HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70261
+#EXTINF:-1,PL: Polsat Play
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70398
+#EXTINF:-1,PL: Polsat Rodzina
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70374
+#EXTINF:-1,PL: Polsat Romans
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70375
+#EXTINF:-1,PL: Polsat Sport
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70422
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70413
+#EXTINF:-1,PL: Polsat Sport Fight
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70433
+#EXTINF:-1,PL: Polsat Sport HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70412
+#EXTINF:-1,PL: Polsat Sport News HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70411
+#EXTINF:-1,PL: Polsat Sport Premium 2
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70424
+#EXTINF:-1,PL: Polsat Viasat Explore HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70354
+#EXTINF:-1,PL: Polsat Viasat History HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70355
+#EXTINF:-1,PL: Polsat Viasat Nature
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70356
+#EXTINF:-1,PL:  Polsat Sport Premium 1
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70423
+#EXTINF:-1,PL: POWER TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70302
+#EXTINF:-1,PL: Puls 2
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70376
+#EXTINF:-1,PL: PULS HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70377
+#EXTINF:-1,PL: Romance TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70378
+#EXTINF:-1,PL: SciFi Universal
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70303
+#EXTINF:-1,PL: Sportklub HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70434
+#EXTINF:-1,PL: STARS.TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70379
+#EXTINF:-1,PL: Stopklatka TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70435
+#EXTINF:-1,PL: Sundance HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70304
+#EXTINF:-1,PL: SUPER POLSAT HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70291
+#EXTINF:-1,PL: Superpolsat
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70290
+#EXTINF:-1,PL: TeleToon  HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70397
+#EXTINF:-1,PL: TLC HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70305
+#EXTINF:-1,PL: TNT HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70306
+#EXTINF:-1,PL: TO!TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70307
+#EXTINF:-1,PL: TRACE TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70406
+#EXTINF:-1,PL: Travel Channel HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70357
+#EXTINF:-1,PL: TTV FHD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70311
+#EXTINF:-1,PL: TTV HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70380
+#EXTINF:-1,PL: TV Puls HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70258
+#EXTINF:-1,PL: TV Republika
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70381
+#EXTINF:-1,PL: TV Trwam
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70382
+#EXTINF:-1,PL: TV4 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70248
+#EXTINF:-1,PL: TV6
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70255
+#EXTINF:-1,PL: TV6 Polska
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70292
+#EXTINF:-1,PL: TVN
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70251
+#EXTINF:-1,PL: TVN 24
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70253
+#EXTINF:-1,PL: TVN 7 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70256
+#EXTINF:-1,PL: TVN Fabula
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70262
+#EXTINF:-1,PL: TVN Fabula HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70264
+#EXTINF:-1,PL: TVN HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70252
+#EXTINF:-1,PL: TVN Style HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70263
+#EXTINF:-1,PL: TVN Turbo HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70383
+#EXTINF:-1,PL: TVN24 BiS HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70265
+#EXTINF:-1,PL: TVN24 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70254
+#EXTINF:-1,PL: TVP 1 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70245
+#EXTINF:-1,PL: TVP ABC
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70257
+#EXTINF:-1,PL: TVP HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70244
+#EXTINF:-1,PL: TVP Historia
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70308
+#EXTINF:-1,PL: TVP INFO
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70250
+#EXTINF:-1,PL: TVP INFO HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70266
+#EXTINF:-1,PL: TVP Kultura
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70259
+#EXTINF:-1,PL: TVP Rozrywka
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70384
+#EXTINF:-1,PL: TVP SERIALE
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70249
+#EXTINF:-1,PL: TVP Sport HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70421
+#EXTINF:-1,PL: TVP2 HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70246
+#EXTINF:-1,PL: TVP3
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70247
+#EXTINF:-1,PL: TVS
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70309
+#EXTINF:-1,PL: Universal HD
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70310
+#EXTINF:-1,PL: VH1
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70407
+#EXTINF:-1,PL: Viasat Nature Polsat
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70438
+#EXTINF:-1,PL: VOD 205
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70385
+#EXTINF:-1,PL: VOD 206
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70386
+#EXTINF:-1,PL: VOD 207
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70387
+#EXTINF:-1,PL: VOD 208
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70388
+#EXTINF:-1,PL: WP
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70286
+#EXTINF:-1,PL: Zoom TV
+http://cms1001.com:8080/2alikati/9f6n3iaGlUer05/70389
