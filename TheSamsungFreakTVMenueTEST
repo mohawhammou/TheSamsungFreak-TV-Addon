@@ -11,9 +11,9 @@
 
 <channels> 
 <channel> 
-<name>[B]Poland TV[/B]</name> 
+<name>[B]----- OFFLINE -----[/B]</name> 
 <thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV-7.m3u</externallink> 
+<externallink>  </externallink> 
 <fanart> </fanart> 
 <info></info> 
 </channel>
