@@ -116,661 +116,660 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream
 #EXTINF:-1,Motorvision TV DE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3181
 #EXTINF:-1,Welt HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/88
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/88
 #EXTINF:-1,N24 Doku DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5415
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5415
 #EXTINF:-1,NDR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/86
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/86
 #EXTINF:-1,National Geographic DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5414
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5414
 #EXTINF:-1,National Geographic HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/87
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/87
 #EXTINF:-1,Nat Geo Wild DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2561
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2561
 #EXTINF:-1,Nickelodeon HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3852
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3852
 #EXTINF:-1,n-tv HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/85
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/85
 #EXTINF:-1,ORF eins HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2559
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2559
 #EXTINF:-1,ORF 2 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2558
 #EXTINF:-1,Phoenix HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3186
 #EXTINF:-1,ProSieben DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3180
 #EXTINF:-1,ProSieben HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/83
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/83
 #EXTINF:-1,ProSieben MAXX HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/82
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/82
 #EXTINF:-1,QVC DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5412
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5412
 #EXTINF:-1,QVC Beauty & Style DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5411
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5411
 #EXTINF:-1,rbb DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5410
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5410
 #EXTINF:-1,rbb HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5409
 #EXTINF:-1,RTL DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/81
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/81
 #EXTINF:-1,RTL II DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9348
 #EXTINF:-1,RTL II HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/79
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/79
 #EXTINF:-1,RTL Crime DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/77
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/77
 #EXTINF:-1,RTL Living HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/76
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/76
 #EXTINF:-1,RTL Nitro HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75
 #EXTINF:-1,RTL Passion HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74
 #EXTINF:-1,RTL plus DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13971
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13971
 #EXTINF:-1,Romance TV DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3177
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3177
 #EXTINF:-1,SAT.1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/72
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/72
 #EXTINF:-1,SAT.1 GOLD HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/71
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/71
 #EXTINF:-1,SAT.1 emotions DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73
 #EXTINF:-1,Servus TV HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/70
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/70
 #EXTINF:-1,Silverline Movie Channel HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5490
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5490
 #EXTINF:-1,SIXX HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/69
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/69
 #EXTINF:-1,Sky Atlantic HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/66
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/66
 #EXTINF:-1,Sky Cinema HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/62
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/62
 #EXTINF:-1,Sky Cinema +1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/65
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/65
 #EXTINF:-1,Sky Cinema +24 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/64
 #EXTINF:-1,Sky Cinema Action HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/67
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/67
 #EXTINF:-1,Sky Cinema Comedy HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/60
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/60
 #EXTINF:-1,Sky Cinema Emotion DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2557
 #EXTINF:-1,Sky Cinema Emotion HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3849
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3849
 #EXTINF:-1,Sky Cinema Family HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/63
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/63
 #EXTINF:-1,Sky Cinema Hits HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2555
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2555
 #EXTINF:-1,Sky Cinema Nostalgie DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3178
 #EXTINF:-1,Sky Krimi DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3179
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3179
 #EXTINF:-1,Sky Popcorn Select 1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8530
 #EXTINF:-1,Sky Popcorn Select 2 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8529
 #EXTINF:-1,Sky Popcorn Select 3 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8528
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8528
 #EXTINF:-1,Sky Popcorn Select 4 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8527
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8527
 #EXTINF:-1,Sky Popcorn Select 5 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8526
 #EXTINF:-1,Sky Popcorn Select 6 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8525
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8525
 #EXTINF:-1,SKY SELECT 1 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12470
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12470
 #EXTINF:-1,Sky Select 1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1339
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1339
 #EXTINF:-1,SKY SELECT 1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12491
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12491
 #EXTINF:-1,SKY SELECT 2 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12469
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12469
 #EXTINF:-1,Sky Select 2 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1338
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1338
 #EXTINF:-1,SKY SELECT 2 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12490
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12490
 #EXTINF:-1,SKY SELECT 3 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12468
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12468
 #EXTINF:-1,Sky Select 3 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1337
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1337
 #EXTINF:-1,SKY SELECT 3 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12489
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12489
 #EXTINF:-1,SKY SELECT 4 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12467
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12467
 #EXTINF:-1,Sky Select 4 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1336
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1336
 #EXTINF:-1,SKY SELECT 4 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12488
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12488
 #EXTINF:-1,SKY SELECT 5 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12466
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12466
 #EXTINF:-1,Sky Select 5 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1335
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1335
 #EXTINF:-1,SKY SELECT 5 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12487
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12487
 #EXTINF:-1,SKY SELECT 6 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12465
 #EXTINF:-1,Sky Select 6 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1334
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1334
 #EXTINF:-1,Sky Select 7 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1333
 #EXTINF:-1,Sky Select 8 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1332
 #EXTINF:-1,Sky Sport 1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12697
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12697
 #EXTINF:-1,Sky Sport 2 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12696
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12696
 #EXTINF:-1,Sky Sport 3 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1323
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1323
 #EXTINF:-1,Sky Sport 4 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1322
 #EXTINF:-1,Sky Sport 5 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12695
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12695
 #EXTINF:-1,Sky Sport 6 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1320
 #EXTINF:-1,Sky Sport 7 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1319
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1319
 #EXTINF:-1,Sky Sport 8 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12694
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12694
 #EXTINF:-1,Sky Sport 9 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8693
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8693
 #EXTINF:-1,Sky Sport Austria HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3176
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3176
 #EXTINF:-1,Sky Sport Bundesliga 1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12700
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12700
 #EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1330
 #EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12699
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12699
 #EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1328
 #EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12698
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12698
 #EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event) DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1326
 #EXTINF:-1,Sky Sport News DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/24381
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/24381
 #EXTINF:-1,Sky Sport News HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/1315
 #EXTINF:-1,Sony TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5433
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5433
 #EXTINF:-1,SPIEGEL Geschichte DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3174
 #EXTINF:-1,Spiegel TV Wissen HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8789
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/8789
 #EXTINF:-1,Sport1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9271
 #EXTINF:-1,SportDigital HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3187
 #EXTINF:-1,SWR DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5403
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5403
 #EXTINF:-1,SWR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5402
 #EXTINF:-1,Syfy DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3173
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3173
 #EXTINF:-1,Tele 5 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3172
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3172
 #EXTINF:-1,TLC DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3171
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3171
 #EXTINF:-1,TNT Comedy HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3848
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3848
 #EXTINF:-1,TNT Film HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4388
 #EXTINF:-1,TNT Serie HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3175
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3175
 #EXTINF:-1,Tom and Jerry HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/10557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/10557
 #EXTINF:-1,Tagesschau 24 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5401
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5401
 #EXTINF:-1,Universal Channel HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3170
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3170
 #EXTINF:-1,VIVA / Comedy Central DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3169
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3169
 #EXTINF:-1,VOX DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/100
 #EXTINF:-1,WDR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2551
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2551
 #EXTINF:-1,WWE DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/7795
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/7795
 #EXTINF:-1,Welt der Wunder DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5399
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5399
 #EXTINF:-1,ZDF FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2550
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2550
 #EXTINF:-1,ZDFinfo DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3856
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3856
 #EXTINF:-1,ZDFneo DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3855
 #EXTINF:-1,Zee One HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/96
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/96
 #EXTINF:-1,RTL Zwei HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75471
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75471
 #EXTINF:-1,RTL Zwei FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75472
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75472
 #EXTINF:-1,ZDFneo HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4172
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4172
 #EXTINF:-1,BR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16002
 #EXTINF:-1,HR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5421
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5421
 #EXTINF:-1,MDR Cringen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73303
 #EXTINF:-1,MDR S-Anhalt FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73301
 #EXTINF:-1,MDR Sachsen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73302
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73302
 #EXTINF:-1,MDR Thuringen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73304
 #EXTINF:-1,SR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9307
 #EXTINF:-1,WDR Aachen HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73305
 #EXTINF:-1,WDR Bonn HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73306
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73306
 #EXTINF:-1,WDR Duisburg HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73307
 #EXTINF:-1,WDR Wuppertal HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73308
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73308
 #EXTINF:-1,Tagesschau 24 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9303
 #EXTINF:-1,Bibel TV HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9341
 #EXTINF:-1,Noa4 Norderstedt FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9330
 #EXTINF:-1,Sonnenklar.TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9332
 #EXTINF:-1,ALEX Berlin DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9301
 #EXTINF:-1,a.tv FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9295
 #EXTINF:-1,Oberpfalz TV DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9287
 #EXTINF:-1,TV Aktuelle DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9276
 #EXTINF:-1,TV Touring DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9274
 #EXTINF:-1,Pearl TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73309
 #EXTINF:-1,Juwelo FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73300
 #EXTINF:-1,RTL FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4184
 #EXTINF:-1,CINE BOX VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75505
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75505
 #EXTINF:-1,CINE 1 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75506
 #EXTINF:-1,CINE 2 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75507
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75507
 #EXTINF:-1,CINE 3 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75508
 #EXTINF:-1,CINE 4 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75509
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75509
 #EXTINF:-1,CINE 5 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75510
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75510
 #EXTINF:-1,Das Erste FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4177
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4177
 #EXTINF:-1,ZDF HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4178
 #EXTINF:-1,RTL II FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3932
 #EXTINF:-1,NITRO FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9334
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9334
 #EXTINF:-1,SAT.1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3929
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3929
 #EXTINF:-1,kabel eins FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4175
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4175
 #EXTINF:-1,VOX FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3920
 #EXTINF:-1,SIXX FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3928
 #EXTINF:-1,arte HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4173
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4173
 #EXTINF:-1,RTL Crime FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/38327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/38327
 #EXTINF:-1,RTL Nitro FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3930
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3930
 #EXTINF:-1,RTL Passion FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73819
 #EXTINF:-1,ProSieben Fun HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74141
 #EXTINF:-1,ProSieben Fun FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6420
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6420
 #EXTINF:-1,ProSieben MAXX FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3933
 #EXTINF:-1,DW DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9309
 #EXTINF:-1,Euronews DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9305
 #EXTINF:-1,n-tv FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3938
 #EXTINF:-1,Puls 8 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9335
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9335
 #EXTINF:-1,One TV HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9306
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9306
 #EXTINF:-1,One TV DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/22362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/22362
 #EXTINF:-1,Zee One FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5397
 #EXTINF:-1,========== DE Kinder ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14013
 #EXTINF:-1,Disney Channel FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3943
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3943
 #EXTINF:-1,Disney Cinemagic FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3942
 #EXTINF:-1,Super RTL FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3923
 #EXTINF:-1,Nickelodeon FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4176
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4176
 #EXTINF:-1,KiKa HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4174
 #EXTINF:-1,Fix und Foxi DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9324
 #EXTINF:-1,========== DE Dokumentarfilm ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14014
 #EXTINF:-1,Crime Investigation+ FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3947
 #EXTINF:-1,A+E DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9329
 #EXTINF:-1,Animal Planet DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3946
 #EXTINF:-1,Animal Planet FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/30026
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/30026
 #EXTINF:-1,Discovery Channel FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3944
 #EXTINF:-1,History FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3940
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3940
 #EXTINF:-1,National Geographic FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3935
 #EXTINF:-1,Nat Geo Wild FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3937
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3937
 #EXTINF:-1,Spiegel TV Wissen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5398
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5398
 #EXTINF:-1,Travel Channel HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9326
 #EXTINF:-1,========== DE Musik ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14015
 #EXTINF:-1,CLASSICA HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/102
 #EXTINF:-1,MTV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9338
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9338
 #EXTINF:-1,MTV Brand New DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9321
 #EXTINF:-1,MTV Hits DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9320
 #EXTINF:-1,MTV ROCKS DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9318
 #EXTINF:-1,XITE DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9312
 #EXTINF:-1,NRJ Hits DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9314
 #EXTINF:-1,NRJ TV DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9315
 #EXTINF:-1,Deluxe Music FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9333
 #EXTINF:-1,Kronehit TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9313
 #EXTINF:-1,VH1 DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9317
 #EXTINF:-1,VH1 Classic DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9316
 #EXTINF:-1,========== DE Cinema ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14016
 #EXTINF:-1,Sky 1 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/68
 #EXTINF:-1,Sky Atlantic FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3926
 #EXTINF:-1,Sky Atlantic +1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4390
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4390
 #EXTINF:-1,Sky Cinema FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3925
 #EXTINF:-1,Sky Cinema +1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4183
 #EXTINF:-1,Sky Cinema +24 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4391
 #EXTINF:-1,Sky Cinema Action FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3927
 #EXTINF:-1,Sky Cinema Family FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4181
 #EXTINF:-1,Sky Cinema Hits FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3924
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3924
 #EXTINF:-1,13th Street FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3948
 #EXTINF:-1,AXN FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3945
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3945
 #EXTINF:-1,FOX FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3941
 #EXTINF:-1,Syfy FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3922
 #EXTINF:-1,TNT Comedy FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4180
 #EXTINF:-1,TNT Film FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/2554
 #EXTINF:-1,TNT Serie FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3921
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3921
 #EXTINF:-1,========== DE Select ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14017
 #EXTINF:-1,Film Club 1 HD DE VIP
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12597
 #EXTINF:-1,Film Club 2 HD DE VIP
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12596
 #EXTINF:-1,Film Club 3 HD DE VIP
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12595
 #EXTINF:-1,Film Club 4 HD DE VIP
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12594
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12594
 #EXTINF:-1,Film Club 5 HD DE VIP
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12593
 #EXTINF:-1,Movies World 1 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12605
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12605
 #EXTINF:-1,Movies World 2 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12604
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12604
 #EXTINF:-1,Movies World 3 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12603
 #EXTINF:-1,Movies World 4 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12602
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12602
 #EXTINF:-1,Movies World Action HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12601
 #EXTINF:-1,Elit Select HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12614
 #EXTINF:-1,Elit Select 1 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12613
 #EXTINF:-1,Elit Select 2 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12612
 #EXTINF:-1,Elit Select 3 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12611
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12611
 #EXTINF:-1,Elit Select 4 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12610
 #EXTINF:-1,Elit Select 5 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12609
 #EXTINF:-1,Elit Select 6 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12608
 #EXTINF:-1,Elit Select 7 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12607
 #EXTINF:-1,Elit Select 8 HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/12606
 #EXTINF:-1,Eagle Cinema Abenteuer HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31959
 #EXTINF:-1,Eagle Cinema Action HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31963
 #EXTINF:-1,Eagle Cinema Animation HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31961
 #EXTINF:-1,Eagle Cinema Drama HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31960
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31960
 #EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31955
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31955
 #EXTINF:-1,Eagle Cinema Horror HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31958
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31958
 #EXTINF:-1,Eagle Cinema KINOSAAL HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31952
 #EXTINF:-1,Eagle Cinema Komodie HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31957
 #EXTINF:-1,Eagle Cinema Lacheln HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31956
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31956
 #EXTINF:-1,Eagle Cinema Premiere HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31964
 #EXTINF:-1,Eagle Cinema Romantisch HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31954
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31954
 #EXTINF:-1,Eagle Cinema Sci-Fi HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31962
 #EXTINF:-1,Eagle Cinema Thriller HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31953
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/31953
 #EXTINF:-1,Orca Movies Kids HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75420
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75420
 #EXTINF:-1,Orca Movies Drama HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75421
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75421
 #EXTINF:-1,Orca Movies Comedy HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75422
 #EXTINF:-1,Orca Movies Horror HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75423
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75423
 #EXTINF:-1,Orca Movies Action HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75424
 #EXTINF:-1,========== DE Sport ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14018
 #EXTINF:-1,DAZN 1 Bar FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16044
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16044
 #EXTINF:-1,DAZN 1 Bar HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/18392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/18392
 #EXTINF:-1,DAZN 2 Bar FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/18393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/18393
 #EXTINF:-1,DAZN 2 Bar HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16045
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16045
 #EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6506
 #EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4387
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4387
 #EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4386
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4386
 #EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4385
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4385
 #EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4384
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4384
 #EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4383
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4383
 #EXTINF:-1,Sky Sport Bundesliga 6 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4382
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4382
 #EXTINF:-1,Sky Sport Bundesliga 7 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4381
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4381
 #EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4380
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4380
 #EXTINF:-1,Sky Sport Bundesliga 9 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4379
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4379
 #EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4378
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4378
 #EXTINF:-1,Sky Sport 1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4377
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4377
 #EXTINF:-1,Sky Sport 2 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4376
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4376
 #EXTINF:-1,Sky Sport 3 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4375
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4375
 #EXTINF:-1,Sky Sport 4 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4374
 #EXTINF:-1,Sky Sport 5 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4373
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4373
 #EXTINF:-1,Sky Sport 6 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4372
 #EXTINF:-1,Sky Sport 7 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4371
 #EXTINF:-1,Sky Sport 9 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4369
 #EXTINF:-1,Sky Sport 10 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4368
 #EXTINF:-1,Sky Sport 11 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4367
 #EXTINF:-1,Sky Sport Austria FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5584
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5584
 #EXTINF:-1,Eurosport 1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9345
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9345
 #EXTINF:-1,Eurosport 2 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9344
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9344
 #EXTINF:-1,Sport1 FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3847
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/3847
 #EXTINF:-1,Sport1+ FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9342
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9342
 #EXTINF:-1,Sport1+ HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/74999
 #EXTINF:-1,eSport1 US HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9336
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9336
 #EXTINF:-1,Sportdigital FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9343
 #EXTINF:-1,Telekom Fussball 1 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15996
 #EXTINF:-1,Telekom Fussball 2 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15995
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15995
 #EXTINF:-1,Telekom Fussball 3 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15994
 #EXTINF:-1,Telekom Fussball 4 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15993
 #EXTINF:-1,Telekom Fussball 5 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15992
 #EXTINF:-1,Telekom Fussball 6 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15991
 #EXTINF:-1,Telekom Fussball 7 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15990
 #EXTINF:-1,Telekom Fussball 8 FHD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/15989
 #EXTINF:-1,FC Bayern TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6492
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/6492
 #EXTINF:-1,Auto Motor und Sport FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9340
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9340
 #EXTINF:-1,Olympic Channel HD VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13797
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/13797
 #EXTINF:-1,========== DE Andere ==========
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/14019
 #EXTINF:-1,ZDFneo HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4172
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4172
 #EXTINF:-1,BR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/16002
 #EXTINF:-1,HR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5421
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/5421
 #EXTINF:-1,MDR Cringen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73303
 #EXTINF:-1,MDR S-Anhalt FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73301
 #EXTINF:-1,MDR Sachsen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73302
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73302
 #EXTINF:-1,MDR Thuringen FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73304
 #EXTINF:-1,SR HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9307
 #EXTINF:-1,WDR Aachen HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73305
 #EXTINF:-1,WDR Bonn HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73306
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73306
 #EXTINF:-1,WDR Duisburg HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73307
 #EXTINF:-1,WDR Wuppertal HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73308
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73308
 #EXTINF:-1,Tagesschau 24 HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9303
 #EXTINF:-1,Bibel TV HD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9341
 #EXTINF:-1,Noa4 Norderstedt FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9330
 #EXTINF:-1,Sonnenklar.TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9332
 #EXTINF:-1,ALEX Berlin DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9301
 #EXTINF:-1,a.tv FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9295
 #EXTINF:-1,Oberpfalz TV DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9287
 #EXTINF:-1,TV Aktuelle DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9276
 #EXTINF:-1,TV Touring DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/9274
 #EXTINF:-1,Pearl TV FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73309
 #EXTINF:-1,Juwelo FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/73300
 #EXTINF:-1,RTL FHD DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/4184
 #EXTINF:-1,CINE BOX VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75505
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75505
 #EXTINF:-1,CINE 1 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75506
 #EXTINF:-1,CINE 2 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75507
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75507
 #EXTINF:-1,CINE 3 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75508
 #EXTINF:-1,CINE 4 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75509
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75509
 #EXTINF:-1,CINE 5 VIP DE
-http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75510
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://restream.geniptv.com:8080/pw27YPKbMu/FJXtBWIDHs/75510
