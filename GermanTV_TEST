@@ -1,257 +1,421 @@
 #EXTM3U
-#EXTINF:-1,|DE|*****SKY DEUTSCHLAND*****|DE|
-http://iptv-luxe.com:8789/1212/1212/435
-#EXTINF:-1,|DE| ARD ALPHA HD
-http://iptv-luxe.com:8789/1212/1212/590
-#EXTINF:-1,|DE| ZDF HD
-http://iptv-luxe.com:8789/1212/1212/468
-#EXTINF:-1,|DE| PROSIEBEN
-http://iptv-luxe.com:8789/1212/1212/471
-#EXTINF:-1,|DE| SAT 1 HD
-http://iptv-luxe.com:8789/1212/1212/472
-#EXTINF:-1,|DE| RTL HD
-http://iptv-luxe.com:8789/1212/1212/469
-#EXTINF:-1,|DE| RTL 2
-http://iptv-luxe.com:8789/1212/1212/470
-#EXTINF:-1,|DE| RTL Nitro
-http://iptv-luxe.com:8789/1212/1212/1458
-#EXTINF:-1,|DE| RTL PLUS
-http://iptv-luxe.com:8789/1212/1212/1421
-#EXTINF:-1,|DE| RTL2 HD
-http://iptv-luxe.com:8789/1212/1212/1459
-#EXTINF:-1,|DE| SIXX HD
-http://iptv-luxe.com:8789/1212/1212/1993
-#EXTINF:-1,|DE| ARTE TV
-http://iptv-luxe.com:8789/1212/1212/11874
-#EXTINF:-1,|DE| KABEL EINS
-http://iptv-luxe.com:8789/1212/1212/474
-#EXTINF:-1,|DE| VOX
-http://iptv-luxe.com:8789/1212/1212/473
-#EXTINF:-1,|DE| Super RTL
-http://iptv-luxe.com:8789/1212/1212/1999
-#EXTINF:-1,|DE| DAS ERSTE HD
-http://iptv-luxe.com:8789/1212/1212/467
-#EXTINF:-1,|DE| PRO 7 MAXX
-http://iptv-luxe.com:8789/1212/1212/1460
-#EXTINF:-1,Virgin_Radio-TV
-http://iptv-luxe.com:8789/1212/1212/599
-#EXTINF:-1,|DE| ANIXE SERIE HD
-http://iptv-luxe.com:8789/1212/1212/594
-#EXTINF:-1,|DE| AXN HD
-http://iptv-luxe.com:8789/1212/1212/544
-#EXTINF:-1,|DE| FOX HD
-http://iptv-luxe.com:8789/1212/1212/550
-#EXTINF:-1,|DE| KINOWELT
-http://iptv-luxe.com:8789/1212/1212/1461
-#EXTINF:-1,|DE| ANIXE HD
-http://iptv-luxe.com:8789/1212/1212/592
-#EXTINF:-1,|DE| N-TV
-http://iptv-luxe.com:8789/1212/1212/684
-#EXTINF:-1,|DE| ZDF INFO
-http://iptv-luxe.com:8789/1212/1212/685
-#EXTINF:-1,|DE|*****KINO*****|DE|
-http://iptv-luxe.com:8789/1212/1212/475
-#EXTINF:-1,|DE| SKY CINEMA HD
-http://iptv-luxe.com:8789/1212/1212/745
-#EXTINF:-1,|DE| SKY CINEMA
-http://iptv-luxe.com:8789/1212/1212/476
-#EXTINF:-1,|DE| SKY CINEMA +24 HD
-http://iptv-luxe.com:8789/1212/1212/477
-#EXTINF:-1,|DE|SKY CINEMA+1HD
-http://iptv-luxe.com:8789/1212/1212/773
-#EXTINF:-1,|DE| SKY CINEMA ACTION HD
-http://iptv-luxe.com:8789/1212/1212/747
-#EXTINF:-1,|DE| SKY CINEMA ACTION
-http://iptv-luxe.com:8789/1212/1212/478
-#EXTINF:-1,AXN_ACTION.HD
-http://iptv-luxe.com:8789/1212/1212/746
-#EXTINF:-1,|DE| SKY CINEMA COMEDY HD
-http://iptv-luxe.com:8789/1212/1212/708
-#EXTINF:-1,|DE| SKY CINEMA FAMILY
-http://iptv-luxe.com:8789/1212/1212/1994
-#EXTINF:-1,MGM_DE
-http://iptv-luxe.com:8789/1212/1212/710
-#EXTINF:-1,|DE| SKY CINEMA EMOTION HD
-http://iptv-luxe.com:8789/1212/1212/547
-#EXTINF:-1,|DE| SKY CINEMA HITS
-http://iptv-luxe.com:8789/1212/1212/709
-#EXTINF:-1,|DE| SKY CINEMA HITS HD
-http://iptv-luxe.com:8789/1212/1212/536
-#EXTINF:-1,|DE| UNIVERSAL HD
-http://iptv-luxe.com:8789/1212/1212/9008
-#EXTINF:-1,|DE| TNT FILM FHD
-http://iptv-luxe.com:8789/1212/1212/548
-#EXTINF:-1,|DE| TNT COMEDY HD
-http://iptv-luxe.com:8789/1212/1212/2000
-#EXTINF:-1,|DE| HEIMATKANAL
-http://iptv-luxe.com:8789/1212/1212/6364
-#EXTINF:-1,|DE|*****PPV*****|DE|
-http://iptv-luxe.com:8789/1212/1212/563
-#EXTINF:-1,|DE| SKY SELECT HD1
-http://iptv-luxe.com:8789/1212/1212/554
-#EXTINF:-1,|DE| SKY SELECT HD2
-http://iptv-luxe.com:8789/1212/1212/556
-#EXTINF:-1,|DE| SKY SELECT HD3
-http://iptv-luxe.com:8789/1212/1212/557
-#EXTINF:-1,|DE| SKY SELECT HD4
-http://iptv-luxe.com:8789/1212/1212/558
-#EXTINF:-1,|DE| SKY SELECT HD5
-http://iptv-luxe.com:8789/1212/1212/560
-#EXTINF:-1,|DE| SKY SELECT HD6
-http://iptv-luxe.com:8789/1212/1212/561
-#EXTINF:-1,|DE| SKY SELECT HD7
-http://iptv-luxe.com:8789/1212/1212/562
-#EXTINF:-1,|DE| SKY SELECT HD8
-http://iptv-luxe.com:8789/1212/1212/564
-#EXTINF:-1,|DE| SKY SELECT 9HD
-http://iptv-luxe.com:8789/1212/1212/759
-#EXTINF:-1,|DE| SKY SELECT 10HD
-http://iptv-luxe.com:8789/1212/1212/760
-#EXTINF:-1,|DE|*****UNTERHALTUNG*****|DE|
-http://iptv-luxe.com:8789/1212/1212/559
-#EXTINF:-1,|DE| SKY ARTS FHD
-http://iptv-luxe.com:8789/1212/1212/1996
-#EXTINF:-1,|DE| SYFY HD
-http://iptv-luxe.com:8789/1212/1212/742
-#EXTINF:-1,|DE| SYFY
-http://iptv-luxe.com:8789/1212/1212/1995
-#EXTINF:-1,|DE| E!
-http://iptv-luxe.com:8789/1212/1212/2001
-#EXTINF:-1,|DE| TLC
-http://iptv-luxe.com:8789/1212/1212/2141
-#EXTINF:-1,|DE| SKY ATLANTIC  HD
-http://iptv-luxe.com:8789/1212/1212/537
-#EXTINF:-1,|DE| SKY KRIMI
-http://iptv-luxe.com:8789/1212/1212/9007
-#EXTINF:-1,|DE| 13TH STREET
-http://iptv-luxe.com:8789/1212/1212/542
-#EXTINF:-1,|DE| 13TH STREET HD
-http://iptv-luxe.com:8789/1212/1212/549
-#EXTINF:-1,|DE| TNT SERIES
-http://iptv-luxe.com:8789/1212/1212/711
-#EXTINF:-1,|DE| SAT1 GOLD HD
-http://iptv-luxe.com:8789/1212/1212/9009
-#EXTINF:-1,|DE| RTL PASSION
-http://iptv-luxe.com:8789/1212/1212/713
-#EXTINF:-1,|DE| RTL LIVING
-http://iptv-luxe.com:8789/1212/1212/714
-#EXTINF:-1,|DE| RTL CRIME HD
-http://iptv-luxe.com:8789/1212/1212/715
-#EXTINF:-1,|DE| ROMANCE TV
-http://iptv-luxe.com:8789/1212/1212/712
-#EXTINF:-1,|DE|*****SPORT*****|DE|
-http://iptv-luxe.com:8789/1212/1212/504
-#EXTINF:-1,|DE| SKY SPORT NEWS HD
-http://iptv-luxe.com:8789/1212/1212/570
-#EXTINF:-1,|DE| SKY SPORT 1 FHD
-http://iptv-luxe.com:8789/1212/1212/17240
-#EXTINF:-1,|DE| SKY SPORT 1
-http://iptv-luxe.com:8789/1212/1212/505
-#EXTINF:-1,|DE|SKY SPORT 2
-http://iptv-luxe.com:8789/1212/1212/506
-#EXTINF:-1,|DE|SKY SPORT 2HD
-http://iptv-luxe.com:8789/1212/1212/734
-#EXTINF:-1,|DE| SKY SPORT 3HD
-http://iptv-luxe.com:8789/1212/1212/9014
-#EXTINF:-1,|DE| SKY SPORT 4HD
-http://iptv-luxe.com:8789/1212/1212/9015
-#EXTINF:-1,|DE| SKY SPORT 5HD
-http://iptv-luxe.com:8789/1212/1212/9016
-#EXTINF:-1,|DE| SKY SPORT 6HD
-http://iptv-luxe.com:8789/1212/1212/9017
-#EXTINF:-1,|DE| SKY SPORT 7HD
-http://iptv-luxe.com:8789/1212/1212/9018
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1HD
-http://iptv-luxe.com:8789/1212/1212/432
-#EXTINF:-1,|DE| SKY BUNDESLIGA 2HD
-http://iptv-luxe.com:8789/1212/1212/431
-#EXTINF:-1,|DE| SKY BUNDESLIGA 3HD
-http://iptv-luxe.com:8789/1212/1212/430
-#EXTINF:-1,|DE| SKY BUNDESLIGA 4HD
-http://iptv-luxe.com:8789/1212/1212/9010
-#EXTINF:-1,|DE| SKY BUNDESLIGA 5HD
-http://iptv-luxe.com:8789/1212/1212/9011
-#EXTINF:-1,|DE| SKY BUNDESLIGA 6HD
-http://iptv-luxe.com:8789/1212/1212/9012
-#EXTINF:-1,|DE| SKY BUNDESLIGA 7HD
-http://iptv-luxe.com:8789/1212/1212/9013
-#EXTINF:-1,|DE| Telekom Fussball 1
-http://iptv-luxe.com:8789/1212/1212/30801
-#EXTINF:-1,|DE| Telekom Fussball 2
-http://iptv-luxe.com:8789/1212/1212/30802
-#EXTINF:-1,|DE| Telekom Fussball 3
-http://iptv-luxe.com:8789/1212/1212/30803
-#EXTINF:-1,|DE| Telekom Fussball 4
-http://iptv-luxe.com:8789/1212/1212/30804
-#EXTINF:-1,|DE| Telekom Fussball 5
-http://iptv-luxe.com:8789/1212/1212/30805
-#EXTINF:-1,|DE| Telekom Fussball 6
-http://iptv-luxe.com:8789/1212/1212/30806
-#EXTINF:-1,|DE| Telekom Fussball 7
-http://iptv-luxe.com:8789/1212/1212/30807
-#EXTINF:-1,|DE| Telekom Fussball 8
-http://iptv-luxe.com:8789/1212/1212/30808
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://iptv-luxe.com:8789/1212/1212/546
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://iptv-luxe.com:8789/1212/1212/1462
-#EXTINF:-1,|DE| SPORT 1
-http://iptv-luxe.com:8789/1212/1212/1998
-#EXTINF:-1,|DE| SPORT 1+  HD
-http://iptv-luxe.com:8789/1212/1212/1997
-#EXTINF:-1,|DE| AUTO MOTOR SPORT
-http://iptv-luxe.com:8789/1212/1212/717
-#EXTINF:-1,|DE|*****KULTUR*****|DE|
-http://iptv-luxe.com:8789/1212/1212/540
-#EXTINF:-1,|DE| DISCOVERY HD
-http://iptv-luxe.com:8789/1212/1212/552
-#EXTINF:-1,|DE| NATIONAL GEOGRAPHIC HD
-http://iptv-luxe.com:8789/1212/1212/743
-#EXTINF:-1,|DE| ANIMAL PLANET HD
-http://iptv-luxe.com:8789/1212/1212/538
-#EXTINF:-1,|DE| NAT GEO WILD HD
-http://iptv-luxe.com:8789/1212/1212/543
-#EXTINF:-1,|DE| SKY ARTS HD
-http://iptv-luxe.com:8789/1212/1212/744
-#EXTINF:-1,|DE|Sky_Discovery
-http://iptv-luxe.com:8789/1212/1212/539
-#EXTINF:-1,|DE| DMAX HD
-http://iptv-luxe.com:8789/1212/1212/555
-#EXTINF:-1,|DE| HISTORY HD
-http://iptv-luxe.com:8789/1212/1212/545
-#EXTINF:-1,|DE| SPIEGEL GESCHICHTE
-http://iptv-luxe.com:8789/1212/1212/9019
-#EXTINF:-1,|DE| SPIEGEL TV WISSEN
-http://iptv-luxe.com:8789/1212/1212/569
-#EXTINF:-1,|DE| A&E
-http://iptv-luxe.com:8789/1212/1212/568
-#EXTINF:-1,|DE|*****NIEUWS*****|DE|
-http://iptv-luxe.com:8789/1212/1212/572
-#EXTINF:-1,HSE24
-http://iptv-luxe.com:8789/1212/1212/595
-#EXTINF:-1,|DE|DW
-http://iptv-luxe.com:8789/1212/1212/573
-#EXTINF:-1,|DE| N24
-http://iptv-luxe.com:8789/1212/1212/574
-#EXTINF:-1,|DE| AUSTRIA-24.TV
-http://iptv-luxe.com:8789/1212/1212/593
-#EXTINF:-1,|DE|*****KINDER*****|DE|
-http://iptv-luxe.com:8789/1212/1212/565
-#EXTINF:-1,|DE| DISNEY CINEMAGIC HD
-http://iptv-luxe.com:8789/1212/1212/720
-#EXTINF:-1,|DE| DISNEY XD
-http://iptv-luxe.com:8789/1212/1212/719
-#EXTINF:-1,|DE| JUNIOR
-http://iptv-luxe.com:8789/1212/1212/718
-#EXTINF:-1,|DE|Nickelodeon
-http://iptv-luxe.com:8789/1212/1212/566
-#EXTINF:-1,|DE| BOOMERANG
-http://iptv-luxe.com:8789/1212/1212/1467
-#EXTINF:-1,|DE| CARTOON NETWORK
-http://iptv-luxe.com:8789/1212/1212/1466
-#EXTINF:-1,|DE| DISNEY CHANNEL
-http://iptv-luxe.com:8789/1212/1212/1465
-#EXTINF:-1,|DE| DISNEY JUNIOR
-http://iptv-luxe.com:8789/1212/1212/1463
-#EXTINF:-1,|DE| KIKA HD
-http://iptv-luxe.com:8789/1212/1212/567
+#EXTINF:-1,ARD Das Erste 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9763
+#EXTINF:-1,ZDF 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15956
+#EXTINF:-1,RTL 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9902
+#EXTINF:-1,Sat 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9913
+#EXTINF:-1,Prosieben 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9904
+#EXTINF:-1,Vox 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9911
+#EXTINF:-1,Kabel 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9908
+#EXTINF:-1,Sixx 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9912
+#EXTINF:-1,Tele 5 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9897
+#EXTINF:-1,RTL Nitro 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9901
+#EXTINF:-1,ProSieben MAXX 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9903
+#EXTINF:-1,Sat 1 Gold 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9900
+#EXTINF:-1,Zee One 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15937
+#EXTINF:-1,3sat 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15951
+#EXTINF:-1,Arte 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15954
+#EXTINF:-1,ZDF Info 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15932
+#EXTINF:-1,ZDF Neo 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15957
+#EXTINF:-1,BR 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16143
+#EXTINF:-1,HR 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16151
+#EXTINF:-1,WDR 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16150
+#EXTINF:-1,MDR 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16153
+#EXTINF:-1,SWR 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16464
+#EXTINF:-1,RTL Zwei 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16225
+#EXTINF:-1,NDR 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9895
+#EXTINF:-1,Anixe 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/25320
+#EXTINF:-1,ATV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/25322
+#EXTINF:-1,RTL Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15998
+#EXTINF:-1,Tagesschau 24 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16154
+#EXTINF:-1,WELT 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9915
+#EXTINF:-1,NTV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/356
+#EXTINF:-1,Phoenix 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16142
+#EXTINF:-1,Welt der Wunder
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16031
+#EXTINF:-1,ORF 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/164
+#EXTINF:-1,München TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16014
+#EXTINF:-1,QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15979
+#EXTINF:-1,QVC Beauty & Style
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15972
+#EXTINF:-1,Sonnenklar TV 4k+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15980
+#EXTINF:-1,Nickelodeon 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9905
+#EXTINF:-1,Kika 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15952
+#EXTINF:-1,Super RTL 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9898
+#EXTINF:-1,Disney Channel 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9910
+#EXTINF:-1,Disney Junior 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15958
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16271
+#EXTINF:-1,Disney XD 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16081
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16053
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/38185
+#EXTINF:-1,TOGGO plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15994
+#EXTINF:-1,Tom & Jerry TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46347
+#EXTINF:-1,MTV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9907
+#EXTINF:-1,Deluxe Music 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9916
+#EXTINF:-1,Jukebox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16104
+#EXTINF:-1,Classica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16079
+#EXTINF:-1,Viva / Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/10101
+#EXTINF:-1,Genius Teleshopping 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16155
+#EXTINF:-1,Sky Cinema 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15915
+#EXTINF:-1,Sky Cinema +1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15916
+#EXTINF:-1,Sky Cinema +24 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15917
+#EXTINF:-1,Sky Cinema Hits 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15919
+#EXTINF:-1,Sky Cinema Action 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15920
+#EXTINF:-1,Sky Cinema Family 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/33938
+#EXTINF:-1,Sky Atlantic 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15934
+#EXTINF:-1,TNT Film 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16286
+#EXTINF:-1,TNT Serie 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15940
+#EXTINF:-1,TNT Comedy 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15941
+#EXTINF:-1,Universal TV 4K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15924
+#EXTINF:-1,SYFY 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15922
+#EXTINF:-1,Fox 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15939
+#EXTINF:-1,13th Street 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15923
+#EXTINF:-1,RTL Crime 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16465
+#EXTINF:-1,Sky Cinema Comedy 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16239
+#EXTINF:-1,Sony TV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/7632
+#EXTINF:-1,Sky Cinema Emotion 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16235
+#EXTINF:-1,Sky Select 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/548
+#EXTINF:-1,Sky Select 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/549
+#EXTINF:-1,Sky Select 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/550
+#EXTINF:-1,Sky Select 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/543
+#EXTINF:-1,Sky Select 5 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/892
+#EXTINF:-1,Sky Select 6 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/893
+#EXTINF:-1,Sky Select 7 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/894
+#EXTINF:-1,Sky Select 8 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/895
+#EXTINF:-1,Sony AXN 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/13868
+#EXTINF:-1,Prosieben Fun 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/28627
+#EXTINF:-1,RTL Living 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/6312
+#EXTINF:-1,Kabel 1 Classics 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15962
+#EXTINF:-1,Sky 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/37450
+#EXTINF:-1,Sky Cinema Nostalgie 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16052
+#EXTINF:-1,Sky Krimi 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16043
+#EXTINF:-1,Kinowelt TV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16049
+#EXTINF:-1,Heimatkanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16058
+#EXTINF:-1,Romance TV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16101
+#EXTINF:-1,RTL Passion 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16045
+#EXTINF:-1,DAZN Bar 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/37069
+#EXTINF:-1,DAZN Bar 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/37070
+#EXTINF:-1,Telekom Bundesliga 3 - 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46608
+#EXTINF:-1,Telekom Bundesliga 3 - 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46609
+#EXTINF:-1,Telekom Bundesliga 3 - 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46610
+#EXTINF:-1,Telekom Bundesliga 3 - 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46611
+#EXTINF:-1,Telekom Bundesliga 3 - 5 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46612
+#EXTINF:-1,Telekom Bundesliga 3 - 6 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46613
+#EXTINF:-1,Telekom Bundesliga 3 - 7 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46614
+#EXTINF:-1,Telekom Bundesliga 3 - 8 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46615
+#EXTINF:-1,Telekom DEL Sport 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46597
+#EXTINF:-1,Telekom DEL Sport 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46598
+#EXTINF:-1,Telekom DEL Sport 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46599
+#EXTINF:-1,Telekom DEL Sport 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46600
+#EXTINF:-1,Telekom DEL Sport 5 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46601
+#EXTINF:-1,Telekom DEL Sport 6 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46602
+#EXTINF:-1,Telekom DEL Sport 7 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46603
+#EXTINF:-1,Telekom Eishockey 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46590
+#EXTINF:-1,Telekom Eishockey 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46591
+#EXTINF:-1,Telekom Eishockey 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46592
+#EXTINF:-1,Telekom Eishockey 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46593
+#EXTINF:-1,Telekom Eishockey 5 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46594
+#EXTINF:-1,Telekom Eishockey 6 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46595
+#EXTINF:-1,Telekom Eishockey 7 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46596
+#EXTINF:-1,Telekom Sky Sport Kompakt 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46616
+#EXTINF:-1,Telekom Sky Sport Kompakt 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46617
+#EXTINF:-1,Telekom Sky Sport Kompakt 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46618
+#EXTINF:-1,Telekom Sky Sport Kompakt 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46619
+#EXTINF:-1,Telekom Sport BBL Sport 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46604
+#EXTINF:-1,Telekom Sport BBL Sport 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46605
+#EXTINF:-1,Telekom Sport BBL Sport 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46606
+#EXTINF:-1,Telekom Sport BBL Sport 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/46607
+#EXTINF:-1,Sport1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9899
+#EXTINF:-1,Sport1+ 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15929
+#EXTINF:-1,Eurosport 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15927
+#EXTINF:-1,Eurosport 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15928
+#EXTINF:-1,Eurosport 2 Extra 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/26504
+#EXTINF:-1,Sport Digital 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/28626
+#EXTINF:-1,Motorvision 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16103
+#EXTINF:-1,Sky Sport Sport Bundesliga 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15944
+#EXTINF:-1,Sky Bundesliga 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/181
+#EXTINF:-1,Sky Bundesliga 1 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27389
+#EXTINF:-1,Sky Bundesliga 1 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27419
+#EXTINF:-1,Sky Bundesliga 1 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27436
+#EXTINF:-1,Sky Bundesliga 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16107
+#EXTINF:-1,Sky Bundesliga 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16083
+#EXTINF:-1,Sky Bundesliga 2 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27388
+#EXTINF:-1,Sky Bundesliga 2 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27418
+#EXTINF:-1,Sky Bundesliga 2 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27435
+#EXTINF:-1,Sky Bundesliga 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16085
+#EXTINF:-1,Sky Bundesliga 3 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27387
+#EXTINF:-1,Sky Bundesliga 3 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27417
+#EXTINF:-1,Sky Bundesliga 3 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27434
+#EXTINF:-1,Sky Bundesliga 4 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16087
+#EXTINF:-1,Sky Bundesliga 4 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27386
+#EXTINF:-1,Sky Bundesliga 4 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27416
+#EXTINF:-1,Sky Bundesliga 4 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27433
+#EXTINF:-1,Sky Bundesliga 5 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16089
+#EXTINF:-1,Sky Bundesliga 5 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27385
+#EXTINF:-1,Sky Bundesliga 5 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27415
+#EXTINF:-1,Sky Bundesliga 5 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27432
+#EXTINF:-1,Sky Bundesliga 6 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16091
+#EXTINF:-1,Sky Bundesliga 6 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27384
+#EXTINF:-1,Sky Bundesliga 6 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27414
+#EXTINF:-1,Sky Bundesliga 6 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27431
+#EXTINF:-1,Sky Bundesliga 7 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16067
+#EXTINF:-1,Sky Bundesliga 7 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27383
+#EXTINF:-1,Sky Bundesliga 7 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27413
+#EXTINF:-1,Sky Bundesliga 7 HD+ (Backup 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27430
+#EXTINF:-1,Sky Bundesliga 8 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16069
+#EXTINF:-1,Sky Bundesliga 8 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27382
+#EXTINF:-1,Sky Bundesliga 8 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27412
+#EXTINF:-1,Sky Bundesliga 9 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16071
+#EXTINF:-1,Sky Bundesliga 9 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27381
+#EXTINF:-1,Sky Bundesliga 9 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27411
+#EXTINF:-1,Sky Bundesliga 10 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16093
+#EXTINF:-1,Sky Bundesliga 10 HD+ (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27410
+#EXTINF:-1,Sky Sport News 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15946
+#EXTINF:-1,Sky Sport Austria 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15926
+#EXTINF:-1,Sky Sport 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/28546
+#EXTINF:-1,Sky Sport 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15943
+#EXTINF:-1,Sky Sport 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/182
+#EXTINF:-1,Sky Sport 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/183
+#EXTINF:-1,Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16047
+#EXTINF:-1,Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16066
+#EXTINF:-1,Sky Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16084
+#EXTINF:-1,Sky Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16086
+#EXTINF:-1,Sky Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16088
+#EXTINF:-1,Sky Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16090
+#EXTINF:-1,Sky Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16092
+#EXTINF:-1,Sky Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16068
+#EXTINF:-1,Sky Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16070
+#EXTINF:-1,Sky Sport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16072
+#EXTINF:-1,Sky Sport 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16094
+#EXTINF:-1,DE - SKY Sport 1 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27429
+#EXTINF:-1,DE - SKY Sport 2 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27428
+#EXTINF:-1,DE - SKY Sport 3 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27427
+#EXTINF:-1,DE - SKY Sport 4 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27426
+#EXTINF:-1,DE - SKY Sport 5 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27425
+#EXTINF:-1,DE - SKY Sport 6 HD+ (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27424
+#EXTINF:-1,DE - SKY Sport 7 HD+  (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27423
+#EXTINF:-1,DE - SKY Sport 8 HD+  (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27422
+#EXTINF:-1,DE - SKY Sport 9 HD+  (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27421
+#EXTINF:-1,DE - SKY Sport 10 HD+  (Backup 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27420
+#EXTINF:-1,DE - Sky Sports 1 HD+  (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27438
+#EXTINF:-1,DE - Sky Sports 2 HD+  (Backup 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/27437
+#EXTINF:-1,Discovery Channel 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15948
+#EXTINF:-1,National Geographic 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15949
+#EXTINF:-1,History Channel 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15950
+#EXTINF:-1,Spiegel Geschichte 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15955
+#EXTINF:-1,DMAX 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9909
+#EXTINF:-1,TLC 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/9896
+#EXTINF:-1,E! 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15938
+#EXTINF:-1,Sky Arts 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15936
+#EXTINF:-1,Discovery Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16243
+#EXTINF:-1,Nat Geo Wild 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16245
+#EXTINF:-1,Animal Planet 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16270
+#EXTINF:-1,Nat Geo People 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/16274
+#EXTINF:-1,kabel 1 Doku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://Jb.worldip.nl:1339/burak/burak/15969
