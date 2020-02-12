@@ -11,9 +11,18 @@
 
 <channels> 
 <channel> 
-<name>[B]Bein Sport[/B]</name> 
+<name>[B]  [/B]</name> 
 <thumbnail>  </thumbnail> 
-<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/Bein_Sport.m3u</externallink> 
+<externallink>  </externallink> 
+<fanart> </fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Poland[/B]</name> 
+<thumbnail> </thumbnail> 
+<externallink>  </externallink> 
 <fanart> </fanart> 
 <info></info> 
 </channel>
@@ -25,6 +34,24 @@
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/Turkey-TV/master/Turkey1.m3u</externallink>
 <fanart></fanart>
 <info></info>
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]USA[/B]</name> 
+<thumbnail> </thumbnail> 
+<externallink>  </externallink> 
+<fanart> </fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]  [/B]</name> 
+<thumbnail> </thumbnail> 
+<externallink>  </externallink> 
+<fanart> </fanart> 
+<info></info> 
 </channel>
 
 <channels>
