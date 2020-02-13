@@ -20,15 +20,6 @@
 
 <channels> 
 <channel> 
-<name>[B]  [/B]</name> 
-<thumbnail>  </thumbnail> 
-<externallink>  </externallink> 
-<fanart> </fanart> 
-<info></info> 
-</channel>
-
-<channels> 
-<channel> 
 <name>[B]Poland[/B]</name> 
 <thumbnail> </thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/PolandTV.m3u</externallink> 
