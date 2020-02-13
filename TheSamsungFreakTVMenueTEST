@@ -2,6 +2,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Arabic[/B]</name> 
+<thumbnail> </thumbnail> 
+<externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/Arabic.m3u</externallink> 
+<fanart> </fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Belgium[/B]</name> 
 <thumbnail> </thumbnail> 
 <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/Belgium.m3u</externallink> 
